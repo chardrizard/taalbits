@@ -63,6 +63,13 @@
     "color": "#9A6B4F"
   },
   {
+    "id": "leggen",
+    "label": "-leggen",
+    "description": "aanleggen · uitleggen · opleggen · vastleggen",
+    "emoji": "🧱",
+    "color": "#8C6A4A"
+  },
+  {
     "id": "preposities",
     "label": "Preposities",
     "description": "wachten op · denken aan · zorgen voor · houden van",
