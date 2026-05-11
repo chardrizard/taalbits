@@ -1,4 +1,4 @@
-const CACHE_NAME = "taalbits-v4";
+const CACHE_NAME = "taalbits-v5";
 const APP_SHELL = [
   ".",
   "index.html",
@@ -20,6 +20,7 @@ const APP_SHELL = [
   "data/krijgen.json",
   "data/werken.json",
   "data/doen.json",
+  "data/leggen.json",
   "data/preposities.json"
 ];
 
