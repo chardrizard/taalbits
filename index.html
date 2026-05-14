@@ -28,7 +28,7 @@
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-:root{--bg:#0F1117;--surface:#181A20;--surface-2:#1E2028;--surface-3:#252830;--ink:#E8E9ED;--ink-2:#A0A3AD;--ink-3:#6B6F7B;--ink-4:#3E414B;--border:rgba(255,255,255,0.06);--border-2:rgba(255,255,255,0.10);--correct:#2D6A4F;--correct-bg:rgba(45,106,79,0.12);--correct-border:rgba(45,106,79,0.4);--wrong:#C44536;--wrong-bg:rgba(196,69,54,0.12);--wrong-border:rgba(196,69,54,0.4);--radius:12px;--radius-lg:16px;--font:'DM Sans',system-ui,sans-serif;--mono:'DM Mono',monospace;--hint-color:rgba(180,190,210,0.85);--hint-bg:rgba(180,190,210,0.06);--hint-border:rgba(180,190,210,0.12);--hint-bg-hover:rgba(180,190,210,0.10);--hint-border-hover:rgba(180,190,210,0.18);--focus-ring:rgba(120,160,255,0.6);--safe-top:env(safe-area-inset-top, 0px);--safe-bottom:env(safe-area-inset-bottom, 0px);--quiz-footer-height:82px;--app-height:100svh}
+:root{--bg:#0F1117;--surface:#181A20;--surface-2:#1E2028;--surface-3:#252830;--ink:#E8E9ED;--ink-2:#A0A3AD;--ink-3:#6B6F7B;--ink-4:#3E414B;--border:rgba(255,255,255,0.06);--border-2:rgba(255,255,255,0.10);--correct:#2D6A4F;--correct-bg:rgba(45,106,79,0.12);--correct-border:rgba(45,106,79,0.4);--wrong:#C44536;--wrong-bg:rgba(196,69,54,0.12);--wrong-border:rgba(196,69,54,0.4);--radius:12px;--radius-lg:16px;--font:'DM Sans',system-ui,sans-serif;--mono:'DM Mono',monospace;--hint-color:rgba(180,190,210,0.85);--hint-bg:rgba(180,190,210,0.06);--hint-border:rgba(180,190,210,0.12);--hint-bg-hover:rgba(180,190,210,0.10);--hint-border-hover:rgba(180,190,210,0.18);--focus-ring:rgba(120,160,255,0.6);--safe-top:env(safe-area-inset-top, 0px);--safe-bottom-raw:env(safe-area-inset-bottom, 0px);--safe-bottom-max:34px;--safe-bottom:min(var(--safe-bottom-raw),var(--safe-bottom-max));--quiz-footer-height:82px;--app-height:100svh}
 html{font-size:16px;-webkit-text-size-adjust:100%}
 html{height:100%;height:-webkit-fill-available;overflow:hidden}
 body{font-family:var(--font);background:var(--bg);color:var(--ink);height:100vh;height:var(--app-height);min-height:var(--app-height);overflow:hidden;-webkit-font-smoothing:antialiased}
@@ -268,6 +268,15 @@ function esc(str){
   d.appendChild(document.createTextNode(str));
   return d.innerHTML;
 }
+
+function setAppHeight(){
+  var height=window.visualViewport?window.visualViewport.height:window.innerHeight;
+  if(height>0)document.documentElement.style.setProperty("--app-height",height+"px");
+}
+setAppHeight();
+window.addEventListener("resize",setAppHeight,{passive:true});
+window.addEventListener("orientationchange",function(){setAppHeight();setTimeout(setAppHeight,250)});
+if(window.visualViewport)window.visualViewport.addEventListener("resize",setAppHeight,{passive:true});
 
 const KEYS=["A","B","C","D"];
 const KEY_MAP={a:0,b:1,c:2,d:3,"1":0,"2":1,"3":2,"4":3};
