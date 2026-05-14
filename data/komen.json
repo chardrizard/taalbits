@@ -2241,7 +2241,12 @@
   },
   {
     "sentence": "De trein is tien minuten te laat ___.",
-    "options": ["aangekomen", "opgekomen", "bijgekomen", "uitgekomen"],
+    "options": [
+      "aangekomen",
+      "opgekomen",
+      "bijgekomen",
+      "uitgekomen"
+    ],
     "correct": 0,
     "explanation": "'Aankomen' = ergens arriveren. De trein arriveerde tien minuten te laat.",
     "wrongExplanations": {
@@ -2256,7 +2261,12 @@
   },
   {
     "sentence": "Het geheim is uiteindelijk ___.",
-    "options": ["uitgekomen", "aangekomen", "bijgekomen", "opgekomen"],
+    "options": [
+      "uitgekomen",
+      "aangekomen",
+      "bijgekomen",
+      "opgekomen"
+    ],
     "correct": 0,
     "explanation": "'Uitkomen' = aan het licht komen, openbaar worden. Het geheim werd onthuld.",
     "wrongExplanations": {
@@ -2271,7 +2281,12 @@
   },
   {
     "sentence": "Na een uur is ze eindelijk ___.",
-    "options": ["bijgekomen", "aangekomen", "uitgekomen", "opgekomen"],
+    "options": [
+      "bijgekomen",
+      "aangekomen",
+      "uitgekomen",
+      "opgekomen"
+    ],
     "correct": 0,
     "explanation": "'Bijkomen' = herstellen van flauwvallen of verdoving. Ze was bewusteloos en is weer bij bewustzijn.",
     "wrongExplanations": {
@@ -2286,7 +2301,12 @@
   },
   {
     "sentence": "Tijdens de wandeling is er een goed idee bij hem ___.",
-    "options": ["opgekomen", "aangekomen", "bijgekomen", "uitgekomen"],
+    "options": [
+      "opgekomen",
+      "aangekomen",
+      "bijgekomen",
+      "uitgekomen"
+    ],
     "correct": 0,
     "explanation": "'Opkomen' = in iemands gedachten komen. Het idee is bij hem opgekomen tijdens het lopen.",
     "wrongExplanations": {
@@ -2301,7 +2321,12 @@
   },
   {
     "sentence": "De dokter zei dat hij vijf kilo was ___.",
-    "options": ["aangekomen", "opgekomen", "bijgekomen", "uitgekomen"],
+    "options": [
+      "aangekomen",
+      "opgekomen",
+      "bijgekomen",
+      "uitgekomen"
+    ],
     "correct": 0,
     "explanation": "'Aankomen' = zwaarder worden. Hij is vijf kilo aangekomen in gewicht.",
     "wrongExplanations": {
@@ -2311,6 +2336,306 @@
     },
     "hint": "Hij is zwaarder geworden.",
     "tense": "perfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij heeft zijn belofte om te bellen ___.",
+    "options": [
+      "nagekomen",
+      "overgekomen",
+      "bijgekomen",
+      "uitgekomen"
+    ],
+    "correct": 0,
+    "explanation": "'Nakomen' = een afspraak of belofte vervullen. Hij heeft gedaan wat hij had beloofd.",
+    "wrongExplanations": {
+      "1": "'Overkomen' = van de ene kant naar de andere komen, of iets overkomt je. Een belofte kom je na, niet over.",
+      "2": "'Bijkomen' = herstellen na een schok of toevoeging. Een belofte kom je na, niet bij.",
+      "3": "'Uitkomen' = openbaar worden of op een plek uitkomen. Een belofte kom je na, niet uit."
+    },
+    "hint": "Hij heeft gedaan wat hij had beloofd.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na vijf jaar cel is hij vorig jaar eindelijk ___.",
+    "options": [
+      "vrijgekomen",
+      "samengekomen",
+      "nagekomen",
+      "bijgekomen"
+    ],
+    "correct": 0,
+    "explanation": "'Vrijkomen' = de gevangenis verlaten of vrij worden. Na vijf jaar heeft hij de gevangenis verlaten.",
+    "wrongExplanations": {
+      "1": "'Samenkomen' = bijeenkomen. Hij is niet samengekomen.",
+      "2": "'Nakomen' = een afspraak vervullen. Hij is vrijgekomen, niet nagekomen.",
+      "3": "'Bijkomen' = herstellen. Hij is vrijgekomen, niet bijgekomen."
+    },
+    "hint": "Na vijf jaar mocht hij de gevangenis verlaten.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze is er tijdens de vakantie ___ dat haar portemonnee was gestolen.",
+    "options": [
+      "achtergekomen",
+      "bijgekomen",
+      "uitgekomen",
+      "terechtgekomen"
+    ],
+    "correct": 0,
+    "explanation": "'Achterkomen' (erachter komen) = ontdekken. Ze heeft ontdekt dat haar portemonnee weg was.",
+    "wrongExplanations": {
+      "1": "'Bijkomen' = herstellen na een schok. Ze is erachter gekomen — ze heeft iets ontdekt.",
+      "2": "'Uitkomen' = openbaar worden. Ze is erachter gekomen, niet eruitgekomen.",
+      "3": "'Terechtkomen' = ergens belanden. Ze is erachter gekomen, niet ergens terechtgekomen."
+    },
+    "hint": "Ze heeft ontdekt dat haar portemonnee weg was.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De buurtbewoners zijn afgelopen zaterdag ___ om de verkeersplannen te bespreken.",
+    "options": [
+      "samengekomen",
+      "bijgekomen",
+      "nagekomen",
+      "terechtgekomen"
+    ],
+    "correct": 0,
+    "explanation": "'Samenkomen' = bijeenkomen, elkaar ergens ontmoeten. De buurtbewoners hebben een bijeenkomst gehad.",
+    "wrongExplanations": {
+      "1": "'Bijkomen' = herstellen of erbij komen. Buren kwamen samen, niet bij (in deze context).",
+      "2": "'Nakomen' = een afspraak vervullen. Buren zijn samengekomen, niet nagekomen.",
+      "3": "'Terechtkomen' = ergens belanden. Buren zijn samengekomen, niet terechtgekomen."
+    },
+    "hint": "De buurtbewoners hebben een bijeenkomst gehad om de plannen te bespreken.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Gelukkig is er een bemiddelaar ___ voordat de situatie verder escaleerde.",
+    "options": [
+      "tussengekomen",
+      "bijgekomen",
+      "nagekomen",
+      "overgekomen"
+    ],
+    "correct": 0,
+    "explanation": "'Tussenkomen' = ingrijpen in een conflict of situatie. De bemiddelaar heeft ingegrepen.",
+    "wrongExplanations": {
+      "1": "'Bijkomen' = herstellen. Een bemiddelaar komt tussen, niet bij.",
+      "2": "'Nakomen' = een afspraak vervullen. Een bemiddelaar komt tussen, niet na.",
+      "3": "'Overkomen' = van de ene kant naar de andere. Een bemiddelaar komt tussen, niet over."
+    },
+    "hint": "De bemiddelaar greep in voordat het erger werd.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Bij de ernstige brand in het appartementencomplex zijn drie mensen ___.",
+    "options": [
+      "omgekomen",
+      "bijgekomen",
+      "vrijgekomen",
+      "terechtgekomen"
+    ],
+    "correct": 0,
+    "explanation": "'Omkomen' = sterven door een ongeluk of ramp. Drie mensen zijn bij de brand gestorven.",
+    "wrongExplanations": {
+      "1": "'Bijkomen' = herstellen na bewusteloosheid. Drie mensen zijn omgekomen, niet bijgekomen.",
+      "2": "'Vrijkomen' = de gevangenis verlaten of vrij worden. Ze zijn omgekomen, niet vrijgekomen.",
+      "3": "'Terechtkomen' = ergens belanden. Ze zijn omgekomen, niet ergens terechtgekomen."
+    },
+    "hint": "Drie mensen zijn bij de brand gestorven.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Na de narcose is hij langzaam op de intensive care ___.",
+    "options": [
+      "bijgekomen",
+      "nagekomen",
+      "samengekomen",
+      "terechtgekomen"
+    ],
+    "correct": 0,
+    "explanation": "'Bijkomen' = herstellen van bewusteloosheid, narcose of een schok. Hij is na de operatie weer bij bewustzijn gekomen.",
+    "wrongExplanations": {
+      "1": "'Nakomen' = een afspraak vervullen. Je komt bij na een operatie, niet na.",
+      "2": "'Samenkomen' = bijeenkomen. Je komt bij na een operatie, niet samen.",
+      "3": "'Terechtkomen' = ergens belanden. Je komt bij, niet terecht."
+    },
+    "hint": "Hij is na de narcose weer bij bewustzijn gekomen.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Na heel hard studeren is ze eindelijk ___ voor haar rijexamen.",
+    "options": [
+      "doorgekomen",
+      "bijgekomen",
+      "nagekomen",
+      "vrijgekomen"
+    ],
+    "correct": 0,
+    "explanation": "'Doorkomen' = slagen voor een examen of test. Ze is geslaagd voor haar rijexamen.",
+    "wrongExplanations": {
+      "1": "'Bijkomen' = herstellen. Je komt door voor een examen, niet bij.",
+      "2": "'Nakomen' = een afspraak vervullen. Je komt door voor een examen, niet na.",
+      "3": "'Vrijkomen' = vrij worden. Je komt door voor een examen, niet vrij."
+    },
+    "hint": "Ze heeft haar rijexamen gehaald.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Zijn geheim is uiteindelijk ___ nadat een vriend het had doorverteld.",
+    "options": [
+      "uitgekomen",
+      "bijgekomen",
+      "nagekomen",
+      "vrijgekomen"
+    ],
+    "correct": 0,
+    "explanation": "'Uitkomen' = openbaar worden, bekend worden. Het geheim is bekend geworden.",
+    "wrongExplanations": {
+      "1": "'Bijkomen' = herstellen. Een geheim komt uit, niet bij.",
+      "2": "'Nakomen' = een afspraak vervullen. Een geheim komt uit, niet na.",
+      "3": "'Vrijkomen' = vrij worden. Een geheim komt uit, niet vrij."
+    },
+    "hint": "Het geheim is bekend geworden doordat een vriend het doorverteld heeft.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Tijdens de vergadering is er een goed idee bij haar ___.",
+    "options": [
+      "opgekomen",
+      "bijgekomen",
+      "uitgekomen",
+      "terechtgekomen"
+    ],
+    "correct": 0,
+    "explanation": "'Opkomen' = in je gedachten komen, een inval krijgen. Ze heeft een goed idee gekregen tijdens de vergadering.",
+    "wrongExplanations": {
+      "1": "'Bijkomen' = herstellen. Een idee komt op, niet bij.",
+      "2": "'Uitkomen' = openbaar worden. Een idee komt op, niet uit.",
+      "3": "'Terechtkomen' = ergens belanden. Een idee komt op, niet terecht."
+    },
+    "hint": "Ze heeft tijdens de vergadering ineens een goed idee gekregen.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na een jaar voorarrest werd hij eindelijk ___.",
+    "options": [
+      "vrijgekomen",
+      "bijgekomen",
+      "nagekomen",
+      "uitgekomen"
+    ],
+    "correct": 0,
+    "explanation": "'Vrijkomen' = de gevangenis verlaten of vrijgelaten worden. Hij heeft de gevangenis verlaten.",
+    "wrongExplanations": {
+      "1": "'Bijkomen' = herstellen. Je komt vrij, niet bij.",
+      "2": "'Nakomen' = een afspraak vervullen. Je komt vrij, niet na.",
+      "3": "'Uitkomen' = openbaar worden. Je komt vrij, niet uit."
+    },
+    "hint": "Hij mocht de gevangenis verlaten na een jaar voorarrest.",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Toen de staking begon, waren duizenden werknemers al ___ voor het bedrijf.",
+    "options": [
+      "samengekomen",
+      "bijgekomen",
+      "vrijgekomen",
+      "nagekomen"
+    ],
+    "correct": 0,
+    "explanation": "'Samenkomen' = bijeenkomen. De werknemers hadden zich al verzameld voor het bedrijf.",
+    "wrongExplanations": {
+      "1": "'Bijkomen' = herstellen. Werknemers kwamen samen, niet bij.",
+      "2": "'Vrijkomen' = vrij worden. Werknemers kwamen samen, niet vrij.",
+      "3": "'Nakomen' = een afspraak vervullen. Werknemers kwamen samen, niet na."
+    },
+    "hint": "De werknemers hadden zich al verzameld voor het bedrijf.",
+    "tense": "imperfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "In de berichten stond dat er bij de overstroming tientallen mensen ___ waren.",
+    "options": [
+      "omgekomen",
+      "bijgekomen",
+      "vrijgekomen",
+      "doorgekomen"
+    ],
+    "correct": 0,
+    "explanation": "'Omkomen' = sterven door een ramp of ongeluk. Tientallen mensen zijn gestorven bij de overstroming.",
+    "wrongExplanations": {
+      "1": "'Bijkomen' = herstellen. Ze zijn omgekomen, niet bijgekomen.",
+      "2": "'Vrijkomen' = vrij worden. Ze zijn omgekomen, niet vrijgekomen.",
+      "3": "'Doorkomen' = slagen of erdoorheen komen. Ze zijn omgekomen, niet doorgekomen."
+    },
+    "hint": "Tientallen mensen zijn bij de overstroming gestorven.",
+    "tense": "imperfectum",
+    "wordOrder": "bijzin",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Ze wist niet hoe het nieuws zo snel ___ was.",
+    "options": [
+      "uitgekomen",
+      "bijgekomen",
+      "nagekomen",
+      "terechtgekomen"
+    ],
+    "correct": 0,
+    "explanation": "'Uitkomen' = openbaar worden, bekend raken. Ze begreep niet hoe het nieuws zo snel bekend was geworden.",
+    "wrongExplanations": {
+      "1": "'Bijkomen' = herstellen. Nieuws komt uit, niet bij.",
+      "2": "'Nakomen' = een afspraak vervullen. Nieuws komt uit, niet na.",
+      "3": "'Terechtkomen' = ergens belanden. Nieuws komt uit, niet terecht."
+    },
+    "hint": "Ze begreep niet hoe het nieuws zo snel bekend was geworden.",
+    "tense": "imperfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij vroeg zich af hoe hij ooit in zo'n situatie ___ was.",
+    "options": [
+      "terechtgekomen",
+      "bijgekomen",
+      "vrijgekomen",
+      "nagekomen"
+    ],
+    "correct": 0,
+    "explanation": "'Terechtkomen' = ergens belanden, in een situatie geraken. Hij vroeg zich af hoe hij in die situatie was beland.",
+    "wrongExplanations": {
+      "1": "'Bijkomen' = herstellen. Je belandt ergens terecht, je komt niet bij.",
+      "2": "'Vrijkomen' = vrij worden. Je belandt ergens terecht, je komt niet vrij.",
+      "3": "'Nakomen' = een afspraak nakomen. Je belandt ergens terecht, je komt niet na."
+    },
+    "hint": "Hij vroeg zich af hoe hij in die moeilijke situatie was beland.",
+    "tense": "imperfectum",
     "wordOrder": "bijzin",
     "register": "neutraal"
   }

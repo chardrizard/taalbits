@@ -1121,7 +1121,12 @@
   },
   {
     "sentence": "De docent heeft alle werkstukken zorgvuldig ___.",
-    "options": ["nagekeken", "bekeken", "meegekeken", "teruggekeken"],
+    "options": [
+      "nagekeken",
+      "bekeken",
+      "meegekeken",
+      "teruggekeken"
+    ],
     "correct": 0,
     "explanation": "'Nakijken' = iets controleren of corrigeren (werkstukken, toetsen). De docent heeft de werkstukken beoordeeld.",
     "wrongExplanations": {
@@ -1136,7 +1141,12 @@
   },
   {
     "sentence": "Ze zei dat ze de nieuwe serie al had ___.",
-    "options": ["bekeken", "nagekeken", "meegekeken", "teruggekeken"],
+    "options": [
+      "bekeken",
+      "nagekeken",
+      "meegekeken",
+      "teruggekeken"
+    ],
     "correct": 0,
     "explanation": "'Bekijken' = iets bekijken (film, serie). Ze had de serie al eerder gezien.",
     "wrongExplanations": {
@@ -1151,7 +1161,12 @@
   },
   {
     "sentence": "Iedereen heeft van zijn plotselinge beslissing ___.",
-    "options": ["opgekeken", "teruggekeken", "nagekeken", "meegekeken"],
+    "options": [
+      "opgekeken",
+      "teruggekeken",
+      "nagekeken",
+      "meegekeken"
+    ],
     "correct": 0,
     "explanation": "'Opkijken van' = verbaasd zijn over iets. Iedereen was verrast door zijn beslissing.",
     "wrongExplanations": {
@@ -1166,7 +1181,12 @@
   },
   {
     "sentence": "We hebben de wedstrijd na afloop ___.",
-    "options": ["teruggekeken", "nagekeken", "bekeken", "meegekeken"],
+    "options": [
+      "teruggekeken",
+      "nagekeken",
+      "bekeken",
+      "meegekeken"
+    ],
     "correct": 0,
     "explanation": "'Terugkijken' = een opname opnieuw bekijken. Ze hebben de wedstrijd bekeken nadat het voorbij was.",
     "wrongExplanations": {
@@ -1181,7 +1201,12 @@
   },
   {
     "sentence": "Gisteren heeft mijn collega ___ terwijl ik de presentatie opbouwde.",
-    "options": ["meegekeken", "nagekeken", "bekeken", "opgekeken"],
+    "options": [
+      "meegekeken",
+      "nagekeken",
+      "bekeken",
+      "opgekeken"
+    ],
     "correct": 0,
     "explanation": "'Meekijken' = samen met iemand kijken terwijl die iets doet. De collega keek live mee.",
     "wrongExplanations": {
@@ -1192,6 +1217,306 @@
     "hint": "De collega keek live mee terwijl ik werkte.",
     "tense": "perfectum",
     "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Omstanders hebben ___ terwijl de auto langzaam in de sloot gleed.",
+    "options": [
+      "toegekeken",
+      "nagekeken",
+      "meegekeken",
+      "rondgekeken"
+    ],
+    "correct": 0,
+    "explanation": "'Toekijken' = passief kijken zonder in te grijpen. De omstanders stonden te kijken maar deden niets.",
+    "wrongExplanations": {
+      "1": "'Nakijken' = corrigeren of achter iemand aankijken. Er wordt toegekeken, niet nagekeken.",
+      "2": "'Meekijken' = samen met iemand kijken. Omstanders kijken toe, ze kijken niet mee met de bestuurder.",
+      "3": "'Rondkijken' = door een ruimte kijken. Omstanders kijken toe, niet rond."
+    },
+    "hint": "De omstanders stonden te kijken maar grepen niet in.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft een uur in de boekenwinkel ___ voordat ze een boek koos.",
+    "options": [
+      "rondgekeken",
+      "nagekeken",
+      "toegekeken",
+      "afgekeken"
+    ],
+    "correct": 0,
+    "explanation": "'Rondkijken' = door een ruimte lopen en kijken wat er is. Ze heeft de boekenwinkel verkend.",
+    "wrongExplanations": {
+      "1": "'Nakijken' = corrigeren. In een winkel kijk je rond, je kijkt niet na.",
+      "2": "'Toekijken' = passief kijken. Je kijkt rond in een winkel, je kijkt niet toe.",
+      "3": "'Afkijken' = van iemand anders afkijken of een film afkijken. Je kijkt rond in een winkel, je kijkt niet af."
+    },
+    "hint": "Ze heeft de boekenwinkel verkend, van links naar rechts.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft hem verbaasd ___ toen hij ineens zijn hoed opzette.",
+    "options": [
+      "aangekeken",
+      "nagekeken",
+      "meegekeken",
+      "omgekeken"
+    ],
+    "correct": 0,
+    "explanation": "'Aankijken' = iemand direct aankijken. Ze keek hem aan met een verbaasde blik.",
+    "wrongExplanations": {
+      "1": "'Nakijken' = achter iemand aankijken of corrigeren. Ze keek hem aan, niet na.",
+      "2": "'Meekijken' = samen met iemand kijken. Ze keek hem aan, ze keek niet mee.",
+      "3": "'Omkijken' = achterom kijken. Ze keek hem aan, niet om."
+    },
+    "hint": "Ze keek hem recht aan met een verbaasde blik.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij heeft nooit naar die ruzie ___; hij ging gewoon door met zijn werk.",
+    "options": [
+      "omgekeken",
+      "nagekeken",
+      "toegekeken",
+      "rondgekeken"
+    ],
+    "correct": 0,
+    "explanation": "'Omkijken' = terugkijken of aandacht besteden aan iets. Hij heeft geen aandacht besteed aan de ruzie.",
+    "wrongExplanations": {
+      "1": "'Nakijken' = corrigeren. Hij heeft niet omgekeken, hij heeft niet nagekeken.",
+      "2": "'Toekijken' = passief kijken. Hij heeft de ruzie genegeerd, hij heeft er niet bij toegekeken.",
+      "3": "'Rondkijken' = door een ruimte kijken. Hij heeft niet omgekeken, hij heeft niet rondgekeken."
+    },
+    "hint": "Hij heeft geen aandacht besteed aan de ruzie en ging door met zijn werk.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Als stagiair heeft hij veel van zijn ervaren collega ___.",
+    "options": [
+      "afgekeken",
+      "nagekeken",
+      "toegekeken",
+      "rondgekeken"
+    ],
+    "correct": 0,
+    "explanation": "'Afkijken' = iets leren door naar iemand te kijken en het over te nemen. Hij heeft de werkwijze van zijn collega gekopieerd.",
+    "wrongExplanations": {
+      "1": "'Nakijken' = corrigeren of controleren. Je kijkt af van een collega, je kijkt hem niet na.",
+      "2": "'Toekijken' = passief kijken zonder actie. Hij leerde door actief te kijken, niet passief toe te kijken.",
+      "3": "'Rondkijken' = door een ruimte kijken. Je kijkt af van een collega, je kijkt niet rond."
+    },
+    "hint": "Hij heeft de werkwijze van zijn ervaren collega overgenomen door goed te kijken.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft altijd een beetje op haar jongere collega's ___ omdat ze meer ervaring had.",
+    "options": [
+      "neergekeken",
+      "omgekeken",
+      "rondgekeken",
+      "toegekeken"
+    ],
+    "correct": 0,
+    "explanation": "'Neerkijken op' = iemand als minderwaardig beschouwen. Ze beschouwde haar jongere collega's als minder.",
+    "wrongExplanations": {
+      "1": "'Omkijken' = achterom kijken of terugblikken. Je kijkt neer op mensen, je kijkt niet om op hen.",
+      "2": "'Rondkijken' = door een ruimte kijken. Je kijkt neer op mensen, je kijkt niet rond op hen.",
+      "3": "'Toekijken' = passief kijken. Je kijkt neer op mensen, je kijkt niet toe."
+    },
+    "hint": "Ze beschouwde haar jongere collega's als minder vanwege haar meer ervaring.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze hebben alle sollicitatiebrieven snel ___ en drie kandidaten uitgenodigd.",
+    "options": [
+      "doorgekeken",
+      "nagekeken",
+      "bekeken",
+      "toegekeken"
+    ],
+    "correct": 0,
+    "explanation": "'Doorkijken' = snel lezen of bekijken. Ze hebben de brieven vluchtig doorgenomen.",
+    "wrongExplanations": {
+      "1": "'Nakijken' = grondig corrigeren. Doorkijken is snel doornemen; nakijken is grondiger.",
+      "2": "'Bekijken' = in detail bestuderen. Doorkijken is snel; bekijken is meer in detail.",
+      "3": "'Toekijken' = passief kijken. Ze hebben de brieven doorgekeken, niet toegekeken."
+    },
+    "hint": "Ze hebben de brieven snel doorgelezen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De makelaar heeft het appartement grondig ___ op gebreken.",
+    "options": [
+      "bekeken",
+      "nagekeken",
+      "afgekeken",
+      "meegekeken"
+    ],
+    "correct": 0,
+    "explanation": "'Bekijken' = zorgvuldig bestuderen of inspecteren. De makelaar heeft het appartement geïnspecteerd.",
+    "wrongExplanations": {
+      "1": "'Nakijken' = corrigeren of achter iemand aankijken. Een appartement wordt bekeken, niet nagekeken.",
+      "2": "'Afkijken' = van iemand anders afkijken. Een appartement wordt bekeken, niet afgekeken.",
+      "3": "'Meekijken' = samen kijken. De makelaar heeft het appartement bekeken, niet meegekeken."
+    },
+    "hint": "De makelaar heeft het appartement geïnspecteerd op gebreken.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Nu ze met pensioen is, kijkt ze met plezier op haar carrière ___.",
+    "options": [
+      "teruggekeken",
+      "nagekeken",
+      "omgekeken",
+      "rondgekeken"
+    ],
+    "correct": 0,
+    "explanation": "'Terugkijken op' = terugblikken op een periode in je leven. Ze denkt met plezier terug aan haar carrière.",
+    "wrongExplanations": {
+      "1": "'Nakijken' = corrigeren. Je kijkt terug op je carrière, je kijkt die niet na.",
+      "2": "'Omkijken' = achterom kijken. Terugkijken op is een bewuste terugblik op een periode.",
+      "3": "'Rondkijken' = door een ruimte kijken. Je kijkt terug op een periode, je kijkt niet rond."
+    },
+    "hint": "Ze denkt met plezier terug aan haar carrière.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De examinator heeft elk antwoord zorgvuldig ___.",
+    "options": [
+      "nagekeken",
+      "bekeken",
+      "toegekeken",
+      "doorgekeken"
+    ],
+    "correct": 0,
+    "explanation": "'Nakijken' = corrigeren, beoordelen. De examinator heeft elk antwoord gecorrigeerd en beoordeeld.",
+    "wrongExplanations": {
+      "1": "'Bekijken' = bestuderen. Examens worden nagekeken door een examinator, niet alleen bekeken.",
+      "2": "'Toekijken' = passief kijken zonder in te grijpen. Examens worden nagekeken, niet toegekeken.",
+      "3": "'Doorkijken' = snel doornemen. Een examinator kijkt na (grondig), niet alleen door."
+    },
+    "hint": "De examinator heeft elk antwoord gecorrigeerd en een beoordeling gegeven.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Elk examen werd door twee verschillende docenten ___ om objectief te zijn.",
+    "options": [
+      "nagekeken",
+      "bekeken",
+      "toegekeken",
+      "meegekeken"
+    ],
+    "correct": 0,
+    "explanation": "'Nakijken' = corrigeren, beoordelen. Elk examen is door twee docenten gecorrigeerd.",
+    "wrongExplanations": {
+      "1": "'Bekijken' = bestuderen. Examens worden nagekeken, niet alleen bekeken.",
+      "2": "'Toekijken' = passief kijken. Examens worden nagekeken, niet toegekeken.",
+      "3": "'Meekijken' = samen kijken. Examens worden nagekeken, niet meegekeken."
+    },
+    "hint": "Twee docenten hebben elk examen gecorrigeerd voor objectiviteit.",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Niemand greep in — iedereen keek ___ terwijl het gevecht plaatsvond.",
+    "options": [
+      "toe",
+      "mee",
+      "om",
+      "rond"
+    ],
+    "correct": 0,
+    "explanation": "'Toekijken' = passief kijken zonder in te grijpen. Iedereen stond te kijken maar deed niets.",
+    "wrongExplanations": {
+      "1": "'Meekijken' = samen met iemand kijken. Iedereen keek toe, ze keken niet mee met de vechtende mensen.",
+      "2": "'Omkijken' = achterom kijken. Iedereen keek toe, niet om.",
+      "3": "'Rondkijken' = door een ruimte kijken. Iedereen keek toe, niet rond."
+    },
+    "hint": "Niemand greep in — ze stonden allemaal toe te kijken.",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "In die tijd werd er nog openlijk op bepaalde groepen ___.",
+    "options": [
+      "neergekeken",
+      "meegekeken",
+      "omgekeken",
+      "toegekeken"
+    ],
+    "correct": 0,
+    "explanation": "'Neerkijken op' = iemand als minderwaardig beschouwen. In die tijd beschouwden mensen bepaalde groepen als minderwaardig.",
+    "wrongExplanations": {
+      "1": "'Meekijken' = samen kijken. Er werd neergekeken, niet meegekeken.",
+      "2": "'Omkijken' = achterom kijken. Er werd neergekeken, niet omgekeken.",
+      "3": "'Toekijken' = passief kijken. Er werd neergekeken op groepen, niet toegekeken."
+    },
+    "hint": "In die tijd beschouwde men bepaalde groepen als minderwaardig.",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Het voorstel werd door alle commissieleden zorgvuldig ___.",
+    "options": [
+      "bekeken",
+      "nagekeken",
+      "toegekeken",
+      "rondgekeken"
+    ],
+    "correct": 0,
+    "explanation": "'Bekijken' = zorgvuldig bestuderen. Het voorstel is door de commissie bestudeerd.",
+    "wrongExplanations": {
+      "1": "'Nakijken' = corrigeren. Een voorstel wordt bekeken, niet nagekeken.",
+      "2": "'Toekijken' = passief kijken. Een voorstel wordt bekeken, niet toegekeken.",
+      "3": "'Rondkijken' = door een ruimte kijken. Een voorstel wordt bekeken, niet rondgekeken."
+    },
+    "hint": "De commissie bestudeerde het voorstel zorgvuldig.",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Hij keek neer ___ zijn buurman omdat die nooit had gestudeerd.",
+    "options": [
+      "op",
+      "bij",
+      "mee",
+      "toe"
+    ],
+    "correct": 0,
+    "explanation": "'Neerkijken op' = iemand als minderwaardig beschouwen. Hij beschouwde zijn buurman als minderwaardig.",
+    "wrongExplanations": {
+      "1": "'Bijkijken' = er even bij kijken. Hij keek neer op zijn buurman, niet bij.",
+      "2": "'Meekijken' = samen kijken. Hij keek neer op zijn buurman, hij keek niet mee.",
+      "3": "'Toekijken' = passief kijken. Hij keek neer op zijn buurman, hij keek niet toe."
+    },
+    "hint": "Hij beschouwde zijn buurman als minderwaardig omdat die niet had gestudeerd.",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
     "register": "neutraal"
   }
 ]

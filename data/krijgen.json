@@ -1201,7 +1201,12 @@
   },
   {
     "sentence": "Ze heeft haar scriptie net op tijd ___.",
-    "options": ["afgekregen", "doorgekregen", "teruggekregen", "uitgekregen"],
+    "options": [
+      "afgekregen",
+      "doorgekregen",
+      "teruggekregen",
+      "uitgekregen"
+    ],
     "correct": 0,
     "explanation": "'Afkrijgen' = iets kunnen afronden of klaar krijgen. Ze heeft haar scriptie op tijd kunnen afmaken.",
     "wrongExplanations": {
@@ -1216,7 +1221,12 @@
   },
   {
     "sentence": "Na de uitleg had hij het eindelijk ___.",
-    "options": ["doorgekregen", "afgekregen", "teruggekregen", "meegekregen"],
+    "options": [
+      "doorgekregen",
+      "afgekregen",
+      "teruggekregen",
+      "meegekregen"
+    ],
     "correct": 0,
     "explanation": "'Doorkrijgen' = iets snappen, begrijpen. Na de uitleg begreep hij het eindelijk.",
     "wrongExplanations": {
@@ -1231,7 +1241,12 @@
   },
   {
     "sentence": "Na de reparatie heeft ze haar fiets eindelijk ___.",
-    "options": ["teruggekregen", "afgekregen", "doorgekregen", "uitgekregen"],
+    "options": [
+      "teruggekregen",
+      "afgekregen",
+      "doorgekregen",
+      "uitgekregen"
+    ],
     "correct": 0,
     "explanation": "'Terugkrijgen' = iets terug ontvangen nadat je het had afgegeven. Ze had de fiets naar de reparateur gebracht en nu teruggekregen.",
     "wrongExplanations": {
@@ -1246,7 +1261,12 @@
   },
   {
     "sentence": "Ze heeft het dikke boek al in twee dagen ___.",
-    "options": ["uitgekregen", "afgekregen", "doorgekregen", "teruggekregen"],
+    "options": [
+      "uitgekregen",
+      "afgekregen",
+      "doorgekregen",
+      "teruggekregen"
+    ],
     "correct": 0,
     "explanation": "'Uitkrijgen' = iets helemaal uitlezen of uithebben. Ze heeft het boek al uitgelezen in twee dagen.",
     "wrongExplanations": {
@@ -1261,7 +1281,12 @@
   },
   {
     "sentence": "Ze vroeg of iedereen de boodschap had ___.",
-    "options": ["meegekregen", "doorgekregen", "afgekregen", "teruggekregen"],
+    "options": [
+      "meegekregen",
+      "doorgekregen",
+      "afgekregen",
+      "teruggekregen"
+    ],
     "correct": 0,
     "explanation": "'Meegekregen' = iets hebben ontvangen of begrepen. Ze vroeg of de boodschap bij iedereen was aangekomen.",
     "wrongExplanations": {
@@ -1272,6 +1297,306 @@
     "hint": "Ze wilde weten of de boodschap bij iedereen was aangekomen.",
     "tense": "perfectum",
     "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft de vergaderlink nooit ___ — haar e-mailadres was verkeerd ingevoerd.",
+    "options": [
+      "doorgekregen",
+      "meegekregen",
+      "teruggekregen",
+      "opengekregen"
+    ],
+    "correct": 0,
+    "explanation": "'Doorkrijgen' = iets ontvangen dat doorgestuurd wordt. De link heeft haar nooit bereikt.",
+    "wrongExplanations": {
+      "1": "'Meekrijgen' = iets meenemen of mee ontvangen. De link is haar nooit doorgekomen.",
+      "2": "'Terugkrijgen' = iets eerder gegeven terug ontvangen. Ze heeft de link nooit teruggekregen.",
+      "3": "'Openkrijgen' = iets open weten te krijgen. Een link openkrijgen is iets anders dan hem ontvangen."
+    },
+    "hint": "De link heeft haar nooit bereikt door het verkeerde e-mailadres.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na lang prutsen heeft hij het vastgeroeste deksel eindelijk ___.",
+    "options": [
+      "losgekregen",
+      "opengekregen",
+      "dichtgekregen",
+      "meegekregen"
+    ],
+    "correct": 0,
+    "explanation": "'Loskrijgen' = iets dat vastzit los weten te maken. Het deksel zat vast maar hij heeft het losgemaakt.",
+    "wrongExplanations": {
+      "1": "'Openkrijgen' = iets open weten te krijgen. Loskrijgen is het losmaken; openkrijgen is het opendoen.",
+      "2": "'Dichtkrijgen' = iets dicht weten te krijgen. Dat is het tegenovergestelde.",
+      "3": "'Meekrijgen' = iets meenemen. Je krijgt een deksel los, niet mee."
+    },
+    "hint": "Het deksel zat vast maar hij wist het los te maken.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft de zware schuifdeur met haar elleboog ___.",
+    "options": [
+      "opengekregen",
+      "dichtgekregen",
+      "losgekregen",
+      "meegekregen"
+    ],
+    "correct": 0,
+    "explanation": "'Openkrijgen' = iets open weten te krijgen. Ze heeft de deur open weten te doen met haar elleboog.",
+    "wrongExplanations": {
+      "1": "'Dichtkrijgen' = iets dicht weten te krijgen. Dat is het tegenovergestelde.",
+      "2": "'Loskrijgen' = iets losmaken. Je krijgt een deur open, je maakt hem niet los.",
+      "3": "'Meekrijgen' = iets meenemen. Je krijgt een deur open, niet mee."
+    },
+    "hint": "Ze heeft de zware schuifdeur kunnen opendoen met haar elleboog.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij heeft zijn borg na afloop van de huurperiode volledig ___.",
+    "options": [
+      "teruggekregen",
+      "meegekregen",
+      "doorgekregen",
+      "binnengekregen"
+    ],
+    "correct": 0,
+    "explanation": "'Terugkrijgen' = iets dat je eerder hebt gegeven, terugontvangen. Hij heeft zijn borg terugontvangen.",
+    "wrongExplanations": {
+      "1": "'Meekrijgen' = iets meenemen of mee ontvangen. Borg wordt teruggekregen, niet meegekregen.",
+      "2": "'Doorkrijgen' = iets doorgestuurd ontvangen. Borg wordt teruggekregen, niet doorgekregen.",
+      "3": "'Binnenkrijgen' = iets naar binnen krijgen. Borg wordt teruggekregen, niet binnengekregen."
+    },
+    "hint": "Hij heeft zijn borg na de huur terugontvangen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft na het consult een recept van de huisarts ___.",
+    "options": [
+      "meegekregen",
+      "teruggekregen",
+      "doorgekregen",
+      "binnengekregen"
+    ],
+    "correct": 0,
+    "explanation": "'Meekrijgen' = iets ontvangen om mee te nemen. Ze heeft het recept ontvangen om mee te nemen naar de apotheek.",
+    "wrongExplanations": {
+      "1": "'Terugkrijgen' = iets eerder gegeven terug ontvangen. Het recept is meegekregen, niet teruggekregen.",
+      "2": "'Doorkrijgen' = iets doorgestuurd ontvangen. Het recept is meegekregen, niet doorgekregen.",
+      "3": "'Binnenkrijgen' = iets naar binnen krijgen. Het recept is meegekregen, niet binnengekregen."
+    },
+    "hint": "Ze heeft het recept van de dokter gekregen om mee te nemen naar de apotheek.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na urenlang vergaderen heeft de coalitie eindelijk een akkoord ___.",
+    "options": [
+      "rondgekregen",
+      "meegekregen",
+      "teruggekregen",
+      "doorgekregen"
+    ],
+    "correct": 0,
+    "explanation": "'Rondkrijgen' = iets voor elkaar krijgen, iets tot een akkoord brengen. De coalitie heeft het akkoord bereikt.",
+    "wrongExplanations": {
+      "1": "'Meekrijgen' = iets meenemen. Een akkoord wordt rondgekregen, niet meegekregen.",
+      "2": "'Terugkrijgen' = iets eerder gegeven terug ontvangen. Een akkoord wordt rondgekregen, niet teruggekregen.",
+      "3": "'Doorkrijgen' = iets doorgestuurd ontvangen. Een akkoord wordt rondgekregen, niet doorgekregen."
+    },
+    "hint": "Na lang vergaderen heeft de coalitie het akkoord toch bereikt.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Het bedrijf heeft na een lange procedure een bouwvergunning ___.",
+    "options": [
+      "verkregen",
+      "meegekregen",
+      "teruggekregen",
+      "rondgekregen"
+    ],
+    "correct": 0,
+    "explanation": "'Verkrijgen' = formeel iets bemachtigen of ontvangen. Het bedrijf heeft officieel de vergunning ontvangen.",
+    "wrongExplanations": {
+      "1": "'Meekrijgen' = iets meenemen. Een vergunning wordt verkregen, niet meegekregen.",
+      "2": "'Terugkrijgen' = iets eerder gegeven terug ontvangen. Een vergunning wordt verkregen, niet teruggekregen.",
+      "3": "'Rondkrijgen' = iets voor elkaar brengen. Een vergunning wordt verkregen, niet rondgekregen."
+    },
+    "hint": "Na een lange procedure heeft het bedrijf officieel de vergunning ontvangen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Ze heeft de overvolle koffer na veel moeite eindelijk ___.",
+    "options": [
+      "dichtgekregen",
+      "opengekregen",
+      "losgekregen",
+      "rondgekregen"
+    ],
+    "correct": 0,
+    "explanation": "'Dichtkrijgen' = iets gesloten weten te krijgen. Ze heeft de volle koffer toch dicht weten te krijgen.",
+    "wrongExplanations": {
+      "1": "'Openkrijgen' = iets opendoen. Dat is het tegenovergestelde.",
+      "2": "'Loskrijgen' = iets losmaken. Een koffer wordt dichtgekregen, niet losgekregen.",
+      "3": "'Rondkrijgen' = iets voor elkaar brengen. Een koffer wordt dichtgekregen, niet rondgekregen."
+    },
+    "hint": "De koffer was te vol, maar ze heeft hem toch dicht weten te krijgen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Het verkoopteam heeft eindelijk een grote internationale klant ___.",
+    "options": [
+      "binnengekregen",
+      "meegekregen",
+      "teruggekregen",
+      "rondgekregen"
+    ],
+    "correct": 0,
+    "explanation": "'Binnenkrijgen' = een klant, deal of opdracht succesvol binnenhalen. Het team heeft de klant gewonnen.",
+    "wrongExplanations": {
+      "1": "'Meekrijgen' = iets meenemen. Een klant wordt binnengekregen, niet meegekregen.",
+      "2": "'Terugkrijgen' = iets eerder verloren terug ontvangen. Een klant wordt binnengekregen, niet teruggekregen.",
+      "3": "'Rondkrijgen' = iets voor elkaar brengen. Een klant wordt binnengekregen, niet rondgekregen."
+    },
+    "hint": "Het verkoopteam heeft de grote internationale klant gewonnen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Het is zo koud vandaag — hij heeft drie truien over elkaar ___.",
+    "options": [
+      "aangekregen",
+      "uitgekregen",
+      "dichtgekregen",
+      "losgekregen"
+    ],
+    "correct": 0,
+    "explanation": "'Aankrijgen' = kleding aan weten te trekken. Hij heeft drie truien weten aan te trekken.",
+    "wrongExplanations": {
+      "1": "'Uitkrijgen' = kleding uit weten te trekken. Dat is het tegenovergestelde.",
+      "2": "'Dichtkrijgen' = iets dicht weten te krijgen. Truien worden aangekregen, niet dichtgekregen.",
+      "3": "'Loskrijgen' = iets los weten te maken. Truien worden aangekregen, niet losgekregen."
+    },
+    "hint": "Het was zo koud dat hij drie truien over elkaar aantrok.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na een uur proberen werd de vastgeroeste schroef eindelijk ___.",
+    "options": [
+      "losgekregen",
+      "opengekregen",
+      "dichtgekregen",
+      "meegekregen"
+    ],
+    "correct": 0,
+    "explanation": "'Loskrijgen' = iets los weten te maken. De schroef is eindelijk losgemaakt.",
+    "wrongExplanations": {
+      "1": "'Openkrijgen' = iets open weten te krijgen. Een schroef wordt losgekregen, niet opengekregen.",
+      "2": "'Dichtkrijgen' = iets dicht weten te krijgen. Dat is het tegenovergestelde.",
+      "3": "'Meekrijgen' = iets meenemen. Een schroef wordt losgekregen, niet meegekregen."
+    },
+    "hint": "Na een uur lukte het om de vastgeroeste schroef los te maken.",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Het bewijsmateriaal werd op illegale wijze ___ en mocht niet worden gebruikt.",
+    "options": [
+      "verkregen",
+      "meegekregen",
+      "teruggekregen",
+      "doorgekregen"
+    ],
+    "correct": 0,
+    "explanation": "'Verkrijgen' = bemachtigen of in bezit krijgen. Het bewijs was op illegale manier bemachtigd.",
+    "wrongExplanations": {
+      "1": "'Meekrijgen' = iets meenemen. Bewijs wordt verkregen, niet meegekregen.",
+      "2": "'Terugkrijgen' = iets eerder gegeven terug ontvangen. Bewijs wordt verkregen, niet teruggekregen.",
+      "3": "'Doorkrijgen' = iets doorgestuurd ontvangen. Bewijs wordt verkregen, niet doorgekregen."
+    },
+    "hint": "Het bewijs was op illegale manier in bezit gekomen.",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "De kinderen vertelden dat ze van school geen informatie over de uitstap ___ hadden.",
+    "options": [
+      "meegekregen",
+      "teruggekregen",
+      "doorgekregen",
+      "binnengekregen"
+    ],
+    "correct": 0,
+    "explanation": "'Meekrijgen' = iets ontvangen om mee te nemen of mee te krijgen. De kinderen hadden geen informatie meegekregen.",
+    "wrongExplanations": {
+      "1": "'Terugkrijgen' = iets eerder gegeven terug ontvangen. Ze hadden niets meegekregen, niet teruggekregen.",
+      "2": "'Doorkrijgen' = iets doorgestuurd ontvangen. Ze hadden niets meegekregen, niet doorgekregen.",
+      "3": "'Binnenkrijgen' = iets naar binnen krijgen. Ze hadden niets meegekregen, niet binnengekregen."
+    },
+    "hint": "De kinderen hadden van school geen informatie ontvangen over de uitstap.",
+    "tense": "imperfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na maanden onderhandelen had het bestuur het nieuwe financieringsplan eindelijk ___.",
+    "options": [
+      "rondgekregen",
+      "meegekregen",
+      "teruggekregen",
+      "doorgekregen"
+    ],
+    "correct": 0,
+    "explanation": "'Rondkrijgen' = iets voor elkaar krijgen, tot een akkoord brengen. Het plan was eindelijk goedgekeurd.",
+    "wrongExplanations": {
+      "1": "'Meekrijgen' = iets meenemen. Een plan wordt rondgekregen, niet meegekregen.",
+      "2": "'Terugkrijgen' = iets eerder gegeven terug ontvangen. Een plan wordt rondgekregen, niet teruggekregen.",
+      "3": "'Doorkrijgen' = iets doorgestuurd ontvangen. Een plan wordt rondgekregen, niet doorgekregen."
+    },
+    "hint": "Na maanden onderhandelen was het plan eindelijk goedgekeurd.",
+    "tense": "imperfectum",
+    "wordOrder": "bijzin",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Ze klaagde bij de manager en kreeg haar geld meteen ___.",
+    "options": [
+      "terug",
+      "mee",
+      "door",
+      "open"
+    ],
+    "correct": 0,
+    "explanation": "'Terugkrijgen' = iets dat je eerder had terug ontvangen. Ze heeft haar geld terugontvangen.",
+    "wrongExplanations": {
+      "1": "'Meekrijgen' = iets meenemen of ontvangen. Ze heeft haar geld teruggekregen, niet meegekregen.",
+      "2": "'Doorkrijgen' = iets doorgestuurd ontvangen. Ze heeft haar geld teruggekregen, niet doorgekregen.",
+      "3": "'Openkrijgen' = iets open weten te krijgen. Geld wordt teruggekregen, niet opengekregen."
+    },
+    "hint": "Na haar klacht gaf de manager haar geld meteen terug.",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
     "register": "neutraal"
   }
 ]

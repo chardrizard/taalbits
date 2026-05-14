@@ -1201,7 +1201,12 @@
   },
   {
     "sentence": "Ze heeft alle lichten ___ voordat ze naar bed ging.",
-    "options": ["uitgedaan", "aangedaan", "voorgedaan", "overgedaan"],
+    "options": [
+      "uitgedaan",
+      "aangedaan",
+      "voorgedaan",
+      "overgedaan"
+    ],
     "correct": 0,
     "explanation": "'Uitdoen' = iets uitzetten of uittrekken. Ze heeft de lichten uitgedaan.",
     "wrongExplanations": {
@@ -1216,7 +1221,12 @@
   },
   {
     "sentence": "Buiten was het koud, dus heeft ze haar winterjas ___.",
-    "options": ["aangedaan", "uitgedaan", "omgedaan", "overgedaan"],
+    "options": [
+      "aangedaan",
+      "uitgedaan",
+      "omgedaan",
+      "overgedaan"
+    ],
     "correct": 0,
     "explanation": "'Aandoen' = iets aantrekken (kleding). Ze heeft haar jas aangedaan omdat het koud was.",
     "wrongExplanations": {
@@ -1231,7 +1241,12 @@
   },
   {
     "sentence": "De instructeur heeft de oefening twee keer ___.",
-    "options": ["voorgedaan", "meegedaan", "nagedaan", "overgedaan"],
+    "options": [
+      "voorgedaan",
+      "meegedaan",
+      "nagedaan",
+      "overgedaan"
+    ],
     "correct": 0,
     "explanation": "'Voordoen' = iets demonstreren zodat anderen het kunnen zien. De instructeur toonde de oefening.",
     "wrongExplanations": {
@@ -1246,7 +1261,12 @@
   },
   {
     "sentence": "Hij zei dat hij nooit eerder aan zo'n toernooi had ___.",
-    "options": ["meegedaan", "voorgedaan", "overgedaan", "uitgedaan"],
+    "options": [
+      "meegedaan",
+      "voorgedaan",
+      "overgedaan",
+      "uitgedaan"
+    ],
     "correct": 0,
     "explanation": "'Meedoen' = deelnemen. Hij had nooit eerder deelgenomen aan zo'n toernooi.",
     "wrongExplanations": {
@@ -1261,7 +1281,12 @@
   },
   {
     "sentence": "Omdat de eerste poging mislukte, heeft ze de test helemaal ___.",
-    "options": ["overgedaan", "meegedaan", "voorgedaan", "uitgedaan"],
+    "options": [
+      "overgedaan",
+      "meegedaan",
+      "voorgedaan",
+      "uitgedaan"
+    ],
     "correct": 0,
     "explanation": "'Overdoen' = iets opnieuw doen, meestal omdat het de eerste keer niet goed ging.",
     "wrongExplanations": {
@@ -1272,6 +1297,306 @@
     "hint": "De eerste poging mislukte, dus moest ze opnieuw beginnen.",
     "tense": "perfectum",
     "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Wat hij in dat gesprek zei, heeft haar echt ___.",
+    "options": [
+      "aangedaan",
+      "afgedaan",
+      "meegedaan",
+      "nagedaan"
+    ],
+    "correct": 0,
+    "explanation": "'Aandoen' = iemand pijn of verdriet bezorgen. Zijn woorden hebben haar gekwetst.",
+    "wrongExplanations": {
+      "1": "'Afdoen' = afhandelen of ergens van afdoen. Ze is aangedaan, niet afgedaan.",
+      "2": "'Meedoen' = deelnemen. Ze is aangedaan, niet meegedaan.",
+      "3": "'Nadoen' = imiteren. Ze is aangedaan, niet nagedaan."
+    },
+    "hint": "Zijn woorden hebben haar gekwetst of verdriet gedaan.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft de muziek ___; de buren lagen al te slapen.",
+    "options": [
+      "uitgedaan",
+      "aangedaan",
+      "voorgedaan",
+      "meegedaan"
+    ],
+    "correct": 0,
+    "explanation": "'Uitdoen' = iets uitzetten, doen stoppen. Ze heeft de muziek uitgezet.",
+    "wrongExplanations": {
+      "1": "'Aandoen' = iets aanzetten. Dat is het tegenovergestelde.",
+      "2": "'Voordoen' = iets demonstreren of voordoen. Muziek wordt uitgedaan, niet voorgedaan.",
+      "3": "'Meedoen' = deelnemen. Muziek wordt uitgedaan, niet meegedaan."
+    },
+    "hint": "Ze heeft de muziek uitgezet zodat de buren konden slapen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Drie scholen hebben aan het gemeentelijk leesprogramma ___.",
+    "options": [
+      "meegedaan",
+      "nagedaan",
+      "uitgedaan",
+      "aangedaan"
+    ],
+    "correct": 0,
+    "explanation": "'Meedoen' = deelnemen, participeren. Drie scholen hebben meegedaan aan het leesprogramma.",
+    "wrongExplanations": {
+      "1": "'Nadoen' = imiteren. Scholen doen mee, ze doen niet na.",
+      "2": "'Uitdoen' = uitzetten. Scholen doen mee, ze doen niet uit.",
+      "3": "'Aandoen' = aanzetten of pijn doen. Scholen doen mee, ze doen niet aan."
+    },
+    "hint": "Drie scholen hebben meegedaan aan het leesprogramma.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft tijdens haar stage veel werkervaring ___.",
+    "options": [
+      "opgedaan",
+      "aangedaan",
+      "meegedaan",
+      "voorgedaan"
+    ],
+    "correct": 0,
+    "explanation": "'Opdoen' = ervaring, kennis of vaardigheden verwerven. Ze heeft nieuwe werkervaring opgebouwd.",
+    "wrongExplanations": {
+      "1": "'Aandoen' = aanzetten of pijn doen. Ervaring doe je op, niet aan.",
+      "2": "'Meedoen' = deelnemen. Ervaring doe je op, niet mee.",
+      "3": "'Voordoen' = demonstreren. Ervaring doe je op, niet voor."
+    },
+    "hint": "Ze heeft nieuwe werkervaring opgebouwd tijdens haar stage.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De instructeur heeft de zwembeweging rustig ___ voor de beginners.",
+    "options": [
+      "voorgedaan",
+      "meegedaan",
+      "nagedaan",
+      "opgedaan"
+    ],
+    "correct": 0,
+    "explanation": "'Voordoen' = iets demonstreren zodat anderen het kunnen nadoen. De instructeur heeft de beweging laten zien.",
+    "wrongExplanations": {
+      "1": "'Meedoen' = deelnemen. De instructeur deed voor; hij deed niet mee met de beginners.",
+      "2": "'Nadoen' = imiteren. De instructeur deed voor; de beginners deden het daarna na.",
+      "3": "'Opdoen' = ervaring verwerven. Een beweging doe je voor, niet op."
+    },
+    "hint": "De instructeur heeft de beweging laten zien zodat de beginners het konden nadoen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft al haar oude kleding na de verhuizing ___.",
+    "options": [
+      "weggedaan",
+      "aangedaan",
+      "opgedaan",
+      "uitgedaan"
+    ],
+    "correct": 0,
+    "explanation": "'Wegdoen' = iets weggooien of weggeven. Ze heeft haar oude kleding weggegooid of weggegeven.",
+    "wrongExplanations": {
+      "1": "'Aandoen' = aanzetten of pijn doen. Kleding doe je weg, niet aan (in deze context).",
+      "2": "'Opdoen' = ervaring verwerven. Kleding doe je weg, niet op.",
+      "3": "'Uitdoen' = uittrekken of uitzetten. Ze heeft het weggedaan, niet uitgedaan."
+    },
+    "hint": "Ze heeft haar oude kleding weggegeven of weggegooid na de verhuizing.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De kinderen hebben de grappige dansbewegingen van de acteur ___.",
+    "options": [
+      "nagedaan",
+      "meegedaan",
+      "voorgedaan",
+      "opgedaan"
+    ],
+    "correct": 0,
+    "explanation": "'Nadoen' = imiteren, kopiëren. De kinderen hebben de bewegingen nagebootst.",
+    "wrongExplanations": {
+      "1": "'Meedoen' = deelnemen. De kinderen deden na, ze deden niet mee (in de dans zelf).",
+      "2": "'Voordoen' = demonstreren voor anderen. De acteur deed voor; de kinderen deden na.",
+      "3": "'Opdoen' = ervaring verwerven. Bewegingen doe je na, niet op."
+    },
+    "hint": "De kinderen hebben de bewegingen van de acteur nagebootst.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft de berekening opnieuw ___ omdat de eerste keer fouten bevatte.",
+    "options": [
+      "overgedaan",
+      "nagedaan",
+      "meegedaan",
+      "weggedaan"
+    ],
+    "correct": 0,
+    "explanation": "'Overdoen' = iets opnieuw doen. Ze heeft de berekening een tweede keer gemaakt.",
+    "wrongExplanations": {
+      "1": "'Nadoen' = imiteren. De berekening wordt overgedaan, niet nagedaan.",
+      "2": "'Meedoen' = deelnemen. De berekening wordt overgedaan, niet meegedaan.",
+      "3": "'Wegdoen' = weggooien. De berekening wordt overgedaan, niet weggedaan."
+    },
+    "hint": "Ze heeft de berekening een tweede keer gemaakt vanwege de fouten.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij heeft zijn kans op een promotie volledig ___ door te laat te komen.",
+    "options": [
+      "verdaan",
+      "opgedaan",
+      "meegedaan",
+      "nagedaan"
+    ],
+    "correct": 0,
+    "explanation": "'Verdoen' = een kans of tijd verspillen. Hij heeft zijn kans op promotie verspild door zijn gedrag.",
+    "wrongExplanations": {
+      "1": "'Opdoen' = verwerven. Een kans verdoe je, je doet hem niet op.",
+      "2": "'Meedoen' = deelnemen. Een kans verdoe je, je doet er niet mee aan.",
+      "3": "'Nadoen' = imiteren. Een kans verdoe je, je doet hem niet na."
+    },
+    "hint": "Hij heeft zijn kans op promotie verspild door te laat te komen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De baby sliep eindelijk — ze heeft voorzichtig het nachtlampje ___.",
+    "options": [
+      "aangedaan",
+      "uitgedaan",
+      "overgedaan",
+      "meegedaan"
+    ],
+    "correct": 0,
+    "explanation": "'Aandoen' = iets aanzetten (licht, apparaat). Ze heeft het lampje aangezet.",
+    "wrongExplanations": {
+      "1": "'Uitdoen' = uitzetten. Dat is het tegenovergestelde.",
+      "2": "'Overdoen' = opnieuw doen. Een lamp doe je aan of uit, niet over.",
+      "3": "'Meedoen' = deelnemen. Een lamp doe je aan, niet mee."
+    },
+    "hint": "Ze heeft het nachtlampje aangezet terwijl de baby sliep.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Door heel het land werd aan de klimaatmars ___.",
+    "options": [
+      "meegedaan",
+      "nagedaan",
+      "voorgedaan",
+      "opgedaan"
+    ],
+    "correct": 0,
+    "explanation": "'Meedoen' = deelnemen. Door het hele land namen mensen deel aan de klimaatmars.",
+    "wrongExplanations": {
+      "1": "'Nadoen' = imiteren. Er werd meegedaan, niet nagedaan.",
+      "2": "'Voordoen' = demonstreren. Er werd meegedaan, niet voorgedaan.",
+      "3": "'Opdoen' = ervaring verwerven. Er werd meegedaan, niet opgedaan."
+    },
+    "hint": "Door het hele land namen mensen deel aan de klimaatmars.",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De soldeerbeweging werd eerst duidelijk ___ voordat de leerlingen het zelf probeerden.",
+    "options": [
+      "voorgedaan",
+      "nagedaan",
+      "meegedaan",
+      "opgedaan"
+    ],
+    "correct": 0,
+    "explanation": "'Voordoen' = demonstreren. De beweging is eerst gedemonstreerd.",
+    "wrongExplanations": {
+      "1": "'Nadoen' = imiteren. De techniek werd voorgedaan; daarna deden de leerlingen het na.",
+      "2": "'Meedoen' = deelnemen. De techniek werd voorgedaan, niet meegedaan.",
+      "3": "'Opdoen' = verwerven. De techniek werd voorgedaan, niet opgedaan."
+    },
+    "hint": "De beweging is eerst gedemonstreerd voordat de leerlingen het zelf probeerden.",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Tijdens de grote schoonmaak werden al zijn oude schoolboeken ___.",
+    "options": [
+      "weggedaan",
+      "opgedaan",
+      "nagedaan",
+      "meegedaan"
+    ],
+    "correct": 0,
+    "explanation": "'Wegdoen' = weggooien of weggeven. Zijn schoolboeken werden weggegeven of weggegooid.",
+    "wrongExplanations": {
+      "1": "'Opdoen' = verwerven. Boeken worden weggedaan, niet opgedaan.",
+      "2": "'Nadoen' = imiteren. Boeken worden weggedaan, niet nagedaan.",
+      "3": "'Meedoen' = deelnemen. Boeken worden weggedaan, niet meegedaan."
+    },
+    "hint": "Zijn oude schoolboeken werden weggegeven of weggegooid.",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Zijn karakteristieke zwaai werd door alle collega's ___.",
+    "options": [
+      "nagedaan",
+      "meegedaan",
+      "voorgedaan",
+      "opgedaan"
+    ],
+    "correct": 0,
+    "explanation": "'Nadoen' = imiteren. Zijn collega's imiteerden zijn karakteristieke zwaai.",
+    "wrongExplanations": {
+      "1": "'Meedoen' = deelnemen. De zwaai werd nagedaan, niet meegedaan.",
+      "2": "'Voordoen' = demonstreren. De zwaai werd nagedaan (geïmiteerd), niet voorgedaan.",
+      "3": "'Opdoen' = verwerven. De zwaai werd nagedaan, niet opgedaan."
+    },
+    "hint": "Zijn collega's imiteerden zijn karakteristieke zwaai.",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Zodra hij thuiskwam, deed hij altijd eerst het licht in de hal ___.",
+    "options": [
+      "aan",
+      "uit",
+      "mee",
+      "na"
+    ],
+    "correct": 0,
+    "explanation": "'Aandoen' = aanzetten. Hij zette altijd als eerste het licht aan als hij thuiskwam.",
+    "wrongExplanations": {
+      "1": "'Uitdoen' = uitzetten. Dat is het tegenovergestelde.",
+      "2": "'Meedoen' = deelnemen. Een lamp doe je aan, niet mee.",
+      "3": "'Nadoen' = imiteren. Een lamp doe je aan, niet na."
+    },
+    "hint": "Hij zette altijd als eerste het licht aan als hij thuiskwam.",
+    "tense": "imperfectum",
+    "wordOrder": "bijzin",
     "register": "neutraal"
   }
 ]

@@ -1861,7 +1861,12 @@
   },
   {
     "sentence": "Het bedrijf heeft drie nieuwe medewerkers ___.",
-    "options": ["aangenomen", "opgenomen", "afgenomen", "ingenomen"],
+    "options": [
+      "aangenomen",
+      "opgenomen",
+      "afgenomen",
+      "ingenomen"
+    ],
     "correct": 0,
     "explanation": "'Aannemen' = iemand in dienst nemen. Het bedrijf heeft drie mensen aangesteld.",
     "wrongExplanations": {
@@ -1876,7 +1881,12 @@
   },
   {
     "sentence": "Gisteren heeft de politie zijn verklaring ___.",
-    "options": ["opgenomen", "aangenomen", "afgenomen", "meegenomen"],
+    "options": [
+      "opgenomen",
+      "aangenomen",
+      "afgenomen",
+      "meegenomen"
+    ],
     "correct": 0,
     "explanation": "'Opnemen' = officieel vastleggen of registreren (een verklaring). De politie heeft zijn verklaring geregistreerd.",
     "wrongExplanations": {
@@ -1891,7 +1901,12 @@
   },
   {
     "sentence": "Na de piek in de zomer is het toerisme sterk ___.",
-    "options": ["afgenomen", "aangenomen", "opgenomen", "ingenomen"],
+    "options": [
+      "afgenomen",
+      "aangenomen",
+      "opgenomen",
+      "ingenomen"
+    ],
     "correct": 0,
     "explanation": "'Afnemen' = dalen, minder worden. Na de zomerpiek is het aantal toeristen gedaald.",
     "wrongExplanations": {
@@ -1906,7 +1921,12 @@
   },
   {
     "sentence": "De arts vroeg of ze de medicijnen al had ___.",
-    "options": ["ingenomen", "aangenomen", "opgenomen", "meegenomen"],
+    "options": [
+      "ingenomen",
+      "aangenomen",
+      "opgenomen",
+      "meegenomen"
+    ],
     "correct": 0,
     "explanation": "'Innemen' = medicijnen slikken. De arts vroeg of ze de pillen al had geslikt.",
     "wrongExplanations": {
@@ -1921,7 +1941,12 @@
   },
   {
     "sentence": "Hij heeft zijn laptop naar de vergadering ___.",
-    "options": ["meegenomen", "aangenomen", "opgenomen", "afgenomen"],
+    "options": [
+      "meegenomen",
+      "aangenomen",
+      "opgenomen",
+      "afgenomen"
+    ],
     "correct": 0,
     "explanation": "'Meenemen' = iets bij je nemen als je ergens naartoe gaat. Hij nam zijn laptop mee naar de vergadering.",
     "wrongExplanations": {
@@ -1933,5 +1958,305 @@
     "tense": "perfectum",
     "wordOrder": "standard",
     "register": "neutraal"
+  },
+  {
+    "sentence": "De raad heeft het bezuinigingsvoorstel na lang debat toch ___.",
+    "options": [
+      "aangenomen",
+      "opgenomen",
+      "afgenomen",
+      "ingenomen"
+    ],
+    "correct": 0,
+    "explanation": "'Aannemen' = een voorstel officieel goedkeuren. De raad heeft voor het voorstel gestemd.",
+    "wrongExplanations": {
+      "1": "'Opnemen' = vastleggen op audio of video, of in het ziekenhuis opnemen. Een voorstel wordt aangenomen, niet opgenomen.",
+      "2": "'Afnemen' = minder worden of een examen afnemen. Een voorstel neemt niet af.",
+      "3": "'Innemen' = medicijnen nemen of een positie bezetten. Een voorstel wordt niet ingenomen."
+    },
+    "hint": "De raad heeft voor het voorstel gestemd en het officieel goedgekeurd.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Ze heeft vanochtend contact met de verzekeraar ___.",
+    "options": [
+      "opgenomen",
+      "aangenomen",
+      "afgenomen",
+      "meegenomen"
+    ],
+    "correct": 0,
+    "explanation": "'Contact opnemen' = iemand bellen of mailen om iets te bespreken. Ze heeft de verzekeraar gebeld.",
+    "wrongExplanations": {
+      "1": "'Aannemen' = accepteren of in dienst nemen. Contact wordt opgenomen, niet aangenomen.",
+      "2": "'Afnemen' = dalen of iets afpakken. Contact wordt opgenomen, niet afgenomen.",
+      "3": "'Meenemen' = iets meepakken. Contact neem je op, niet mee."
+    },
+    "hint": "Ze heeft de verzekeraar gebeld om iets te bespreken.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De populariteit van fietsen in de stad is de laatste jaren sterk ___.",
+    "options": [
+      "toegenomen",
+      "afgenomen",
+      "opgenomen",
+      "overgenomen"
+    ],
+    "correct": 0,
+    "explanation": "'Toenemen' = groter of meer worden. Steeds meer mensen in de stad gaan fietsen.",
+    "wrongExplanations": {
+      "1": "'Afnemen' = minder worden. Dat is het tegenovergestelde — de populariteit is juist groter geworden.",
+      "2": "'Opnemen' = vastleggen. Populariteit neemt niet op.",
+      "3": "'Overnemen' = van iemand anders overnemen. Populariteit wordt niet overgenomen."
+    },
+    "hint": "Steeds meer mensen fietsen — het aantal is dus groter geworden.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ruim tweehonderd vrijwilligers hebben aan het wetenschappelijk onderzoek ___.",
+    "options": [
+      "deelgenomen",
+      "meegenomen",
+      "opgenomen",
+      "overgenomen"
+    ],
+    "correct": 0,
+    "explanation": "'Deelnemen' = meedoen aan een activiteit. De vrijwilligers hebben meegedaan aan het onderzoek.",
+    "wrongExplanations": {
+      "1": "'Meenemen' = iets meepakken. Je neemt niet mee aan een onderzoek.",
+      "2": "'Opnemen' = vastleggen. Vrijwilligers nemen niet op aan een onderzoek.",
+      "3": "'Overnemen' = van iemand anders kopiëren of kopen. Je neemt niet over aan een onderzoek."
+    },
+    "hint": "De vrijwilligers hebben meegedaan aan het onderzoek.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Ze vergat haar oplader — gelukkig heeft haar vriend zijn oplader ___.",
+    "options": [
+      "meegenomen",
+      "aangenomen",
+      "opgenomen",
+      "overgenomen"
+    ],
+    "correct": 0,
+    "explanation": "'Meenemen' = iets bij je nemen als je ergens naartoe gaat. De vriend had zijn oplader bij zich.",
+    "wrongExplanations": {
+      "1": "'Aannemen' = accepteren. Een oplader neem je mee, niet aan.",
+      "2": "'Opnemen' = vastleggen. Een oplader neem je mee, niet op.",
+      "3": "'Overnemen' = van iemand anders kopiëren. Een oplader wordt niet overgenomen."
+    },
+    "hint": "De vriend had zijn oplader bij zich.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Omdat ze ziek was, heeft een collega haar dienst ___.",
+    "options": [
+      "overgenomen",
+      "aangenomen",
+      "opgenomen",
+      "meegenomen"
+    ],
+    "correct": 0,
+    "explanation": "'Overnemen' = de taak of verantwoordelijkheid van iemand anders op je nemen. De collega heeft haar dienst gedaan.",
+    "wrongExplanations": {
+      "1": "'Aannemen' = accepteren of in dienst nemen. Een dienst wordt overgenomen, niet aangenomen.",
+      "2": "'Opnemen' = vastleggen of in het ziekenhuis opnemen. Een dienst wordt niet opgenomen.",
+      "3": "'Meenemen' = meepakken. Een dienst neem je niet mee."
+    },
+    "hint": "De collega heeft de dienst voor haar gedaan.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na het gesprek met de leidinggevende hebben ze concrete stappen ___.",
+    "options": [
+      "ondernomen",
+      "aangenomen",
+      "opgenomen",
+      "afgenomen"
+    ],
+    "correct": 0,
+    "explanation": "'Stappen ondernemen' = actief iets doen om iets te bereiken. Ze zijn aan de slag gegaan na het gesprek.",
+    "wrongExplanations": {
+      "1": "'Aannemen' = accepteren. Stappen worden ondernomen, niet aangenomen.",
+      "2": "'Opnemen' = vastleggen. Stappen worden ondernomen, niet opgenomen.",
+      "3": "'Afnemen' = dalen of iets afpakken. Stappen worden niet afgenomen."
+    },
+    "hint": "Ze zijn actief aan de slag gegaan na het gesprek.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Biologen hebben bij de dieren een opvallende verandering in gedrag ___.",
+    "options": [
+      "waargenomen",
+      "opgenomen",
+      "aangenomen",
+      "vernomen"
+    ],
+    "correct": 0,
+    "explanation": "'Waarnemen' = observeren, iets merken of zien. De biologen hebben de gedragsverandering geobserveerd.",
+    "wrongExplanations": {
+      "1": "'Opnemen' = vastleggen op film. Je neemt gedrag op met een camera, maar neemt een verandering waar.",
+      "2": "'Aannemen' = accepteren of veronderstellen. Biologen nemen iets waar, niet aan.",
+      "3": "'Vernemen' = iets horen via een bron. Je verneemt nieuws, niet een directe observatie."
+    },
+    "hint": "De biologen hebben de gedragsverandering gezien en genoteerd.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "De advocaat heeft het contract zorgvuldig met zijn cliënt ___.",
+    "options": [
+      "doorgenomen",
+      "opgenomen",
+      "overgenomen",
+      "meegenomen"
+    ],
+    "correct": 0,
+    "explanation": "'Doornemen' = iets punt voor punt bespreken of bekijken. De advocaat heeft elk onderdeel van het contract besproken.",
+    "wrongExplanations": {
+      "1": "'Opnemen' = vastleggen. Een contract wordt doorgenomen, niet opgenomen.",
+      "2": "'Overnemen' = kopiëren of van iemand anders kopiëren. Een contract wordt doorgenomen, niet overgenomen.",
+      "3": "'Meenemen' = meepakken. Een contract wordt doorgenomen, niet meegenomen."
+    },
+    "hint": "De advocaat heeft elk onderdeel van het contract besproken.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "De partij heeft een duidelijk standpunt over de woningcrisis ___.",
+    "options": [
+      "ingenomen",
+      "opgenomen",
+      "aangenomen",
+      "overgenomen"
+    ],
+    "correct": 0,
+    "explanation": "'Een standpunt innemen' = een duidelijke mening of positie kiezen. De partij heeft haar mening gegeven.",
+    "wrongExplanations": {
+      "1": "'Opnemen' = vastleggen. Een standpunt wordt ingenomen, niet opgenomen.",
+      "2": "'Aannemen' = accepteren. Een standpunt wordt ingenomen, niet aangenomen.",
+      "3": "'Overnemen' = van iemand anders kopiëren. Een standpunt wordt ingenomen, niet overgenomen."
+    },
+    "hint": "De partij heeft haar mening over de woningcrisis duidelijk gemaakt.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Het wetsvoorstel werd pas na jaren van discussie door het parlement ___.",
+    "options": [
+      "aangenomen",
+      "opgenomen",
+      "afgenomen",
+      "ingenomen"
+    ],
+    "correct": 0,
+    "explanation": "'Aannemen' = officieel goedkeuren door stemming. Het parlement heeft voor de wet gestemd.",
+    "wrongExplanations": {
+      "1": "'Opnemen' = vastleggen. Een wetsvoorstel wordt aangenomen, niet opgenomen.",
+      "2": "'Afnemen' = dalen. Een wet wordt niet afgenomen.",
+      "3": "'Innemen' = medicijnen nemen of een positie bezetten. Een wet wordt niet ingenomen."
+    },
+    "hint": "Het parlement stemde uiteindelijk voor het wetsvoorstel.",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Het kleine familiebedrijf werd in de jaren tachtig door een groot concern ___.",
+    "options": [
+      "overgenomen",
+      "aangenomen",
+      "afgenomen",
+      "opgenomen"
+    ],
+    "correct": 0,
+    "explanation": "'Overnemen' = kopen en de controle overnemen. Het concern kocht het familiebedrijf.",
+    "wrongExplanations": {
+      "1": "'Aannemen' = accepteren of in dienst nemen. Een bedrijf wordt overgenomen, niet aangenomen.",
+      "2": "'Afnemen' = dalen of iets afpakken. Een bedrijf wordt niet afgenomen.",
+      "3": "'Opnemen' = vastleggen. Een bedrijf wordt niet opgenomen."
+    },
+    "hint": "Het grote concern kocht het familiebedrijf en nam de controle over.",
+    "tense": "imperfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Tegen het einde van het schooljaar was de spanning bij de leerlingen aanzienlijk ___.",
+    "options": [
+      "toegenomen",
+      "afgenomen",
+      "opgenomen",
+      "aangenomen"
+    ],
+    "correct": 0,
+    "explanation": "'Toenemen' = groter worden. De leerlingen voelden meer spanning aan het einde van het jaar.",
+    "wrongExplanations": {
+      "1": "'Afnemen' = minder worden. Dat is het tegenovergestelde — de spanning was juist groter geworden.",
+      "2": "'Opnemen' = vastleggen. Spanning neemt niet op.",
+      "3": "'Aannemen' = accepteren. Spanning neemt niet aan."
+    },
+    "hint": "Aan het einde van het jaar voelden de leerlingen meer spanning dan aan het begin.",
+    "tense": "imperfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Bij de huiszoeking werd al het bewijsmateriaal door de politie ___.",
+    "options": [
+      "meegenomen",
+      "aangenomen",
+      "opgenomen",
+      "afgenomen"
+    ],
+    "correct": 0,
+    "explanation": "'Meenemen' = iets pakken en meenemen naar een andere locatie. De politie nam het bewijs mee naar het bureau.",
+    "wrongExplanations": {
+      "1": "'Aannemen' = accepteren. Bewijsmateriaal wordt meegenomen, niet aangenomen.",
+      "2": "'Opnemen' = vastleggen. Bewijsmateriaal wordt meegenomen, niet opgenomen.",
+      "3": "'Afnemen' = een examen afnemen of dalen. Bewijsmateriaal wordt niet afgenomen."
+    },
+    "hint": "De politie nam het bewijs mee naar het bureau.",
+    "tense": "imperfectum",
+    "wordOrder": "inversion",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Na een lang beleg werd de stad door de troepen ___.",
+    "options": [
+      "ingenomen",
+      "aangenomen",
+      "opgenomen",
+      "overgenomen"
+    ],
+    "correct": 0,
+    "explanation": "'Innemen' = een stad of positie veroveren. De troepen hebben de stad veroverd.",
+    "wrongExplanations": {
+      "1": "'Aannemen' = accepteren. Een stad wordt ingenomen, niet aangenomen.",
+      "2": "'Opnemen' = vastleggen. Een stad wordt niet opgenomen.",
+      "3": "'Overnemen' = het van iemand anders kopen. Een stad wordt ingenomen door militaire kracht, niet overgenomen."
+    },
+    "hint": "De troepen veroverden de stad na een lang beleg.",
+    "tense": "imperfectum",
+    "wordOrder": "inversion",
+    "register": "formeel"
   }
 ]
