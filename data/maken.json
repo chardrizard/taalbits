@@ -1,7 +1,12 @@
 [
   {
     "sentence": "Voor de kampvuuravond moeten we eerst een vuur ___.",
-    "options": ["aanmaken", "klaarmaken", "openmaken", "schoonmaken"],
+    "options": [
+      "aanmaken",
+      "klaarmaken",
+      "openmaken",
+      "schoonmaken"
+    ],
     "correct": 0,
     "explanation": "'Aanmaken' = iets tot branden brengen. 'Een vuur aanmaken' is de vaste combinatie voor het starten van een kampvuur of open haard.",
     "wrongExplanations": {
@@ -16,7 +21,12 @@
   },
   {
     "sentence": "Ze wil het avondeten ___ voor zijn thuiskomst.",
-    "options": ["klaarmaken", "aanmaken", "schoonmaken", "uitmaken"],
+    "options": [
+      "klaarmaken",
+      "aanmaken",
+      "schoonmaken",
+      "uitmaken"
+    ],
     "correct": 0,
     "explanation": "'Klaarmaken' = bereiden of voorbereiden. 'Eten klaarmaken' is de vaste combinatie voor het bereiden van een maaltijd.",
     "wrongExplanations": {
@@ -31,7 +41,12 @@
   },
   {
     "sentence": "Na het feest moeten we het hele huis ___.",
-    "options": ["schoonmaken", "klaarmaken", "aanmaken", "meemaken"],
+    "options": [
+      "schoonmaken",
+      "klaarmaken",
+      "aanmaken",
+      "meemaken"
+    ],
     "correct": 0,
     "explanation": "'Schoonmaken' = reinigen, het vuil verwijderen. Na een feest is het huis vies en moet het gereinigd worden.",
     "wrongExplanations": {
@@ -46,7 +61,12 @@
   },
   {
     "sentence": "Kun je de champagnefles ___? Ik krijg hem niet open.",
-    "options": ["openmaken", "klaarmaken", "aanmaken", "meemaken"],
+    "options": [
+      "openmaken",
+      "klaarmaken",
+      "aanmaken",
+      "meemaken"
+    ],
     "correct": 0,
     "explanation": "'Openmaken' = openen. 'Een fles openmaken' is de vaste combinatie voor het ontkurken of openen van een fles.",
     "wrongExplanations": {
@@ -61,7 +81,12 @@
   },
   {
     "sentence": "Of je meedoet of niet, dat kan toch niet veel ___?",
-    "options": ["uitmaken", "aanmaken", "klaarmaken", "meemaken"],
+    "options": [
+      "uitmaken",
+      "aanmaken",
+      "klaarmaken",
+      "meemaken"
+    ],
     "correct": 0,
     "explanation": "'Uitmaken' = van belang zijn, ertoe doen. 'Het maakt niet uit' en 'het kan me niet uitmaken' zijn vaste combinaties voor iets dat er niet toe doet.",
     "wrongExplanations": {
@@ -76,7 +101,12 @@
   },
   {
     "sentence": "Als kind wil je zoveel mogelijk ___.",
-    "options": ["meemaken", "klaarmaken", "aanmaken", "uitmaken"],
+    "options": [
+      "meemaken",
+      "klaarmaken",
+      "aanmaken",
+      "uitmaken"
+    ],
     "correct": 0,
     "explanation": "'Meemaken' = beleven, ervaren. 'Van alles meemaken' is de vaste combinatie voor het opdoen van ervaringen.",
     "wrongExplanations": {
@@ -91,7 +121,12 @@
   },
   {
     "sentence": "Om toegang te krijgen, moet je eerst een account ___.",
-    "options": ["aanmaken", "openmaken", "klaarmaken", "meemaken"],
+    "options": [
+      "aanmaken",
+      "openmaken",
+      "klaarmaken",
+      "meemaken"
+    ],
     "correct": 0,
     "explanation": "'Aanmaken' = aanleggen, creëren. 'Een account aanmaken' is de vaste digitale term voor het registreren van een nieuw gebruikersaccount.",
     "wrongExplanations": {
@@ -106,7 +141,12 @@
   },
   {
     "sentence": "Ze heeft zich al ___ voor het diner.",
-    "options": ["klaargemaakt", "aangemaakt", "schoongemaakt", "meegemaakt"],
+    "options": [
+      "klaargemaakt",
+      "aangemaakt",
+      "schoongemaakt",
+      "meegemaakt"
+    ],
     "correct": 0,
     "explanation": "'Klaarmaken' = voorbereiden, gereed maken. 'Zich klaarmaken' is de reflexieve combinatie voor het voorbereiden op vertrek of een afspraak — je bent aangekleed en klaar.",
     "wrongExplanations": {
@@ -121,7 +161,12 @@
   },
   {
     "sentence": "Gisteren heeft hij eindelijk de badkamer ___.",
-    "options": ["schoongemaakt", "klaargemaakt", "aangemaakt", "opengemaakt"],
+    "options": [
+      "schoongemaakt",
+      "klaargemaakt",
+      "aangemaakt",
+      "opengemaakt"
+    ],
     "correct": 0,
     "explanation": "'Schoonmaken' = reinigen. 'Schoongemaakt' is de perfectumvorm. De badkamer was vies en is gereinigd.",
     "wrongExplanations": {
@@ -136,7 +181,12 @@
   },
   {
     "sentence": "De assistent heeft de post al ___.",
-    "options": ["opengemaakt", "klaargemaakt", "aangemaakt", "uitgemaakt"],
+    "options": [
+      "opengemaakt",
+      "klaargemaakt",
+      "aangemaakt",
+      "uitgemaakt"
+    ],
     "correct": 0,
     "explanation": "'Openmaken' = openen. 'Post openmaken' is de vaste combinatie voor het openen van brieven of enveloppen.",
     "wrongExplanations": {
@@ -151,7 +201,12 @@
   },
   {
     "sentence": "Ze heeft hem gisteren ___; ze wilde niet verder.",
-    "options": ["uitgemaakt", "klaargemaakt", "meegemaakt", "aangemaakt"],
+    "options": [
+      "uitgemaakt",
+      "klaargemaakt",
+      "meegemaakt",
+      "aangemaakt"
+    ],
     "correct": 0,
     "explanation": "'Uitmaken' = een relatie beëindigen. 'Iemand uitmaken' is de spreektaalterm voor het verbreken van een romantische relatie.",
     "wrongExplanations": {
@@ -166,7 +221,12 @@
   },
   {
     "sentence": "Na de aardbeving heeft het dorp veel ellende ___.",
-    "options": ["meegemaakt", "aangemaakt", "klaargemaakt", "uitgemaakt"],
+    "options": [
+      "meegemaakt",
+      "aangemaakt",
+      "klaargemaakt",
+      "uitgemaakt"
+    ],
     "correct": 0,
     "explanation": "'Meemaken' = iets beleven of ondergaan, vaak iets ingrijpends. 'Ellende meemaken' is de vaste combinatie voor het doormaken van een zware periode.",
     "wrongExplanations": {
@@ -181,7 +241,12 @@
   },
   {
     "sentence": "De IT-medewerker vroeg of zij zelf een nieuw bestand ___.",
-    "options": ["aanmaakte", "klaarmaakte", "openmaakte", "uitmaakte"],
+    "options": [
+      "aanmaakte",
+      "klaarmaakte",
+      "openmaakte",
+      "uitmaakte"
+    ],
     "correct": 0,
     "explanation": "'Aanmaken' = creëren, aanleggen. 'Aanmaakte' is de imperfectumvorm. 'Een bestand aanmaken' is de vaste digitale term voor het maken van een nieuw document.",
     "wrongExplanations": {
@@ -196,7 +261,12 @@
   },
   {
     "sentence": "De ouders hebben het kinderfeest helemaal zelf ___.",
-    "options": ["klaargemaakt", "aangemaakt", "schoongemaakt", "meegemaakt"],
+    "options": [
+      "klaargemaakt",
+      "aangemaakt",
+      "schoongemaakt",
+      "meegemaakt"
+    ],
     "correct": 0,
     "explanation": "'Klaarmaken' = voorbereiden, in orde brengen. 'Een feest klaarmaken' is de vaste combinatie voor het volledig voorbereiden van een evenement.",
     "wrongExplanations": {
@@ -211,7 +281,12 @@
   },
   {
     "sentence": "Je mag iemand niet ___ voor rotte vis, ook al ben je boos.",
-    "options": ["uitmaken", "aanmaken", "klaarmaken", "schoonmaken"],
+    "options": [
+      "uitmaken",
+      "aanmaken",
+      "klaarmaken",
+      "schoonmaken"
+    ],
     "correct": 0,
     "explanation": "'Uitmaken voor' = iemand uitschelden of betitelen met een scheldwoord. 'Iemand uitmaken voor iets' is de vaste combinatie voor iemand met een beledigend woord aanspreken.",
     "wrongExplanations": {
@@ -226,7 +301,12 @@
   },
   {
     "sentence": "Ze vertelde over de zware winter die het dorp ooit ___.",
-    "options": ["meemaakte", "aanmaakte", "klaarmaakte", "uitmaakte"],
+    "options": [
+      "meemaakte",
+      "aanmaakte",
+      "klaarmaakte",
+      "uitmaakte"
+    ],
     "correct": 0,
     "explanation": "'Meemaken' = iets beleven of ondergaan. 'Meemaakte' is de imperfectumvorm. 'Een zware winter meemaken' beschrijft het doormaken van een moeilijke periode.",
     "wrongExplanations": {
@@ -241,7 +321,12 @@
   },
   {
     "sentence": "Hij vroeg wie er ___ na het feest.",
-    "options": ["schoonmaakte", "klaarmaakte", "aanmaakte", "openmaakte"],
+    "options": [
+      "schoonmaakte",
+      "klaarmaakte",
+      "aanmaakte",
+      "openmaakte"
+    ],
     "correct": 0,
     "explanation": "'Schoonmaken' = reinigen. 'Schoonmaakte' is de imperfectumvorm. Na een feest moet iemand de boel opruimen en reinigen.",
     "wrongExplanations": {
@@ -256,7 +341,12 @@
   },
   {
     "sentence": "De kinderen renden naar de boom zodra vader de cadeaus ___.",
-    "options": ["openmaakte", "klaarmaakte", "aanmaakte", "uitmaakte"],
+    "options": [
+      "openmaakte",
+      "klaarmaakte",
+      "aanmaakte",
+      "uitmaakte"
+    ],
     "correct": 0,
     "explanation": "'Openmaken' = openen. 'Openmaakte' is de imperfectumvorm. Cadeaus 'openmaken' is de vaste combinatie voor het uitpakken van cadeautjes.",
     "wrongExplanations": {
@@ -265,6 +355,666 @@
       "3": "'Uitmaken' = van belang zijn of beëindigen. Dat past niet bij het uitpakken van cadeaus."
     },
     "hint": "Vader opende de cadeaus. Welk prefix past bij 'openen'?",
+    "tense": "imperfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij wil zijn fout ___ door een cadeautje te sturen.",
+    "options": [
+      "goedmaken",
+      "uitmaken",
+      "afmaken",
+      "opmaken"
+    ],
+    "correct": 0,
+    "explanation": "'Goedmaken' = compenseren, herstellen wat fout ging. Hij wil de fout compenseren met een cadeautje.",
+    "wrongExplanations": {
+      "1": "'Uitmaken' = beëindigen of van belang zijn. Een fout maak je goed, je maakt hem niet uit.",
+      "2": "'Afmaken' = voltooien of slachten. Een fout maak je goed, je maakt hem niet af.",
+      "3": "'Opmaken' = opmaken (make-up, geld). Een fout maak je goed, je maakt hem niet op."
+    },
+    "hint": "Hij wil de fout compenseren met een gebaar.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Het bedrijf heeft beloofd de schade aan de omwonenden te ___.",
+    "options": [
+      "goedmaken",
+      "uitmaken",
+      "afmaken",
+      "klaarmaken"
+    ],
+    "correct": 0,
+    "explanation": "'Goedmaken' = compenseren. Het bedrijf wil de geleden schade vergoeden.",
+    "wrongExplanations": {
+      "1": "'Uitmaken' = beëindigen of van belang zijn. Schade maak je goed, je maakt haar niet uit.",
+      "2": "'Afmaken' = voltooien. Schade maak je goed, je maakt haar niet af.",
+      "3": "'Klaarmaken' = voorbereiden. Schade maak je goed, je maakt haar niet klaar."
+    },
+    "hint": "Het bedrijf wil de geleden schade vergoeden.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Ze hoopt het verloren vertrouwen ooit te ___.",
+    "options": [
+      "goedmaken",
+      "opmaken",
+      "afmaken",
+      "uitmaken"
+    ],
+    "correct": 0,
+    "explanation": "'Goedmaken' = herstellen wat verloren ging. Ze hoopt het vertrouwen te herstellen.",
+    "wrongExplanations": {
+      "1": "'Opmaken' = opmaken (geld, make-up). Vertrouwen maak je goed, je maakt het niet op.",
+      "2": "'Afmaken' = voltooien. Vertrouwen maak je goed, je maakt het niet af.",
+      "3": "'Uitmaken' = beëindigen of van belang zijn. Vertrouwen maak je goed, je maakt het niet uit."
+    },
+    "hint": "Ze hoopt het verloren vertrouwen te herstellen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze wil haar make-up ___ voordat het feest begint.",
+    "options": [
+      "opmaken",
+      "afmaken",
+      "goedmaken",
+      "klaarmaken"
+    ],
+    "correct": 0,
+    "explanation": "'Opmaken' = make-up aanbrengen. Ze wil haar make-up doen voordat het feest begint.",
+    "wrongExplanations": {
+      "1": "'Afmaken' = voltooien of slachten. Make-up maak je op, je maakt hem niet af.",
+      "2": "'Goedmaken' = compenseren. Make-up maak je op, je maakt het niet goed.",
+      "3": "'Klaarmaken' = voorbereiden. Make-up maak je op, je maakt het niet klaar."
+    },
+    "hint": "Ze wil haar make-up aanbrengen voor het feest.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De notaris moet een officieel document ___.",
+    "options": [
+      "opmaken",
+      "afmaken",
+      "goedmaken",
+      "aanmaken"
+    ],
+    "correct": 0,
+    "explanation": "'Opmaken' = een officieel document opstellen. De notaris stelt het document op.",
+    "wrongExplanations": {
+      "1": "'Afmaken' = voltooien. Een notarieel document maak je op (stelt op), je maakt het niet af.",
+      "2": "'Goedmaken' = compenseren. Een document maak je op, je maakt het niet goed.",
+      "3": "'Aanmaken' = aanmaken (vuur, account). Een officieel document maak je op, je maakt het niet aan."
+    },
+    "hint": "De notaris stelt een officieel document op.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Ze heeft al haar spaargeld kunnen ___ in één weekend in Parijs.",
+    "options": [
+      "opmaken",
+      "goedmaken",
+      "afmaken",
+      "meemaken"
+    ],
+    "correct": 0,
+    "explanation": "'Opmaken' = al je geld uitgeven. Ze heeft al haar spaargeld uitgegeven in één weekend.",
+    "wrongExplanations": {
+      "1": "'Goedmaken' = compenseren. Geld maak je op (geef je uit), je maakt het niet goed.",
+      "2": "'Afmaken' = voltooien. Geld maak je op, je maakt het niet af.",
+      "3": "'Meemaken' = beleven. Geld maak je op, je maakt het niet mee."
+    },
+    "hint": "Ze heeft al haar spaargeld in één weekend uitgegeven.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij heeft het project bijna ___ — nog één hoofdstuk te gaan.",
+    "options": [
+      "afgemaakt",
+      "opgemaakt",
+      "goedgemaakt",
+      "klaargemaakt"
+    ],
+    "correct": 0,
+    "explanation": "'Afmaken' = voltooien, helemaal klaar maken. Hij heeft het project bijna afgerond.",
+    "wrongExplanations": {
+      "1": "'Opmaken' = opmaken (geld, make-up). Een project maak je af, je maakt het niet op.",
+      "2": "'Goedmaken' = compenseren. Een project maak je af, je maakt het niet goed.",
+      "3": "'Klaarmaken' = voorbereiden. Afmaken = voltooien; klaarmaken = voorbereiden."
+    },
+    "hint": "Hij heeft het project bijna afgerond.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Wat ze ook begint, ze maakt het nooit ___.",
+    "options": [
+      "af",
+      "op",
+      "goed",
+      "klaar"
+    ],
+    "correct": 0,
+    "explanation": "'Afmaken' = voltooien. Ze rondt nooit iets af wat ze begint.",
+    "wrongExplanations": {
+      "1": "'Opmaken' = opmaken (geld, make-up). Ze maakt dingen niet af (voltooit), ze maakt ze niet op.",
+      "2": "'Goedmaken' = compenseren. Ze maakt dingen niet af, ze maakt ze niet goed.",
+      "3": "'Klaarmaken' = voorbereiden. Ze maakt dingen niet af (voltooit), ze maakt ze niet klaar."
+    },
+    "hint": "Ze rondt nooit iets af wat ze begint.",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na de scheiding heeft hij een zware periode moeten ___.",
+    "options": [
+      "doormaken",
+      "meemaken",
+      "goedmaken",
+      "afmaken"
+    ],
+    "correct": 0,
+    "explanation": "'Doormaken' = een moeilijke periode ondergaan. Hij heeft na de scheiding een zware tijd doorstaan.",
+    "wrongExplanations": {
+      "1": "'Meemaken' = beleven, ervaren. Doormaken = doorstaan (moeilijk); meemaken = beleven (neutraal of positief).",
+      "2": "'Goedmaken' = compenseren. Een periode maak je door, je maakt hem niet goed.",
+      "3": "'Afmaken' = voltooien. Een periode maak je door, je maakt hem niet af."
+    },
+    "hint": "Hij heeft na de scheiding een moeilijke periode doorstaan.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Het bedrijf heeft afgelopen jaar een enorme groei ___.",
+    "options": [
+      "doorgemaakt",
+      "meegemaakt",
+      "goedgemaakt",
+      "afgemaakt"
+    ],
+    "correct": 0,
+    "explanation": "'Doormaken' = ondergaan, meemaken (een ontwikkeling of periode). Het bedrijf heeft een enorme groei ondergaan.",
+    "wrongExplanations": {
+      "1": "'Meemaken' = beleven. Doormaken benadrukt het doorstaan van een ontwikkeling; meemaken is meer neutraal beleven.",
+      "2": "'Goedmaken' = compenseren. Een groei maak je door, je maakt hem niet goed.",
+      "3": "'Afmaken' = voltooien. Een groei maak je door, je maakt hem niet af."
+    },
+    "hint": "Het bedrijf heeft een enorme groei ondergaan.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Om een taal te leren, moet je een intensief leerproces ___.",
+    "options": [
+      "doormaken",
+      "meemaken",
+      "afmaken",
+      "goedmaken"
+    ],
+    "correct": 0,
+    "explanation": "'Doormaken' = een proces ondergaan. Om een taal te leren, moet je een intensief leerproces doorlopen.",
+    "wrongExplanations": {
+      "1": "'Meemaken' = beleven. Je doorloopt (maakt door) een leerproces; je maakt het ook mee, maar doormaken benadrukt het ondergaan.",
+      "2": "'Afmaken' = voltooien. Een leerproces maak je door, je maakt het niet af.",
+      "3": "'Goedmaken' = compenseren. Een leerproces maak je door, je maakt het niet goed."
+    },
+    "hint": "Om een taal te leren, moet je een intensief leerproces doorlopen.",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De ketting van zijn fiets zit vast — hij wil hem ___.",
+    "options": [
+      "losmaken",
+      "vrijmaken",
+      "afmaken",
+      "goedmaken"
+    ],
+    "correct": 0,
+    "explanation": "'Losmaken' = iets dat vastzit los weten te krijgen. Hij wil de ketting loswrikken.",
+    "wrongExplanations": {
+      "1": "'Vrijmaken' = tijd vrijmaken of bevrijden. Je maakt een ketting los, je maakt hem niet vrij.",
+      "2": "'Afmaken' = voltooien. Een ketting maak je los, je maakt hem niet af.",
+      "3": "'Goedmaken' = compenseren. Een ketting maak je los, je maakt hem niet goed."
+    },
+    "hint": "De ketting zit vast — hij wil hem loswrikken.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze wil het lint ___ dat de verpakking sluit.",
+    "options": [
+      "losmaken",
+      "vrijmaken",
+      "afmaken",
+      "opmaken"
+    ],
+    "correct": 0,
+    "explanation": "'Losmaken' = iets losmaken, losknopen. Ze wil het lint dat om de verpakking zit verwijderen.",
+    "wrongExplanations": {
+      "1": "'Vrijmaken' = tijd vrijmaken. Je maakt een lint los, je maakt het niet vrij.",
+      "2": "'Afmaken' = voltooien. Je maakt een lint los, je maakt het niet af.",
+      "3": "'Opmaken' = opmaken. Je maakt een lint los, je maakt het niet op."
+    },
+    "hint": "Ze wil het lint dat om de verpakking zit verwijderen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Kun je morgenochtend een uur ___ voor een bespreking?",
+    "options": [
+      "vrijmaken",
+      "losmaken",
+      "goedmaken",
+      "afmaken"
+    ],
+    "correct": 0,
+    "explanation": "'Vrijmaken' = tijd beschikbaar stellen. Hij vraagt of ze morgenochtend een uur kunnen reserveren.",
+    "wrongExplanations": {
+      "1": "'Losmaken' = iets los weten te maken. Je maakt tijd vrij, je maakt het niet los.",
+      "2": "'Goedmaken' = compenseren. Je maakt tijd vrij, je maakt het niet goed.",
+      "3": "'Afmaken' = voltooien. Je maakt tijd vrij, je maakt het niet af."
+    },
+    "hint": "Hij vraagt of ze morgenochtend een uur kunnen reserveren voor een bespreking.",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze wil komende week wat tijd ___ om haar ouders te bezoeken.",
+    "options": [
+      "vrijmaken",
+      "losmaken",
+      "goedmaken",
+      "klaarmaken"
+    ],
+    "correct": 0,
+    "explanation": "'Vrijmaken' = tijd beschikbaar stellen. Ze wil komende week tijd reserveren voor een bezoek.",
+    "wrongExplanations": {
+      "1": "'Losmaken' = iets los weten te maken. Je maakt tijd vrij, je maakt het niet los.",
+      "2": "'Goedmaken' = compenseren. Je maakt tijd vrij, je maakt het niet goed.",
+      "3": "'Klaarmaken' = voorbereiden. Je maakt tijd vrij, je maakt het niet klaar."
+    },
+    "hint": "Ze wil komende week tijd reserveren om haar ouders te bezoeken.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Op de eerste dag wil hij graag ___ met zijn nieuwe collega's.",
+    "options": [
+      "kennismaken",
+      "goedmaken",
+      "uitmaken",
+      "meemaken"
+    ],
+    "correct": 0,
+    "explanation": "'Kennismaken' = voor het eerst iemand ontmoeten. Hij wil zijn nieuwe collega's leren kennen.",
+    "wrongExplanations": {
+      "1": "'Goedmaken' = compenseren. Je maakt kennis, je maakt niets goed.",
+      "2": "'Uitmaken' = beëindigen of van belang zijn. Je maakt kennis, je maakt niets uit.",
+      "3": "'Meemaken' = beleven. Je maakt kennis, je maakt niets mee."
+    },
+    "hint": "Hij wil zijn nieuwe collega's op de eerste dag leren kennen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Als je naar een nieuw land verhuist, moet je met veel nieuwe gewoonten ___.",
+    "options": [
+      "kennismaken",
+      "goedmaken",
+      "uitmaken",
+      "doormaken"
+    ],
+    "correct": 0,
+    "explanation": "'Kennismaken' = voor het eerst iets leren kennen. Je leert de nieuwe gewoonten kennen als je naar een nieuw land verhuist.",
+    "wrongExplanations": {
+      "1": "'Goedmaken' = compenseren. Je maakt kennis met gewoonten, je maakt ze niet goed.",
+      "2": "'Uitmaken' = beëindigen. Je maakt kennis met gewoonten, je maakt ze niet uit.",
+      "3": "'Doormaken' = ondergaan. Je maakt kennis met gewoonten, je maakt ze niet door."
+    },
+    "hint": "Je leert de nieuwe gewoonten kennen als je naar een nieuw land verhuist.",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij was zo boos dat hij zijn telefoon dreigde te ___.",
+    "options": [
+      "kapotmaken",
+      "afmaken",
+      "goedmaken",
+      "losmaken"
+    ],
+    "correct": 0,
+    "explanation": "'Kapotmaken' = iets beschadigen of stukgooien. Hij dreigde zijn telefoon stuk te gooien van woede.",
+    "wrongExplanations": {
+      "1": "'Afmaken' = voltooien. Een telefoon maak je kapot, je maakt hem niet af.",
+      "2": "'Goedmaken' = compenseren. Een telefoon maak je kapot, je maakt hem niet goed.",
+      "3": "'Losmaken' = iets losmaken. Een telefoon maak je kapot, je maakt hem niet los."
+    },
+    "hint": "Hij dreigde zijn telefoon stuk te gooien van woede.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Kinderen kunnen snel speelgoed ___ als ze er ruw mee omgaan.",
+    "options": [
+      "kapotmaken",
+      "afmaken",
+      "losmaken",
+      "goedmaken"
+    ],
+    "correct": 0,
+    "explanation": "'Kapotmaken' = iets beschadigen of breken. Kinderen kunnen speelgoed breken als ze er ruw mee omgaan.",
+    "wrongExplanations": {
+      "1": "'Afmaken' = voltooien. Speelgoed maak je kapot, je maakt het niet af.",
+      "2": "'Losmaken' = iets losm aken. Speelgoed maak je kapot, je maakt het niet los.",
+      "3": "'Goedmaken' = compenseren. Speelgoed maak je kapot, je maakt het niet goed."
+    },
+    "hint": "Als kinderen er ruw mee omgaan, kunnen ze speelgoed breken.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Het kan negatieve ervaringen op school het zelfvertrouwen van kinderen ___.",
+    "options": [
+      "kapotmaken",
+      "goedmaken",
+      "afmaken",
+      "vrijmaken"
+    ],
+    "correct": 0,
+    "explanation": "'Kapotmaken' = iets vernietigen of ernstig beschadigen. Negatieve ervaringen kunnen het zelfvertrouwen ernstig beschadigen.",
+    "wrongExplanations": {
+      "1": "'Goedmaken' = compenseren. Zelfvertrouwen maak je kapot, je maakt het niet goed (in deze context).",
+      "2": "'Afmaken' = voltooien of neerhalen. Kapotmaken gaat hier over vernietigen; afmaken over neerhalen van een persoon.",
+      "3": "'Vrijmaken' = tijd beschikbaar stellen. Zelfvertrouwen maak je kapot, je maakt het niet vrij."
+    },
+    "hint": "Negatieve ervaringen kunnen het zelfvertrouwen van kinderen ernstig beschadigen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Of we het doen of niet, het maakt voor het resultaat toch niet veel ___.",
+    "options": [
+      "uit",
+      "goed",
+      "af",
+      "op"
+    ],
+    "correct": 0,
+    "explanation": "'Uitmaken' = van belang zijn. Het heeft nauwelijks invloed op het resultaat.",
+    "wrongExplanations": {
+      "1": "'Goedmaken' = compenseren. Het maakt uit (heeft invloed), het maakt niet goed.",
+      "2": "'Afmaken' = voltooien. Het maakt uit (heeft invloed), het maakt niet af.",
+      "3": "'Opmaken' = opmaken. Het maakt uit (heeft invloed), het maakt niet op."
+    },
+    "hint": "Het heeft nauwelijks invloed op het resultaat.",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze hoopt als kind zoveel mogelijk mooie herinneringen te ___.",
+    "options": [
+      "meemaken",
+      "doormaken",
+      "goedmaken",
+      "afmaken"
+    ],
+    "correct": 0,
+    "explanation": "'Meemaken' = beleven, ervaren. Ze hoopt veel mooie dingen te beleven als kind.",
+    "wrongExplanations": {
+      "1": "'Doormaken' = doorstaan (moeilijkheden). Herinneringen maak je mee, je maakt ze niet door.",
+      "2": "'Goedmaken' = compenseren. Herinneringen maak je mee, je maakt ze niet goed.",
+      "3": "'Afmaken' = voltooien. Herinneringen maak je mee, je maakt ze niet af."
+    },
+    "hint": "Ze hoopt veel mooie dingen te beleven als kind.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Zoiets heb ik nog nooit eerder ___; het was echt uniek.",
+    "options": [
+      "meegemaakt",
+      "doorgemaakt",
+      "goedgemaakt",
+      "afgemaakt"
+    ],
+    "correct": 0,
+    "explanation": "'Meemaken' = beleven, ervaren. Zoiets unieks heeft hij nog nooit eerder beleefd.",
+    "wrongExplanations": {
+      "1": "'Doormaken' = doorstaan. Hij heeft iets unieks meegemaakt (beleefd), niet doorgemaakt.",
+      "2": "'Goedmaken' = compenseren. Hij heeft iets meegemaakt, niet goedgemaakt.",
+      "3": "'Afmaken' = voltooien. Hij heeft iets meegemaakt, niet afgemaakt."
+    },
+    "hint": "Zoiets unieks heeft hij nog nooit eerder beleefd.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij heeft zijn fout uiteindelijk ___ met een oprechte verontschuldiging.",
+    "options": [
+      "goedgemaakt",
+      "uitgemaakt",
+      "afgemaakt",
+      "opgemaakt"
+    ],
+    "correct": 0,
+    "explanation": "'Goedmaken' = compenseren, herstellen. Hij heeft de fout hersteld met een verontschuldiging.",
+    "wrongExplanations": {
+      "1": "'Uitmaken' = beëindigen of van belang zijn. De fout is goedgemaakt, niet uitgemaakt.",
+      "2": "'Afmaken' = voltooien. De fout is goedgemaakt, niet afgemaakt.",
+      "3": "'Opmaken' = opmaken. De fout is goedgemaakt, niet opgemaakt."
+    },
+    "hint": "Hij heeft de fout hersteld met een oprechte verontschuldiging.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De notaris heeft het testament zorgvuldig ___.",
+    "options": [
+      "opgemaakt",
+      "afgemaakt",
+      "goedgemaakt",
+      "klaargemaakt"
+    ],
+    "correct": 0,
+    "explanation": "'Opmaken' = een officieel document opstellen. De notaris heeft het testament opgesteld.",
+    "wrongExplanations": {
+      "1": "'Afgemaakt' = voltooid. Een testament maak je op (stel je op), je maakt het niet af.",
+      "2": "'Goedgemaakt' = gecompenseerd. Een testament maak je op, je maakt het niet goed.",
+      "3": "'Klaargemaakt' = voorbereid. Een testament maak je op (stelt op), je maakt het niet klaar."
+    },
+    "hint": "De notaris heeft het testament opgesteld.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Ze heeft haar scriptie eindelijk ___ na drie jaar hard werken.",
+    "options": [
+      "afgemaakt",
+      "opgemaakt",
+      "goedgemaakt",
+      "klaargemaakt"
+    ],
+    "correct": 0,
+    "explanation": "'Afmaken' = voltooien. Ze heeft haar scriptie na drie jaar voltooid.",
+    "wrongExplanations": {
+      "1": "'Opgemaakt' = opgemaakt (make-up, document). Een scriptie maak je af (voltooi je), je maakt hem niet op.",
+      "2": "'Goedgemaakt' = gecompenseerd. Een scriptie maak je af, je maakt hem niet goed.",
+      "3": "'Klaargemaakt' = voorbereid. Afmaken = voltooien; klaarmaken = voorbereiden."
+    },
+    "hint": "Ze heeft haar scriptie na drie jaar voltooid.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Het bedrijf heeft de afgelopen jaren een ware transformatie ___.",
+    "options": [
+      "doorgemaakt",
+      "meegemaakt",
+      "goedgemaakt",
+      "afgemaakt"
+    ],
+    "correct": 0,
+    "explanation": "'Doormaken' = ondergaan, meemaken. Het bedrijf heeft een grote transformatie ondergaan.",
+    "wrongExplanations": {
+      "1": "'Meegemaakt' = beleefd. Doormaken benadrukt het ondergaan van een (moeilijk) proces.",
+      "2": "'Goedgemaakt' = gecompenseerd. Een transformatie maak je door, je maakt hem niet goed.",
+      "3": "'Afgemaakt' = voltooid. Een transformatie maak je door, je maakt hem niet af."
+    },
+    "hint": "Het bedrijf heeft de afgelopen jaren een grote transformatie ondergaan.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De monteur heeft de verstopte pijp ___.",
+    "options": [
+      "losgemaakt",
+      "vrijgemaakt",
+      "goedgemaakt",
+      "kapotgemaakt"
+    ],
+    "correct": 0,
+    "explanation": "'Losmaken' = iets dat vastzit los weten te maken. De monteur heeft de pijp losgemaakt.",
+    "wrongExplanations": {
+      "1": "'Vrijgemaakt' = beschikbaar gemaakt. Een pijp maak je los, je maakt hem niet vrij.",
+      "2": "'Goedgemaakt' = gecompenseerd. Een pijp maak je los, je maakt hem niet goed.",
+      "3": "'Kapotgemaakt' = gebroken. De monteur heeft de pijp losgemaakt, niet kapotgemaakt."
+    },
+    "hint": "De monteur heeft de verstopte pijp los weten te maken.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft de hele middag ___ om hem te helpen verhuizen.",
+    "options": [
+      "vrijgemaakt",
+      "losgemaakt",
+      "goedgemaakt",
+      "klaargemaakt"
+    ],
+    "correct": 0,
+    "explanation": "'Vrijmaken' = tijd beschikbaar stellen. Ze heeft haar middag vrijgehouden om hem te helpen.",
+    "wrongExplanations": {
+      "1": "'Losgemaakt' = losgmaakt. Ze heeft tijd vrijgemaakt, niet losgemaakt.",
+      "2": "'Goedgemaakt' = gecompenseerd. Ze heeft tijd vrijgemaakt, niet goedgemaakt.",
+      "3": "'Klaargemaakt' = voorbereid. Ze heeft tijd vrijgemaakt, niet klaargemaakt."
+    },
+    "hint": "Ze heeft haar middag beschikbaar gesteld om hem te helpen verhuizen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft tijdens de conferentie ___ met veel interessante mensen.",
+    "options": [
+      "kennisgemaakt",
+      "goedgemaakt",
+      "meegemaakt",
+      "uitgemaakt"
+    ],
+    "correct": 0,
+    "explanation": "'Kennismaken' = voor het eerst iemand ontmoeten. Ze heeft tijdens de conferentie veel mensen leren kennen.",
+    "wrongExplanations": {
+      "1": "'Goedgemaakt' = gecompenseerd. Ze heeft kennisgemaakt, niet goedgemaakt.",
+      "2": "'Meegemaakt' = beleefd. Ze heeft kennisgemaakt (mensen ontmoet), niet meegemaakt.",
+      "3": "'Uitgemaakt' = beëindigd of van belang. Ze heeft kennisgemaakt, niet uitgemaakt."
+    },
+    "hint": "Ze heeft tijdens de conferentie veel mensen leren kennen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De kinderen hebben de nieuwe tablet al ___ op de eerste dag.",
+    "options": [
+      "kapotgemaakt",
+      "losgemaakt",
+      "vrijgemaakt",
+      "goedgemaakt"
+    ],
+    "correct": 0,
+    "explanation": "'Kapotmaken' = iets breken of beschadigen. De kinderen hebben de tablet al gebroken op de eerste dag.",
+    "wrongExplanations": {
+      "1": "'Losgemaakt' = losgemaakt. De kinderen hebben de tablet kapotgemaakt, niet losgemaakt.",
+      "2": "'Vrijgemaakt' = beschikbaar gemaakt. De tablet is kapotgemaakt, niet vrijgemaakt.",
+      "3": "'Goedgemaakt' = gecompenseerd. De tablet is kapotgemaakt, niet goedgemaakt."
+    },
+    "hint": "De kinderen hebben de nieuwe tablet al op de eerste dag gebroken.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft haar oude kamer zelf ___ voor haar baby.",
+    "options": [
+      "klaargemaakt",
+      "afgemaakt",
+      "opgemaakt",
+      "goedgemaakt"
+    ],
+    "correct": 0,
+    "explanation": "'Klaarmaken' = voorbereiden, in gereedheid brengen. Ze heeft de kamer ingericht en voorbereid voor de baby.",
+    "wrongExplanations": {
+      "1": "'Afgemaakt' = voltooid. Een kamer maak je klaar (richt je in), je maakt hem niet af.",
+      "2": "'Opgemaakt' = opgemaakt (document, make-up). Een kamer maak je klaar, je maakt hem niet op.",
+      "3": "'Goedgemaakt' = gecompenseerd. Een kamer maak je klaar, je maakt hem niet goed."
+    },
+    "hint": "Ze heeft de kamer ingericht en voorbereid voor de baby.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij vroeg hoe ze met zo weinig geld toch hun vakantie ___.",
+    "options": [
+      "klaarmakten",
+      "opmakten",
+      "goedmakten",
+      "afmakten"
+    ],
+    "correct": 0,
+    "explanation": "'Klaarmaken' = voorbereiden, regelen. Ze regelten de vakantie met weinig geld.",
+    "wrongExplanations": {
+      "1": "'Opmaken' = opmaken (geld). Ze maakten de vakantie klaar (regelten), ze maakten hem niet op.",
+      "2": "'Goedmaken' = compenseren. Ze maakten de vakantie klaar, ze maakten hem niet goed.",
+      "3": "'Afmaken' = voltooien. Ze maakten de vakantie klaar, ze maakten hem niet af."
+    },
+    "hint": "Ze regelten de vakantie met weinig geld.",
     "tense": "imperfectum",
     "wordOrder": "bijzin",
     "register": "neutraal"

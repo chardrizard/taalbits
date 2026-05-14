@@ -1,7 +1,12 @@
 [
   {
     "sentence": "De politie wil de verdachte ___ voor nader verhoor.",
-    "options": ["aanhouden", "ophouden", "tegenhouden", "bijhouden"],
+    "options": [
+      "aanhouden",
+      "ophouden",
+      "tegenhouden",
+      "bijhouden"
+    ],
     "correct": 0,
     "explanation": "'Aanhouden' = iemand arresteren of staande houden. Dit is de vaste politieterm voor het in hechtenis nemen van een verdachte voor verhoor.",
     "wrongExplanations": {
@@ -16,7 +21,12 @@
   },
   {
     "sentence": "Zou je even ___ met dat lawaai? Ik kan me totaal niet concentreren.",
-    "options": ["ophouden", "aanhouden", "bijhouden", "volhouden"],
+    "options": [
+      "ophouden",
+      "aanhouden",
+      "bijhouden",
+      "volhouden"
+    ],
     "correct": 0,
     "explanation": "'Ophouden met' = stoppen met iets. 'Houd op met dat lawaai' is de vaste combinatie als je iemand vraagt iets te staken.",
     "wrongExplanations": {
@@ -31,7 +41,12 @@
   },
   {
     "sentence": "Ze wil een dagboek ___ om haar ervaringen vast te leggen.",
-    "options": ["bijhouden", "aanhouden", "ophouden", "inhouden"],
+    "options": [
+      "bijhouden",
+      "aanhouden",
+      "ophouden",
+      "inhouden"
+    ],
     "correct": 0,
     "explanation": "'Bijhouden' = regelmatig invullen of updaten. Een dagboek 'bijhouden' is de vaste combinatie voor het regelmatig schrijven van je ervaringen.",
     "wrongExplanations": {
@@ -46,7 +61,12 @@
   },
   {
     "sentence": "De bewaker kon de opgewonden menigte niet meer ___.",
-    "options": ["tegenhouden", "aanhouden", "ophouden", "bijhouden"],
+    "options": [
+      "tegenhouden",
+      "aanhouden",
+      "ophouden",
+      "bijhouden"
+    ],
     "correct": 0,
     "explanation": "'Tegenhouden' = verhinderen dat iemand of iets doorkomt. De bewaker kon de massa niet langer blokkeren of stoppen.",
     "wrongExplanations": {
@@ -61,7 +81,12 @@
   },
   {
     "sentence": "Toch moet je ___; de finish is al bijna in zicht.",
-    "options": ["volhouden", "aanhouden", "bijhouden", "ophouden"],
+    "options": [
+      "volhouden",
+      "aanhouden",
+      "bijhouden",
+      "ophouden"
+    ],
     "correct": 0,
     "explanation": "'Volhouden' = doorzetten, niet opgeven. Als de finish in zicht is, moet je doorzetten en niet stoppen.",
     "wrongExplanations": {
@@ -76,7 +101,12 @@
   },
   {
     "sentence": "Deze beslissing kan grote gevolgen voor ons ___.",
-    "options": ["inhouden", "aanhouden", "bijhouden", "tegenhouden"],
+    "options": [
+      "inhouden",
+      "aanhouden",
+      "bijhouden",
+      "tegenhouden"
+    ],
     "correct": 0,
     "explanation": "'Inhouden' = betekenen of impliceren. 'Dat houdt in dat...' is de vaste combinatie voor het aangeven van gevolgen of consequenties.",
     "wrongExplanations": {
@@ -91,7 +121,12 @@
   },
   {
     "sentence": "Het slechte weer heeft de hele week ___.",
-    "options": ["aangehouden", "opgehouden", "bijgehouden", "tegengehouden"],
+    "options": [
+      "aangehouden",
+      "opgehouden",
+      "bijgehouden",
+      "tegengehouden"
+    ],
     "correct": 0,
     "explanation": "'Aanhouden' = voortduren, blijven bestaan. Als slecht weer aanhoudt, duurt het langer dan verwacht en stopt het niet.",
     "wrongExplanations": {
@@ -106,7 +141,12 @@
   },
   {
     "sentence": "Gelukkig is de regen na een uur ___.",
-    "options": ["opgehouden", "aangehouden", "bijgehouden", "volgehouden"],
+    "options": [
+      "opgehouden",
+      "aangehouden",
+      "bijgehouden",
+      "volgehouden"
+    ],
     "correct": 0,
     "explanation": "'Ophouden' = stoppen. Als de regen ophoudt, stopt die met vallen. Dit is de vaste combinatie voor regen of een activiteit die eindigt.",
     "wrongExplanations": {
@@ -121,7 +161,12 @@
   },
   {
     "sentence": "De accountant heeft alle uitgaven nauwkeurig ___.",
-    "options": ["bijgehouden", "aangehouden", "ingehouden", "tegengehouden"],
+    "options": [
+      "bijgehouden",
+      "aangehouden",
+      "ingehouden",
+      "tegengehouden"
+    ],
     "correct": 0,
     "explanation": "'Bijhouden' = nauwkeurig registreren of documenteren. Uitgaven 'bijhouden' is de vaste combinatie voor het documenteren van financiële gegevens.",
     "wrongExplanations": {
@@ -136,7 +181,12 @@
   },
   {
     "sentence": "De douane heeft de verdachte zending bij de grens ___.",
-    "options": ["tegengehouden", "aangehouden", "opgehouden", "ingehouden"],
+    "options": [
+      "tegengehouden",
+      "aangehouden",
+      "opgehouden",
+      "ingehouden"
+    ],
     "correct": 0,
     "explanation": "'Tegenhouden' = verhinderen dat iets doorkomt. De douane blokkeerde de zending en liet die niet passeren.",
     "wrongExplanations": {
@@ -151,7 +201,12 @@
   },
   {
     "sentence": "Ondanks alle kritiek heeft zij haar standpunt ___.",
-    "options": ["volgehouden", "aangehouden", "bijgehouden", "tegengehouden"],
+    "options": [
+      "volgehouden",
+      "aangehouden",
+      "bijgehouden",
+      "tegengehouden"
+    ],
     "correct": 0,
     "explanation": "'Volhouden' = iets blijven beweren of handhaven. Een standpunt 'volhouden' betekent dat je erbij blijft, ook onder druk.",
     "wrongExplanations": {
@@ -166,7 +221,12 @@
   },
   {
     "sentence": "De werkgever liet weten dat hij een deel van het loon heeft ___ wegens het verzuim.",
-    "options": ["ingehouden", "aangehouden", "bijgehouden", "tegengehouden"],
+    "options": [
+      "ingehouden",
+      "aangehouden",
+      "bijgehouden",
+      "tegengehouden"
+    ],
     "correct": 0,
     "explanation": "'Inhouden' = een deel van het loon niet uitbetalen. 'Loon inhouden' is de juridisch-formele term voor het achterhouden van salaris.",
     "wrongExplanations": {
@@ -181,7 +241,12 @@
   },
   {
     "sentence": "Hij klaagde dat de hoofdpijn al drie dagen ___.",
-    "options": ["aanhield", "ophield", "bijhield", "tegenhield"],
+    "options": [
+      "aanhield",
+      "ophield",
+      "bijhield",
+      "tegenhield"
+    ],
     "correct": 0,
     "explanation": "'Aanhouden' = voortduren, blijven bestaan. 'Aanhield' is de imperfectumvorm. Aanhoudende hoofdpijn duurt langer dan verwacht en stopt niet vanzelf.",
     "wrongExplanations": {
@@ -196,7 +261,12 @@
   },
   {
     "sentence": "Ze moest haar adem ___ toen de rechter het vonnis voorlas.",
-    "options": ["inhouden", "ophouden", "tegenhouden", "bijhouden"],
+    "options": [
+      "inhouden",
+      "ophouden",
+      "tegenhouden",
+      "bijhouden"
+    ],
     "correct": 0,
     "explanation": "'Inhouden' = niet naar buiten laten, binnenhouden. 'Adem inhouden' is de vaste combinatie voor het stoppen van je ademhaling, vaak uit spanning of concentratie.",
     "wrongExplanations": {
@@ -211,7 +281,12 @@
   },
   {
     "sentence": "Hij merkte dat hij de snel veranderende markt niet meer kon ___.",
-    "options": ["bijhouden", "aanhouden", "tegenhouden", "volhouden"],
+    "options": [
+      "bijhouden",
+      "aanhouden",
+      "tegenhouden",
+      "volhouden"
+    ],
     "correct": 0,
     "explanation": "'Bijhouden' = gelijke tred houden met iets, niet achterblijven. Als je een markt niet kunt bijhouden, loop je achter op de laatste ontwikkelingen.",
     "wrongExplanations": {
@@ -226,7 +301,12 @@
   },
   {
     "sentence": "De journalist vroeg of hij echt ___ dat hij van niets wist.",
-    "options": ["volhield", "bijhield", "aanhield", "tegenhield"],
+    "options": [
+      "volhield",
+      "bijhield",
+      "aanhield",
+      "tegenhield"
+    ],
     "correct": 0,
     "explanation": "'Volhouden' = iets blijven beweren, bij een standpunt blijven. 'Volhield' is de imperfectumvorm. 'Volhouden dat...' is de vaste combinatie voor een bewering hardnekkig aanhouden.",
     "wrongExplanations": {
@@ -241,7 +321,12 @@
   },
   {
     "sentence": "Hij was zo vastberaden dat niets hem ___.",
-    "options": ["tegenhield", "bijhield", "volhield", "aanhield"],
+    "options": [
+      "tegenhield",
+      "bijhield",
+      "volhield",
+      "aanhield"
+    ],
     "correct": 0,
     "explanation": "'Tegenhouden' = verhinderen of stoppen. 'Tegenhield' is de imperfectumvorm. Niets kon hem tegenhouden — hij ging door ondanks alle obstakels.",
     "wrongExplanations": {
@@ -256,7 +341,12 @@
   },
   {
     "sentence": "Ze wachtten tot de muziek ___.",
-    "options": ["ophield", "aanhield", "bijhield", "tegenhield"],
+    "options": [
+      "ophield",
+      "aanhield",
+      "bijhield",
+      "tegenhield"
+    ],
     "correct": 0,
     "explanation": "'Ophouden' = stoppen. Als muziek ophoudt, stopt die met spelen. 'Ophield' is de imperfectumvorm in de bijzin na 'tot'.",
     "wrongExplanations": {
@@ -265,6 +355,666 @@
       "3": "'Tegenhouden' = blokkeren. Muziek houd je niet 'tegen'."
     },
     "hint": "Ze wachtten tot de muziek stopte. Welk prefix past bij 'stoppen, eindigen'?",
+    "tense": "imperfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze moest het stuur stevig ___ door de harde wind op de snelweg.",
+    "options": [
+      "vasthouden",
+      "tegenhouden",
+      "buitenhouden",
+      "aanhouden"
+    ],
+    "correct": 0,
+    "explanation": "'Vasthouden' = iets stevig vasthouden, niet loslaten. Ze hield het stuur stevig vast.",
+    "wrongExplanations": {
+      "1": "'Tegenhouden' = stoppen, beletten. Ze houdt het stuur vast, ze houdt iets niet tegen.",
+      "2": "'Buitenhouden' = buiten houden. Ze houdt het stuur vast, ze houdt niets buiten.",
+      "3": "'Aanhouden' = doorgaan of arresteren. Ze houdt het stuur vast, ze houdt niets aan."
+    },
+    "hint": "Ze hield het stuur stevig vast vanwege de harde wind.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Als je een goed idee hebt, moet je eraan ___.",
+    "options": [
+      "vasthouden",
+      "ophouden",
+      "bijhouden",
+      "tegenhouden"
+    ],
+    "correct": 0,
+    "explanation": "'Vasthouden aan' = iets niet loslaten, trouw blijven aan. Je moet het goede idee niet loslaten.",
+    "wrongExplanations": {
+      "1": "'Ophouden' = stoppen. Je houdt vast aan een idee, je houdt er niet mee op.",
+      "2": "'Bijhouden' = bijhouden (administratie, tempo). Je houdt vast aan een idee, je houdt het niet bij.",
+      "3": "'Tegenhouden' = beletten. Je houdt vast aan een idee, je houdt het niet tegen."
+    },
+    "hint": "Je moet trouw blijven aan het goede idee.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "In moeilijke tijden wil je je vrienden graag ___.",
+    "options": [
+      "vasthouden",
+      "tegenhouden",
+      "buitenhouden",
+      "ophouden"
+    ],
+    "correct": 0,
+    "explanation": "'Vasthouden' = iemand bij je houden, niet loslaten. Je wilt je vrienden niet kwijtraken.",
+    "wrongExplanations": {
+      "1": "'Tegenhouden' = stoppen, beletten. Je houdt vrienden vast (bij je), je houdt ze niet tegen.",
+      "2": "'Buitenhouden' = buiten houden. Je houdt vrienden vast, je houdt ze niet buiten.",
+      "3": "'Ophouden' = stoppen. Je houdt vrienden vast, je houdt er niet mee op."
+    },
+    "hint": "Je wilt je vrienden niet kwijtraken in moeilijke tijden.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De beveiligingsdeuren zijn bedoeld om ongewenste bezoekers ___.",
+    "options": [
+      "buiten te houden",
+      "vast te houden",
+      "tegen te houden",
+      "bij te houden"
+    ],
+    "correct": 0,
+    "explanation": "'Buitenhouden' = niet naar binnen laten. De deuren zijn er om ongewenste bezoekers te weren.",
+    "wrongExplanations": {
+      "1": "'Vasthouden' = vasthouden of arresteren. Deuren houden mensen buiten, ze houden ze niet vast.",
+      "2": "'Tegenhouden' = stoppen. Buitenhouden is het weren; tegenhouden is het stoppen.",
+      "3": "'Bijhouden' = bijhouden (administratie). Deuren houden mensen buiten, ze houden ze niet bij."
+    },
+    "hint": "De deuren moeten ongewenste bezoekers weren.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze doet haar best om het werk en privé strikt ___.",
+    "options": [
+      "buiten te houden",
+      "vast te houden",
+      "bij te houden",
+      "aan te houden"
+    ],
+    "correct": 0,
+    "explanation": "'Buitenhouden' = niet binnenlaten. Ze probeert werk en privé gescheiden te houden.",
+    "wrongExplanations": {
+      "1": "'Vasthouden' = niet loslaten. Ze houdt werk buiten het privéleven, ze houdt het niet vast.",
+      "2": "'Bijhouden' = bijhouden (tempo, administratie). Ze houdt werk buiten privé, ze houdt het niet bij.",
+      "3": "'Aanhouden' = doorgaan. Ze houdt werk buiten privé, ze houdt het niet aan."
+    },
+    "hint": "Ze probeert werk en privéleven gescheiden te houden.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij lijkt informatie over de deal ___ — we weten niets.",
+    "options": [
+      "achter te houden",
+      "vast te houden",
+      "bij te houden",
+      "buiten te houden"
+    ],
+    "correct": 0,
+    "explanation": "'Achterhouden' = informatie niet delen, verborgen houden. Hij deelt de informatie niet.",
+    "wrongExplanations": {
+      "1": "'Vasthouden' = niet loslaten. Hij houdt informatie achter, hij houdt ze niet vast.",
+      "2": "'Bijhouden' = bijhouden (administratie). Hij houdt informatie achter, hij houdt ze niet bij.",
+      "3": "'Buitenhouden' = niet binnenlaten. Hij houdt informatie achter, hij houdt ze niet buiten."
+    },
+    "hint": "Hij deelt de informatie over de deal niet.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Het is onethisch om bewijs van de rechtbank ___.",
+    "options": [
+      "achter te houden",
+      "vast te houden",
+      "tegen te houden",
+      "bij te houden"
+    ],
+    "correct": 0,
+    "explanation": "'Achterhouden' = verborgen houden, niet vrijgeven. Bewijs niet vrijgeven aan de rechtbank is onethisch.",
+    "wrongExplanations": {
+      "1": "'Vasthouden' = niet loslaten. Bewijs houd je achter, je houdt het niet vast.",
+      "2": "'Tegenhouden' = stoppen. Je houdt bewijs achter (verborgen), je houdt het niet tegen.",
+      "3": "'Bijhouden' = bijhouden (administratie). Je houdt bewijs achter, je houdt het niet bij."
+    },
+    "hint": "Bewijs voor de rechtbank verborgen houden is onethisch.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Ze heeft haar agenda goed ___ — er is nog plek op donderdag.",
+    "options": [
+      "vrijgehouden",
+      "vastgehouden",
+      "bijgehouden",
+      "achtergehouden"
+    ],
+    "correct": 0,
+    "explanation": "'Vrijhouden' = ervoor zorgen dat iets beschikbaar blijft. Ze heeft donderdag vrij gehouden in haar agenda.",
+    "wrongExplanations": {
+      "1": "'Vasthouden' = niet loslaten. Ze heeft de agenda vrijgehouden, ze heeft hem niet vastgehouden.",
+      "2": "'Bijhouden' = bijhouden. Ze heeft de plek vrijgehouden, ze heeft ze niet bijgehouden.",
+      "3": "'Achterhouden' = verborgen houden. Ze heeft de plek vrijgehouden, ze heeft niets achtergehouden."
+    },
+    "hint": "Ze heeft ervoor gezorgd dat donderdag beschikbaar blijft.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Zou je die plek op de parkeerplaats voor me kunnen ___?",
+    "options": [
+      "vrijhouden",
+      "vasthouden",
+      "bijhouden",
+      "tegenhouden"
+    ],
+    "correct": 0,
+    "explanation": "'Vrijhouden' = ervoor zorgen dat iets beschikbaar blijft. Hij vraagt de plek te reserveren.",
+    "wrongExplanations": {
+      "1": "'Vasthouden' = niet loslaten. Hij vraagt de plek vrij te houden, niet vast te houden.",
+      "2": "'Bijhouden' = bijhouden. Hij vraagt de plek vrij te houden, niet bij te houden.",
+      "3": "'Tegenhouden' = stoppen. Hij vraagt de plek vrij te houden, niet iets tegen te houden."
+    },
+    "hint": "Hij vraagt of ze de parkeerplaats voor hem wil reserveren.",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Niets kon hem ___ om zijn droom na te jagen.",
+    "options": [
+      "weerhouden",
+      "vasthouden",
+      "tegenhouden",
+      "bijhouden"
+    ],
+    "correct": 0,
+    "explanation": "'Weerhouden' = iemand beletten of afremmen van iets. Niets kon hem ervan afhouden zijn droom na te jagen.",
+    "wrongExplanations": {
+      "1": "'Vasthouden' = niet loslaten. Niets kon hem weerhouden, niet vasthouden.",
+      "2": "'Tegenhouden' = stoppen. Weerhouden en tegenhouden zijn vergelijkbaar, maar 'weerhouden van' is de vaste combinatie hier.",
+      "3": "'Bijhouden' = bijhouden. Niets kon hem weerhouden, niet bijhouden."
+    },
+    "hint": "Niets kon hem ervan afhouden zijn droom na te jagen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Angst voor mislukking mag je niet ___ om nieuwe dingen te proberen.",
+    "options": [
+      "weerhouden",
+      "vasthouden",
+      "bijhouden",
+      "ophouden"
+    ],
+    "correct": 0,
+    "explanation": "'Weerhouden' = beletten, afremmen. Angst voor mislukking mag je niet afhouden van nieuwe ervaringen.",
+    "wrongExplanations": {
+      "1": "'Vasthouden' = niet loslaten. Angst mag je niet weerhouden, niet vasthouden.",
+      "2": "'Bijhouden' = bijhouden. Angst mag je niet weerhouden, niet bijhouden.",
+      "3": "'Ophouden' = stoppen. Angst mag je niet weerhouden, niet ophouden."
+    },
+    "hint": "Angst voor mislukking mag je niet afhouden van nieuwe ervaringen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na de kosten heeft ze weinig geld ___.",
+    "options": [
+      "overgehouden",
+      "vastgehouden",
+      "bijgehouden",
+      "achtergehouden"
+    ],
+    "correct": 0,
+    "explanation": "'Overhouden' = na aftrek van kosten nog iets hebben. Na alle kosten heeft ze weinig geld over.",
+    "wrongExplanations": {
+      "1": "'Vasthouden' = niet loslaten. Ze houdt geld over, ze houdt het niet vast.",
+      "2": "'Bijhouden' = bijhouden. Ze houdt geld over, ze houdt het niet bij.",
+      "3": "'Achterhouden' = verborgen houden. Ze houdt geld over, ze houdt het niet achter."
+    },
+    "hint": "Na alle kosten heeft ze weinig geld over.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Van drie weken vakantie houdt ze altijd een week ___.",
+    "options": [
+      "over",
+      "vast",
+      "bij",
+      "achter"
+    ],
+    "correct": 0,
+    "explanation": "'Overhouden' = nog iets over hebben. Van haar drie weken vakantie houdt ze altijd één week over.",
+    "wrongExplanations": {
+      "1": "'Vasthouden' = niet loslaten. Ze houdt vakantie over, ze houdt haar niet vast.",
+      "2": "'Bijhouden' = bijhouden. Ze houdt vakantie over, ze houdt ze niet bij.",
+      "3": "'Achterhouden' = verborgen houden. Ze houdt vakantie over, ze houdt ze niet achter."
+    },
+    "hint": "Van haar drie weken vakantie heeft ze altijd één week niet gebruikt.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De gemeente is verplicht de wegen en fietspaden goed te ___.",
+    "options": [
+      "onderhouden",
+      "vasthouden",
+      "bijhouden",
+      "tegenhouden"
+    ],
+    "correct": 0,
+    "explanation": "'Onderhouden' = in goede staat houden, repareren en verzorgen. De gemeente moet de infrastructuur in goede staat houden.",
+    "wrongExplanations": {
+      "1": "'Vasthouden' = niet loslaten. Wegen worden onderhouden, niet vastgehouden.",
+      "2": "'Bijhouden' = bijhouden (administratie, tempo). Wegen worden onderhouden, niet bijgehouden.",
+      "3": "'Tegenhouden' = stoppen. Wegen worden onderhouden, ze worden niet tegengehouden."
+    },
+    "hint": "De gemeente moet de wegen in goede staat houden.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Hij wil ook na zijn pensioen zijn contacten in de sector ___.",
+    "options": [
+      "onderhouden",
+      "vasthouden",
+      "bijhouden",
+      "ophouden"
+    ],
+    "correct": 0,
+    "explanation": "'Onderhouden' = in stand houden, actief houden. Hij wil zijn contacten actief blijven houden.",
+    "wrongExplanations": {
+      "1": "'Vasthouden' = niet loslaten. Hij onderhoudt contacten, hij houdt ze niet vast.",
+      "2": "'Bijhouden' = bijhouden (lijst). Contacten onderhouden gaat over actief houden; bijhouden over registreren.",
+      "3": "'Ophouden' = stoppen. Hij wil contacten onderhouden, niet ophouden."
+    },
+    "hint": "Hij wil zijn contacten actief en warm blijven houden na zijn pensioen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze spreken elke week af om hun vriendschap te ___.",
+    "options": [
+      "onderhouden",
+      "vasthouden",
+      "bijhouden",
+      "aanhouden"
+    ],
+    "correct": 0,
+    "explanation": "'Onderhouden' = in stand houden. Ze ontmoeten elkaar regelmatig om de vriendschap te koesteren.",
+    "wrongExplanations": {
+      "1": "'Vasthouden' = niet loslaten. Ze onderhouden hun vriendschap, ze houden ze niet vast.",
+      "2": "'Bijhouden' = bijhouden (administratie). Ze onderhouden hun vriendschap, ze houden ze niet bij.",
+      "3": "'Aanhouden' = doorgaan. Ze onderhouden hun vriendschap, ze houden ze niet aan."
+    },
+    "hint": "Ze ontmoeten elkaar regelmatig om de vriendschap in stand te houden.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Het is zo koud buiten — je kunt je jas beter ___.",
+    "options": [
+      "aanhouden",
+      "vasthouden",
+      "bijhouden",
+      "ophouden"
+    ],
+    "correct": 0,
+    "explanation": "'Aanhouden' = aan blijven houden (kleding). Het is beter de jas aan te houden vanwege de kou.",
+    "wrongExplanations": {
+      "1": "'Vasthouden' = niet loslaten. Je houdt je jas aan, je houdt hem niet vast.",
+      "2": "'Bijhouden' = bijhouden. Je houdt je jas aan, je houdt hem niet bij.",
+      "3": "'Ophouden' = stoppen. Je houdt je jas aan, je houdt er niet mee op."
+    },
+    "hint": "Het is zo koud dat je je jas beter aan kunt houden.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze besloot haar bijdrage aan het gesprek ___.",
+    "options": [
+      "in te houden",
+      "vast te houden",
+      "bij te houden",
+      "op te houden"
+    ],
+    "correct": 0,
+    "explanation": "'Inhouden' = terugdringen, niet uiten. Ze besloot haar mening voor zichzelf te houden.",
+    "wrongExplanations": {
+      "1": "'Vasthouden' = niet loslaten. Ze houdt haar bijdrage in, ze houdt haar niet vast.",
+      "2": "'Bijhouden' = bijhouden (administratie). Ze houdt haar bijdrage in, ze houdt haar niet bij.",
+      "3": "'Ophouden' = stoppen. Ze houdt haar bijdrage in, ze houdt er niet mee op."
+    },
+    "hint": "Ze besloot haar mening niet te uiten.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hoe lang ben je van plan dit ___ zonder hulp te vragen?",
+    "options": [
+      "vol te houden",
+      "vast te houden",
+      "bij te houden",
+      "op te houden"
+    ],
+    "correct": 0,
+    "explanation": "'Volhouden' = doorzetten, niet opgeven. Ze vraagt hoe lang hij doorzet zonder hulp.",
+    "wrongExplanations": {
+      "1": "'Vasthouden' = niet loslaten. Je houdt vol (doorzet), je houdt niet vast.",
+      "2": "'Bijhouden' = bijhouden. Je houdt vol, je houdt niet bij.",
+      "3": "'Ophouden' = stoppen. Volhouden = doorzetten; ophouden = stoppen."
+    },
+    "hint": "Ze vraagt hoe lang hij blijft doorzetten zonder hulp te vragen.",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Het hoge tempo van de vergadering was moeilijk te ___.",
+    "options": [
+      "bijhouden",
+      "vasthouden",
+      "tegenhouden",
+      "aanhouden"
+    ],
+    "correct": 0,
+    "explanation": "'Bijhouden' = in gelijke tred blijven. Het tempo was zo hoog dat het moeilijk was om bij te houden.",
+    "wrongExplanations": {
+      "1": "'Vasthouden' = niet loslaten. Het tempo was moeilijk bij te houden, niet vast te houden.",
+      "2": "'Tegenhouden' = stoppen. Het tempo was moeilijk bij te houden, niet tegen te houden.",
+      "3": "'Aanhouden' = doorgaan. Het tempo was moeilijk bij te houden, niet aan te houden."
+    },
+    "hint": "Het tempo van de vergadering was zo hoog dat het moeilijk was om mee te komen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na de aanhouding heeft de politie de verdachte drie dagen ___.",
+    "options": [
+      "aangehouden",
+      "vastgehouden",
+      "tegengehouden",
+      "bijgehouden"
+    ],
+    "correct": 0,
+    "explanation": "'Aanhouden' = arresteren en in hechtenis houden. De politie heeft de verdachte drie dagen vastgehouden na de aanhouding.",
+    "wrongExplanations": {
+      "1": "'Vasthouden' = niet loslaten. Aanhouden = arresteren; vasthouden = niet loslaten na aanhouding. Beide zijn hier mogelijk, maar 'aanhouden' is de vaste term voor arretsteren.",
+      "2": "'Tegenhouden' = stoppen. De verdachte is aangehouden, niet tegengehouden.",
+      "3": "'Bijhouden' = bijhouden. De verdachte is aangehouden, niet bijgehouden."
+    },
+    "hint": "De politie heeft de verdachte drie dagen in hechtenis gehouden na de aanhouding.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Kun je je lachen ___ als hij die grap vertelt?",
+    "options": [
+      "inhouden",
+      "vasthouden",
+      "bijhouden",
+      "ophouden"
+    ],
+    "correct": 0,
+    "explanation": "'Inhouden' = onderdrukken, niet laten merken. Ze vraagt of je kunt voorkomen dat je lacht.",
+    "wrongExplanations": {
+      "1": "'Vasthouden' = niet loslaten. Je houdt je lachen in, je houdt het niet vast.",
+      "2": "'Bijhouden' = bijhouden. Je houdt je lachen in, je houdt het niet bij.",
+      "3": "'Ophouden' = stoppen. Je houdt je lachen in (onderdrukt het), je houdt er niet mee op."
+    },
+    "hint": "Ze vraagt of je het lachen kunt onderdrukken als hij die grap vertelt.",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De gemeente moet de oude brug beter ___; hij is bijna niet meer veilig.",
+    "options": [
+      "onderhouden",
+      "vasthouden",
+      "bijhouden",
+      "tegenhouden"
+    ],
+    "correct": 0,
+    "explanation": "'Onderhouden' = in goede staat houden. De brug heeft meer onderhoud nodig om veilig te blijven.",
+    "wrongExplanations": {
+      "1": "'Vasthouden' = niet loslaten. Een brug wordt onderhouden, niet vastgehouden.",
+      "2": "'Bijhouden' = bijhouden. Een brug wordt onderhouden, niet bijgehouden.",
+      "3": "'Tegenhouden' = stoppen. Een brug wordt onderhouden, hij wordt niet tegengehouden."
+    },
+    "hint": "De brug heeft meer onderhoud nodig om veilig te blijven.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft haar idee ___ ondanks alle kritiek.",
+    "options": [
+      "vastgehouden",
+      "bijgehouden",
+      "tegengehouden",
+      "aangehouden"
+    ],
+    "correct": 0,
+    "explanation": "'Vasthouden aan' = trouw blijven aan, niet loslaten. Ze heeft haar idee niet losgelaten ondanks de kritiek.",
+    "wrongExplanations": {
+      "1": "'Bijgehouden' = bijgehouden (administratie). Ze heeft haar idee vastgehouden, niet bijgehouden.",
+      "2": "'Tegengehouden' = gestopt. Ze heeft haar idee vastgehouden (gekoesterd), ze heeft niets tegengehouden.",
+      "3": "'Aangehouden' = doorgegaan of gearresteerd. Ze heeft haar idee vastgehouden, niet aangehouden."
+    },
+    "hint": "Ze heeft haar idee trouw gehouden ondanks alle kritiek.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De grensbeveiliging heeft de smokkelaars ___.",
+    "options": [
+      "tegengehouden",
+      "vastgehouden",
+      "bijgehouden",
+      "aangehouden"
+    ],
+    "correct": 0,
+    "explanation": "'Tegenhouden' = stoppen, beletten door te gaan. De grensbeveiliging heeft de smokkelaars gestopt.",
+    "wrongExplanations": {
+      "1": "'Vastgehouden' = niet losgelaten. Ze zijn tegengehouden (gestopt), niet vastgehouden.",
+      "2": "'Bijgehouden' = bijgehouden. Ze zijn tegengehouden, niet bijgehouden.",
+      "3": "'Aangehouden' = gearresteerd. Tegengehouden = gestopt aan de grens; aangehouden = gearresteerd."
+    },
+    "hint": "De grensbeveiliging heeft de smokkelaars gestopt.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "De organisatie heeft informatie over de financiën ___.",
+    "options": [
+      "achtergehouden",
+      "vastgehouden",
+      "bijgehouden",
+      "vrijgehouden"
+    ],
+    "correct": 0,
+    "explanation": "'Achterhouden' = verborgen houden, niet vrijgeven. De organisatie heeft de financiële informatie niet gedeeld.",
+    "wrongExplanations": {
+      "1": "'Vastgehouden' = niet losgelaten. Informatie wordt achtergehouden, niet vastgehouden.",
+      "2": "'Bijgehouden' = bijgehouden. Informatie wordt achtergehouden, niet bijgehouden.",
+      "3": "'Vrijgehouden' = beschikbaar gehouden. Achterhouden is het tegenovergestelde van vrijhouden."
+    },
+    "hint": "De organisatie heeft de financiële informatie niet gedeeld.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Ze heeft de hele dag vrijdag ___ voor het sollicitatiegesprek.",
+    "options": [
+      "vrijgehouden",
+      "vastgehouden",
+      "bijgehouden",
+      "achtergehouden"
+    ],
+    "correct": 0,
+    "explanation": "'Vrijhouden' = beschikbaar houden. Ze heeft ervoor gezorgd dat vrijdag beschikbaar bleef.",
+    "wrongExplanations": {
+      "1": "'Vastgehouden' = niet losgelaten. Ze heeft vrijdag vrijgehouden, niet vastgehouden.",
+      "2": "'Bijgehouden' = bijgehouden. Ze heeft vrijdag vrijgehouden, niet bijgehouden.",
+      "3": "'Achtergehouden' = verborgen gehouden. Ze heeft vrijdag vrijgehouden, niet achtergehouden."
+    },
+    "hint": "Ze heeft ervoor gezorgd dat vrijdag vrij bleef voor het gesprek.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Haar schaamte heeft haar lang ___ om hulp te vragen.",
+    "options": [
+      "weerhouden",
+      "vastgehouden",
+      "bijgehouden",
+      "tegengehouden"
+    ],
+    "correct": 0,
+    "explanation": "'Weerhouden' = beletten, ervan afhouden. Schaamte heeft haar lang afgehouden van hulp vragen.",
+    "wrongExplanations": {
+      "1": "'Vastgehouden' = niet losgelaten. Schaamte heeft haar weerhouden, niet vastgehouden.",
+      "2": "'Bijgehouden' = bijgehouden. Schaamte heeft haar weerhouden, niet bijgehouden.",
+      "3": "'Tegengehouden' = gestopt. Weerhouden = afhouden van; tegenhouden = stoppen."
+    },
+    "hint": "Schaamte heeft haar lang afgehouden van hulp vragen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na alle uitgaven heeft hij dit jaar niets ___.",
+    "options": [
+      "overgehouden",
+      "vastgehouden",
+      "bijgehouden",
+      "achtergehouden"
+    ],
+    "correct": 0,
+    "explanation": "'Overhouden' = na aftrek nog iets hebben. Na alle uitgaven heeft hij niets overgehouden.",
+    "wrongExplanations": {
+      "1": "'Vastgehouden' = niet losgelaten. Hij heeft niets overgehouden, niet vastgehouden.",
+      "2": "'Bijgehouden' = bijgehouden. Hij heeft niets overgehouden, niet bijgehouden.",
+      "3": "'Achtergehouden' = verborgen gehouden. Hij heeft niets overgehouden, niet achtergehouden."
+    },
+    "hint": "Na alle uitgaven heeft hij niets meer over.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De eigenaar heeft het pand jarenlang slecht ___.",
+    "options": [
+      "onderhouden",
+      "vastgehouden",
+      "bijgehouden",
+      "tegengehouden"
+    ],
+    "correct": 0,
+    "explanation": "'Onderhouden' = in goede staat houden. De eigenaar heeft het pand jarenlang slecht verzorgd.",
+    "wrongExplanations": {
+      "1": "'Vastgehouden' = niet losgelaten. Het pand is slecht onderhouden, niet vastgehouden.",
+      "2": "'Bijgehouden' = bijgehouden. Het pand is slecht onderhouden, niet bijgehouden.",
+      "3": "'Tegengehouden' = gestopt. Het pand is slecht onderhouden, niet tegengehouden."
+    },
+    "hint": "De eigenaar heeft het pand jarenlang niet goed verzorgd.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij heeft zijn professionele netwerk ook na zijn pensionering goed ___.",
+    "options": [
+      "onderhouden",
+      "vastgehouden",
+      "bijgehouden",
+      "aangehouden"
+    ],
+    "correct": 0,
+    "explanation": "'Onderhouden' = in stand houden. Hij heeft zijn netwerk actief gehouden na zijn pensionering.",
+    "wrongExplanations": {
+      "1": "'Vastgehouden' = niet losgelaten. Hij heeft zijn netwerk onderhouden, niet vastgehouden.",
+      "2": "'Bijgehouden' = bijgehouden (lijst). Onderhouden = actief houden; bijhouden = registreren.",
+      "3": "'Aangehouden' = doorgegaan of gearresteerd. Hij heeft zijn netwerk onderhouden, niet aangehouden."
+    },
+    "hint": "Hij heeft zijn netwerk actief gehouden ook na zijn pensionering.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze hadden de hele avond een toon ___ die niemand durfde te doorbreken.",
+    "options": [
+      "aangehouden",
+      "vastgehouden",
+      "bijgehouden",
+      "tegengehouden"
+    ],
+    "correct": 0,
+    "explanation": "'Aanhouden' = volhouden, blijven hanteren. Ze handhaafden de hele avond dezelfde toon.",
+    "wrongExplanations": {
+      "1": "'Vastgehouden' = niet losgelaten. Ze hebben een toon aangehouden, niet vastgehouden.",
+      "2": "'Bijgehouden' = bijgehouden. Ze hebben een toon aangehouden, niet bijgehouden.",
+      "3": "'Tegengehouden' = gestopt. Ze hebben een toon aangehouden, niet tegengehouden."
+    },
+    "hint": "Ze handhaafden de hele avond dezelfde toon.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Zelfs toen iedereen van mening veranderde, ___ zij haar standpunt ___.",
+    "options": [
+      "vast",
+      "bij",
+      "achter",
+      "tegen"
+    ],
+    "correct": 0,
+    "explanation": "'Vasthouden' (hield vast) = trouw blijven aan. Zij bleef bij haar standpunt ondanks de druk.",
+    "wrongExplanations": {
+      "1": "'Bijhouden' = bijhouden. Ze hield vast aan haar standpunt, ze hield het niet bij.",
+      "2": "'Achterhouden' = verborgen houden. Ze hield haar standpunt vast, ze hield het niet achter.",
+      "3": "'Tegenhouden' = stoppen. Ze hield haar standpunt vast, ze hield niets tegen."
+    },
+    "hint": "Zij bleef bij haar standpunt ook toen iedereen van mening veranderde.",
     "tense": "imperfectum",
     "wordOrder": "bijzin",
     "register": "neutraal"

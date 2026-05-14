@@ -1,7 +1,12 @@
 [
   {
     "sentence": "Met zo'n kleurrijk jasje zal ze zeker ______ tussen haar collega's.",
-    "options": ["opvallen", "afvallen", "tegenvallen", "uitvallen"],
+    "options": [
+      "opvallen",
+      "afvallen",
+      "tegenvallen",
+      "uitvallen"
+    ],
     "correct": 0,
     "explanation": "'Opvallen' = de aandacht trekken, zichtbaar anders zijn dan de omgeving. Een opvallend jasje zorgt ervoor dat iemand opgemerkt wordt.",
     "wrongExplanations": {
@@ -16,7 +21,12 @@
   },
   {
     "sentence": "Tijdens de presentatie is ons ______ dat hij erg nerveus was.",
-    "options": ["opgevallen", "tegengevallen", "meegevallen", "uitgevallen"],
+    "options": [
+      "opgevallen",
+      "tegengevallen",
+      "meegevallen",
+      "uitgevallen"
+    ],
     "correct": 0,
     "explanation": "'Opvallen' = de aandacht trekken of opgemerkt worden. 'Het is ons opgevallen' is een vaste combinatie voor iets dat je hebt gemerkt of waargenomen.",
     "wrongExplanations": {
@@ -31,7 +41,12 @@
   },
   {
     "sentence": "Ik hoop dat de nieuwe film niet zal ______; de trailer zag er geweldig uit.",
-    "options": ["tegenvallen", "meevallen", "opvallen", "uitvallen"],
+    "options": [
+      "tegenvallen",
+      "meevallen",
+      "opvallen",
+      "uitvallen"
+    ],
     "correct": 0,
     "explanation": "'Tegenvallen' = minder goed zijn dan verwacht of gehoopt. Als iets tegenvalt, ben je teleurgesteld omdat het niet aan je verwachtingen voldoet.",
     "wrongExplanations": {
@@ -46,7 +61,12 @@
   },
   {
     "sentence": "De voorstelling heeft me enorm ______; ik had er veel meer van verwacht.",
-    "options": ["tegengevallen", "meegevallen", "opgevallen", "afgevallen"],
+    "options": [
+      "tegengevallen",
+      "meegevallen",
+      "opgevallen",
+      "afgevallen"
+    ],
     "correct": 0,
     "explanation": "'Tegenvallen' = minder goed zijn dan verwacht. Als een voorstelling tegenvalt, is die slechter dan je had gehoopt.",
     "wrongExplanations": {
@@ -61,7 +81,12 @@
   },
   {
     "sentence": "Ze was erg zenuwachtig voor de tandarts, maar het bleek te ______.",
-    "options": ["meevallen", "tegenvallen", "opvallen", "uitvallen"],
+    "options": [
+      "meevallen",
+      "tegenvallen",
+      "opvallen",
+      "uitvallen"
+    ],
     "correct": 0,
     "explanation": "'Meevallen' = beter of minder erg zijn dan gevreesd. Als iets meevalt, is het aangenamer dan je had verwacht.",
     "wrongExplanations": {
@@ -76,7 +101,12 @@
   },
   {
     "sentence": "We hadden een duur hotel verwacht, maar de kosten zijn erg ______.",
-    "options": ["meegevallen", "tegengevallen", "uitgevallen", "opgevallen"],
+    "options": [
+      "meegevallen",
+      "tegengevallen",
+      "uitgevallen",
+      "opgevallen"
+    ],
     "correct": 0,
     "explanation": "'Meevallen' = beter of goedkoper zijn dan verwacht. Als kosten meevallen, zijn ze lager dan je had gevreesd.",
     "wrongExplanations": {
@@ -91,7 +121,12 @@
   },
   {
     "sentence": "Na maanden gezond eten en sporten wil hij eindelijk ______.",
-    "options": ["afvallen", "opvallen", "tegenvallen", "uitvallen"],
+    "options": [
+      "afvallen",
+      "opvallen",
+      "tegenvallen",
+      "uitvallen"
+    ],
     "correct": 0,
     "explanation": "'Afvallen' = gewicht verliezen. De combinatie met 'gezond eten en sporten' maakt duidelijk dat het om afvallen in de zin van gewichtsverlies gaat.",
     "wrongExplanations": {
@@ -106,7 +141,12 @@
   },
   {
     "sentence": "Tijdens de storm zijn er veel dakpannen van het dak ______.",
-    "options": ["afgevallen", "uitgevallen", "omgevallen", "ingevallen"],
+    "options": [
+      "afgevallen",
+      "uitgevallen",
+      "omgevallen",
+      "ingevallen"
+    ],
     "correct": 0,
     "explanation": "'Afvallen' = naar beneden vallen van een oppervlak of object. Dakpannen vallen af wanneer ze losraken van het dak.",
     "wrongExplanations": {
@@ -121,7 +161,12 @@
   },
   {
     "sentence": "Toen ze hulp nodig had, hebben al haar vrienden haar ______.",
-    "options": ["afgevallen", "tegengevallen", "uitgevallen", "opgevallen"],
+    "options": [
+      "afgevallen",
+      "tegengevallen",
+      "uitgevallen",
+      "opgevallen"
+    ],
     "correct": 0,
     "explanation": "'Afvallen' = iemand niet steunen op het moment dat het nodig is, iemand in de steek laten. 'Iemand afvallen' is een vaste combinatie voor het niet nakomen van loyaliteit.",
     "wrongExplanations": {
@@ -136,7 +181,12 @@
   },
   {
     "sentence": "Midden in de presentatie is de beamer ______.",
-    "options": ["uitgevallen", "afgevallen", "ingevallen", "tegengevallen"],
+    "options": [
+      "uitgevallen",
+      "afgevallen",
+      "ingevallen",
+      "tegengevallen"
+    ],
     "correct": 0,
     "explanation": "'Uitvallen' = stoppen met werken, niet meer functioneren. Als een apparaat uitvalt, werkt het plotseling niet meer.",
     "wrongExplanations": {
@@ -151,7 +201,12 @@
   },
   {
     "sentence": "Door veel stress kan je haar ______.",
-    "options": ["uitvallen", "afvallen", "opvallen", "tegenvallen"],
+    "options": [
+      "uitvallen",
+      "afvallen",
+      "opvallen",
+      "tegenvallen"
+    ],
     "correct": 0,
     "explanation": "'Uitvallen' = loslaten en vallen, zoals haar of tanden die uitvallen. Als haar uitvalt, verlies je het.",
     "wrongExplanations": {
@@ -166,7 +221,12 @@
   },
   {
     "sentence": "Ze was zo moe dat ze op haar collega's ______.",
-    "options": ["uitviel", "afviel", "opviel", "inviel"],
+    "options": [
+      "uitviel",
+      "afviel",
+      "opviel",
+      "inviel"
+    ],
     "correct": 0,
     "explanation": "'Uitvallen' = plotseling boos of agressief reageren op iemand, iemand aanvliegen. 'Op iemand uitvallen' is een vaste combinatie voor het verlies van geduld.",
     "wrongExplanations": {
@@ -181,7 +241,12 @@
   },
   {
     "sentence": "Door een blessure kan hij de rest van het seizoen ______.",
-    "options": ["uitvallen", "afvallen", "opvallen", "invallen"],
+    "options": [
+      "uitvallen",
+      "afvallen",
+      "opvallen",
+      "invallen"
+    ],
     "correct": 0,
     "explanation": "'Uitvallen' = niet meer mee kunnen doen door een blessure of ziekte. Als een speler uitvalt, is die de rest van het seizoen niet inzetbaar.",
     "wrongExplanations": {
@@ -196,7 +261,12 @@
   },
   {
     "sentence": "De vaste leraar was ziek, dus moest iemand anders ______.",
-    "options": ["invallen", "uitvallen", "afvallen", "opvallen"],
+    "options": [
+      "invallen",
+      "uitvallen",
+      "afvallen",
+      "opvallen"
+    ],
     "correct": 0,
     "explanation": "'Invallen' = tijdelijk de taak van iemand anders overnemen. Als je invalt, doe je het werk van de afwezige persoon.",
     "wrongExplanations": {
@@ -211,7 +281,12 @@
   },
   {
     "sentence": "Hij reed al een kwartier toen het hem plotseling ______ dat hij zijn paspoort thuis had laten liggen.",
-    "options": ["inviel", "uitviel", "opviel", "afviel"],
+    "options": [
+      "inviel",
+      "uitviel",
+      "opviel",
+      "afviel"
+    ],
     "correct": 0,
     "explanation": "'Invallen' = plotseling te binnen schieten, ineens beseffen. Als iets iemand invalt, komt een gedachte of herinnering onverwacht op.",
     "wrongExplanations": {
@@ -226,7 +301,12 @@
   },
   {
     "sentence": "Gisteravond is de politie bij meerdere adressen ______.",
-    "options": ["ingevallen", "uitgevallen", "afgevallen", "tegengevallen"],
+    "options": [
+      "ingevallen",
+      "uitgevallen",
+      "afgevallen",
+      "tegengevallen"
+    ],
     "correct": 0,
     "explanation": "'Invallen' = binnenvallen voor een razzia of huiszoeking. Als de politie invalt, dringt ze onverwacht een plek binnen voor onderzoek.",
     "wrongExplanations": {
@@ -241,7 +321,12 @@
   },
   {
     "sentence": "Het oude plafond van het pand is tijdens de renovatie ______.",
-    "options": ["ingevallen", "afgevallen", "uitgevallen", "omgevallen"],
+    "options": [
+      "ingevallen",
+      "afgevallen",
+      "uitgevallen",
+      "omgevallen"
+    ],
     "correct": 0,
     "explanation": "'Invallen' = instorten, naar binnen bezwijken. Als een plafond invalt, zakt het naar beneden en stort het in.",
     "wrongExplanations": {
@@ -256,7 +341,12 @@
   },
   {
     "sentence": "Ze zei dat het examen haar erg had ______.",
-    "options": ["tegengevallen", "meegevallen", "opgevallen", "uitgevallen"],
+    "options": [
+      "tegengevallen",
+      "meegevallen",
+      "opgevallen",
+      "uitgevallen"
+    ],
     "correct": 0,
     "explanation": "'Tegenvallen' = minder goed zijn dan verwacht. Als een examen tegenvalt, was het moeilijker of slechter dan de student had gehoopt.",
     "wrongExplanations": {
@@ -267,6 +357,646 @@
     "hint": "Het examen was moeilijker dan ze had verwacht. Welk prefix past bij 'slechter zijn dan gehoopt'?",
     "tense": "perfectum",
     "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Om zijn prooi te ___, sluipt de panter ongemerkt dichterbij.",
+    "options": [
+      "aanvallen",
+      "opvallen",
+      "neervallen",
+      "overvallen"
+    ],
+    "correct": 0,
+    "explanation": "'Aanvallen' = een aanval uitvoeren op een prooi of tegenstander. De panter nadert zijn prooi om aan te vallen.",
+    "wrongExplanations": {
+      "1": "'Opvallen' = de aandacht trekken. De panter wil juist niet opvallen.",
+      "2": "'Neervallen' = naar de grond vallen. De panter valt de prooi aan, hij valt zelf niet neer.",
+      "3": "'Overvallen' = beroven. De panter valt aan, hij berooft de prooi niet."
+    },
+    "hint": "De panter sluipt dichterbij om zijn prooi te grijpen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze begon de tegenpartij persoonlijk te ___, in plaats van de argumenten te weerleggen.",
+    "options": [
+      "aanvallen",
+      "opvallen",
+      "afvallen",
+      "tegenvallen"
+    ],
+    "correct": 0,
+    "explanation": "'Aanvallen' = iemand fel bekritiseren of aanvallen. Ze richtte haar kritiek op de persoon, niet de argumenten.",
+    "wrongExplanations": {
+      "1": "'Opvallen' = de aandacht trekken. Ze valt aan, ze valt niet op.",
+      "2": "'Afvallen' = gewicht verliezen of iemand in de steek laten. Ze valt aan, ze valt niet af.",
+      "3": "'Tegenvallen' = minder goed zijn dan verwacht. Ze valt aan, ze valt niet tegen."
+    },
+    "hint": "Ze richt haar kritiek op de persoon, niet op de argumenten.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Bij een auto-immuunziekte begint het lichaam de eigen cellen te ___.",
+    "options": [
+      "aanvallen",
+      "opvallen",
+      "uitvallen",
+      "neervallen"
+    ],
+    "correct": 0,
+    "explanation": "'Aanvallen' = een aanval uitvoeren op. Bij een auto-immuunziekte valt het immuunsysteem de eigen cellen aan.",
+    "wrongExplanations": {
+      "1": "'Opvallen' = de aandacht trekken. Het immuunsysteem valt aan, het valt niet op.",
+      "2": "'Uitvallen' = stoppen met werken of fel reageren. Het immuunsysteem valt aan, het valt niet uit.",
+      "3": "'Neervallen' = naar beneden vallen. Het immuunsysteem valt aan, het valt niet neer."
+    },
+    "hint": "Het immuunsysteem richt zich tegen de eigen cellen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Criminelen probeerden het tankstation in de nacht te ___.",
+    "options": [
+      "overvallen",
+      "aanvallen",
+      "neervallen",
+      "opvallen"
+    ],
+    "correct": 0,
+    "explanation": "'Overvallen' = een persoon of bedrijf beroven. De criminelen wilden het tankstation beroven.",
+    "wrongExplanations": {
+      "1": "'Aanvallen' = aanvallen. Je overvalt (berooft) een tankstation, je valt het niet aan in militaire zin.",
+      "2": "'Neervallen' = naar beneden vallen. De criminelen wilden het tankstation overvallen, niet neervallen.",
+      "3": "'Opvallen' = opgemerkt worden. Criminelen willen juist niet opvallen."
+    },
+    "hint": "De criminelen wilden het tankstation beroven.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Moeheid kan je soms zo ___ dat je nauwelijks meer kunt nadenken.",
+    "options": [
+      "overvallen",
+      "aanvallen",
+      "tegenvallen",
+      "opvallen"
+    ],
+    "correct": 0,
+    "explanation": "'Overvallen' = plotseling en onverwacht treffen. Moeheid kan je plotseling overweldigen.",
+    "wrongExplanations": {
+      "1": "'Aanvallen' = aanvallen. Moeheid overvalt je, het valt je niet aan.",
+      "2": "'Tegenvallen' = minder goed zijn dan verwacht. Moeheid overvalt je, het valt niet tegen.",
+      "3": "'Opvallen' = opgemerkt worden. Moeheid overvalt je, het valt niet op."
+    },
+    "hint": "Moeheid kan je plotseling en volledig overweldigen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na zo'n lange dag wil hij gewoon thuis op de bank ___.",
+    "options": [
+      "neervallen",
+      "opvallen",
+      "aanvallen",
+      "samenvallen"
+    ],
+    "correct": 0,
+    "explanation": "'Neervallen' = neerploffen, uitgeput ergens neerkomen. Hij wil zich moe op de bank laten vallen.",
+    "wrongExplanations": {
+      "1": "'Opvallen' = de aandacht trekken. Je valt neer op de bank, je valt niet op.",
+      "2": "'Aanvallen' = aanvallen. Je valt neer op de bank, je valt niet aan.",
+      "3": "'Samenvallen' = gelijktijdig plaatsvinden. Je valt neer op de bank, je valt niet samen."
+    },
+    "hint": "Hij wil zich uitgeput op de bank laten vallen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De zware takken dreigen door het gewicht van de sneeuw te ___.",
+    "options": [
+      "neervallen",
+      "opvallen",
+      "uitvallen",
+      "tegenvallen"
+    ],
+    "correct": 0,
+    "explanation": "'Neervallen' = naar beneden vallen. De takken kunnen door de zware sneeuw naar beneden komen.",
+    "wrongExplanations": {
+      "1": "'Opvallen' = opgemerkt worden. Takken vallen neer, ze vallen niet op.",
+      "2": "'Uitvallen' = stoppen met werken. Takken vallen neer, ze vallen niet uit.",
+      "3": "'Tegenvallen' = minder goed zijn dan verwacht. Takken vallen neer, ze vallen niet tegen."
+    },
+    "hint": "De sneeuw is zo zwaar dat de takken naar beneden kunnen komen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Als de twee vergaderingen op hetzelfde tijdstip ___, ontstaat er een probleem.",
+    "options": [
+      "samenvallen",
+      "aanvallen",
+      "opvallen",
+      "neervallen"
+    ],
+    "correct": 0,
+    "explanation": "'Samenvallen' = gelijktijdig plaatsvinden, overlappen. De vergaderingen zijn dan op hetzelfde moment.",
+    "wrongExplanations": {
+      "1": "'Aanvallen' = aanvallen. Vergaderingen vallen samen, ze vallen niet aan.",
+      "2": "'Opvallen' = opgemerkt worden. Vergaderingen vallen samen, ze vallen niet op.",
+      "3": "'Neervallen' = naar beneden vallen. Vergaderingen vallen samen, ze vallen niet neer."
+    },
+    "hint": "Beide vergaderingen zijn op hetzelfde moment gepland.",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Het is zeldzaam als Pasen en de meivakantie in hetzelfde weekend ___.",
+    "options": [
+      "samenvallen",
+      "tegenvallen",
+      "uitvallen",
+      "neervallen"
+    ],
+    "correct": 0,
+    "explanation": "'Samenvallen' = tegelijkertijd plaatsvinden. Pasen en de meivakantie zijn dan op hetzelfde moment.",
+    "wrongExplanations": {
+      "1": "'Tegenvallen' = minder goed zijn dan verwacht. Ze vallen samen, ze vallen niet tegen.",
+      "2": "'Uitvallen' = stoppen met werken of wegvallen. Ze vallen samen, ze vallen niet uit.",
+      "3": "'Neervallen' = naar beneden vallen. Ze vallen samen, ze vallen niet neer."
+    },
+    "hint": "Pasen en de meivakantie zijn tegelijkertijd.",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Als je de factuur niet op tijd betaalt, kan het garantierecht ___.",
+    "options": [
+      "vervallen",
+      "wegvallen",
+      "uitvallen",
+      "neervallen"
+    ],
+    "correct": 0,
+    "explanation": "'Vervallen' = niet meer geldig zijn, verlopen. Het garantierecht is dan niet meer van kracht.",
+    "wrongExplanations": {
+      "1": "'Wegvallen' = verdwijnen. Vervallen betekent specifiek 'niet meer geldig zijn'; wegvallen is meer 'niet meer bestaan'.",
+      "2": "'Uitvallen' = stoppen met werken. Een recht vervalt, het valt niet uit.",
+      "3": "'Neervallen' = naar beneden vallen. Een recht vervalt, het valt niet neer."
+    },
+    "hint": "Het garantierecht is dan niet meer geldig.",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Na dertig jaar leegstand begint het oude pand ernstig te ___.",
+    "options": [
+      "vervallen",
+      "neervallen",
+      "samenvallen",
+      "wegvallen"
+    ],
+    "correct": 0,
+    "explanation": "'Vervallen' = in slechte staat raken door verwaarlozing. Het pand raakt in verval door de leegstand.",
+    "wrongExplanations": {
+      "1": "'Neervallen' = naar beneden vallen. Het pand vervalt (raakt in verval), het valt niet neer.",
+      "2": "'Samenvallen' = gelijktijdig plaatsvinden. Een pand vervalt, het valt niet samen.",
+      "3": "'Wegvallen' = verdwijnen. Een pand vervalt, het valt niet weg."
+    },
+    "hint": "Het pand raakt door jarenlange leegstand in een slechte staat.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Als je te laat aankomt, kan je reservering automatisch ___.",
+    "options": [
+      "vervallen",
+      "wegvallen",
+      "uitvallen",
+      "samenvallen"
+    ],
+    "correct": 0,
+    "explanation": "'Vervallen' = niet meer geldig zijn. De reservering is dan niet meer actief.",
+    "wrongExplanations": {
+      "1": "'Wegvallen' = verdwijnen. Een reservering vervalt (wordt ongeldig), ze valt niet weg.",
+      "2": "'Uitvallen' = stoppen met werken. Een reservering vervalt, ze valt niet uit.",
+      "3": "'Samenvallen' = gelijktijdig plaatsvinden. Een reservering vervalt, ze valt niet samen."
+    },
+    "hint": "Als je te laat bent, is je reservering niet meer geldig.",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Door automatisering zullen veel routinebanen in de toekomst ___.",
+    "options": [
+      "wegvallen",
+      "uitvallen",
+      "neervallen",
+      "tegenvallen"
+    ],
+    "correct": 0,
+    "explanation": "'Wegvallen' = verdwijnen, niet meer bestaan. Routinebanen verdwijnen door automatisering.",
+    "wrongExplanations": {
+      "1": "'Uitvallen' = stoppen met werken. Banen vallen weg (verdwijnen), ze vallen niet uit.",
+      "2": "'Neervallen' = naar beneden vallen. Banen vallen weg, ze vallen niet neer.",
+      "3": "'Tegenvallen' = minder goed zijn dan verwacht. Banen vallen weg, ze vallen niet tegen."
+    },
+    "hint": "Door automatisering verdwijnen routinebanen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Als de subsidie wordt stopgezet, dreigt de financiering voor het project te ___.",
+    "options": [
+      "wegvallen",
+      "uitvallen",
+      "vervallen",
+      "neervallen"
+    ],
+    "correct": 0,
+    "explanation": "'Wegvallen' = verdwijnen. De financiering verdwijnt als de subsidie stopt.",
+    "wrongExplanations": {
+      "1": "'Uitvallen' = stoppen met werken (systeem). Financiering valt weg, ze valt niet uit.",
+      "2": "'Vervallen' = ongeldig worden. Financiering valt weg (verdwijnt), ze vervalt niet in de eerste plaats.",
+      "3": "'Neervallen' = naar beneden vallen. Financiering valt weg, ze valt niet neer."
+    },
+    "hint": "De financiering verdwijnt als de subsidie wordt stopgezet.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Nu ze verhuisd is, dreigt het sociale netwerk dat ze had opgebouwd te ___.",
+    "options": [
+      "wegvallen",
+      "neervallen",
+      "samenvallen",
+      "opvallen"
+    ],
+    "correct": 0,
+    "explanation": "'Wegvallen' = verdwijnen. Haar sociale netwerk kan na de verhuizing verdwijnen.",
+    "wrongExplanations": {
+      "1": "'Neervallen' = naar beneden vallen. Een netwerk valt weg, het valt niet neer.",
+      "2": "'Samenvallen' = gelijktijdig plaatsvinden. Een netwerk valt weg, het valt niet samen.",
+      "3": "'Opvallen' = de aandacht trekken. Een netwerk valt weg, het valt niet op."
+    },
+    "hint": "Haar sociale netwerk kan na de verhuizing verdwijnen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ik hoop dat de nieuwe woonwijk haar gaat ___.",
+    "options": [
+      "bevallen",
+      "aanvallen",
+      "overvallen",
+      "opvallen"
+    ],
+    "correct": 0,
+    "explanation": "'Bevallen' = iemand aanstaan, prettig zijn voor iemand. Ze is tevreden met de woonwijk.",
+    "wrongExplanations": {
+      "1": "'Aanvallen' = aanvallen. Een woonwijk bevalt je, hij valt je niet aan.",
+      "2": "'Overvallen' = beroven of plotseling treffen. Een woonwijk bevalt je, hij overvalt je niet.",
+      "3": "'Opvallen' = opgemerkt worden. Een woonwijk bevalt je, hij valt niet op (in deze context)."
+    },
+    "hint": "Ze is tevreden als de woonwijk naar haar zin is.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De nieuwe werkwijze lijkt hem niet te ___; hij klaagt er voortdurend over.",
+    "options": [
+      "bevallen",
+      "aanvallen",
+      "tegenvallen",
+      "neervallen"
+    ],
+    "correct": 0,
+    "explanation": "'Bevallen' = iemand aanstaan. De werkwijze is niet naar zijn zin.",
+    "wrongExplanations": {
+      "1": "'Aanvallen' = aanvallen. De werkwijze bevalt hem niet, hij valt hem niet aan.",
+      "2": "'Tegenvallen' = minder goed zijn dan verwacht. Bevallen gaat over of iets je aanstaat; tegenvallen gaat over verwachtingen.",
+      "3": "'Neervallen' = naar beneden vallen. De werkwijze bevalt hem niet, ze valt niet neer."
+    },
+    "hint": "De werkwijze is niet naar zijn zin — hij is er ontevreden over.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Mocht de vakantiebestemming haar niet ___, dan kunnen we altijd een andere keer gaan.",
+    "options": [
+      "bevallen",
+      "opvallen",
+      "samenvallen",
+      "aanvallen"
+    ],
+    "correct": 0,
+    "explanation": "'Bevallen' = iemand aanstaan. Als de bestemming niet naar haar zin is, gaan ze een andere keer.",
+    "wrongExplanations": {
+      "1": "'Opvallen' = opgemerkt worden. Een bestemming bevalt je, ze valt je niet op (in deze zin).",
+      "2": "'Samenvallen' = gelijktijdig plaatsvinden. Een bestemming bevalt je, ze valt niet samen.",
+      "3": "'Aanvallen' = aanvallen. Een bestemming bevalt je, ze valt je niet aan."
+    },
+    "hint": "Als de bestemming niet naar haar zin is.",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De taak om het project te leiden lijkt hem te ___ vanwege zijn senioriteit.",
+    "options": [
+      "toevallen",
+      "aanvallen",
+      "overvallen",
+      "neervallen"
+    ],
+    "correct": 0,
+    "explanation": "'Toevallen' = aan iemand ten deel vallen, aan iemand gaan. De leidersrol gaat naar hem toe.",
+    "wrongExplanations": {
+      "1": "'Aanvallen' = aanvallen. Een taak valt iemand toe, ze valt niet aan.",
+      "2": "'Overvallen' = beroven of plotseling treffen. Een taak valt iemand toe, ze overvalt hem niet.",
+      "3": "'Neervallen' = naar beneden vallen. Een taak valt iemand toe, ze valt niet neer."
+    },
+    "hint": "De leidersrol gaat naar hem toe door zijn senioriteit.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Een grote erfenis kan iemand zomaar ___ zonder dat hij ervoor heeft gewerkt.",
+    "options": [
+      "toevallen",
+      "aanvallen",
+      "bevallen",
+      "opvallen"
+    ],
+    "correct": 0,
+    "explanation": "'Toevallen' = aan iemand toekomen, iemand ten deel vallen. Een erfenis kan zomaar bij iemand terechtkomen.",
+    "wrongExplanations": {
+      "1": "'Aanvallen' = aanvallen. Een erfenis valt iemand toe, ze valt niet aan.",
+      "2": "'Bevallen' = iemand aanstaan. Een erfenis valt je toe, ze bevalt je.",
+      "3": "'Opvallen' = opgemerkt worden. Een erfenis valt je toe, ze valt niet op."
+    },
+    "hint": "Een erfenis kan zomaar bij iemand terechtkomen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "In de vergadering probeerde hij niet te ___ door stil te blijven.",
+    "options": [
+      "opvallen",
+      "aanvallen",
+      "neervallen",
+      "wegvallen"
+    ],
+    "correct": 0,
+    "explanation": "'Opvallen' = de aandacht trekken, opgemerkt worden. Hij wilde niet de aandacht trekken.",
+    "wrongExplanations": {
+      "1": "'Aanvallen' = aanvallen. Hij wilde niet opvallen, niet aanvallen.",
+      "2": "'Neervallen' = naar beneden vallen. Hij wilde niet opvallen, hij wilde niet neervallen.",
+      "3": "'Wegvallen' = verdwijnen. Hij wilde niet opvallen, hij wilde niet wegvallen."
+    },
+    "hint": "Hij hield zijn mond zodat hij niet de aandacht zou trekken.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze vond het pijnlijk dat zoveel vrienden haar lieten ___ in moeilijke tijden.",
+    "options": [
+      "afvallen",
+      "opvallen",
+      "aanvallen",
+      "tegenvallen"
+    ],
+    "correct": 0,
+    "explanation": "'Afvallen' = iemand in de steek laten, iemand teleurstellen. Haar vrienden lieten haar in de steek.",
+    "wrongExplanations": {
+      "1": "'Opvallen' = de aandacht trekken. Vrienden laten je afvallen, ze vallen niet op.",
+      "2": "'Aanvallen' = aanvallen. Vrienden vallen af (laten je in de steek), ze vallen niet aan.",
+      "3": "'Tegenvallen' = minder goed zijn dan verwacht. Afvallen = in de steek laten; tegenvallen = teleurstellen qua kwaliteit."
+    },
+    "hint": "Haar vrienden lieten haar in de steek in moeilijke tijden.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Als de verwarming blijft ___, wordt het appartement ijskoud.",
+    "options": [
+      "uitvallen",
+      "neervallen",
+      "wegvallen",
+      "samenvallen"
+    ],
+    "correct": 0,
+    "explanation": "'Uitvallen' = stoppen met werken (apparaat of systeem). De verwarming stopt met functioneren.",
+    "wrongExplanations": {
+      "1": "'Neervallen' = naar beneden vallen. De verwarming valt uit, ze valt niet neer.",
+      "2": "'Wegvallen' = verdwijnen. Uitvallen is stoppen met werken; wegvallen is verdwijnen.",
+      "3": "'Samenvallen' = gelijktijdig plaatsvinden. De verwarming valt uit, ze valt niet samen."
+    },
+    "hint": "De verwarming stopt met werken.",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na de publicatie is de schrijver door critici fel ___.",
+    "options": [
+      "aangevallen",
+      "overvallen",
+      "neergevallen",
+      "opgevallen"
+    ],
+    "correct": 0,
+    "explanation": "'Aanvallen' = fel bekritiseren. De critici hebben de schrijver na de publicatie scherp bekritiseerd.",
+    "wrongExplanations": {
+      "1": "'Overvallen' = beroven of plotseling treffen. De schrijver is aangevallen (bekritiseerd), niet overvallen.",
+      "2": "'Neervallen' = naar beneden vallen. De schrijver is aangevallen, hij is niet neergevallen.",
+      "3": "'Opvallen' = de aandacht trekken. De schrijver is aangevallen, hij is niet opgevallen."
+    },
+    "hint": "De critici hebben de schrijver scherp bekritiseerd na de publicatie.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "formeel"
+  },
+  {
+    "sentence": "De inbrekers hebben het juwelierszaakje gisternacht ___.",
+    "options": [
+      "overvallen",
+      "aangevallen",
+      "neergevallen",
+      "opgevallen"
+    ],
+    "correct": 0,
+    "explanation": "'Overvallen' = beroven. De inbrekers hebben het juwelierszaakje beroofd.",
+    "wrongExplanations": {
+      "1": "'Aanvallen' = aanvallen. Je overvalt (berooft) een zaak, je valt hem niet aan.",
+      "2": "'Neervallen' = naar beneden vallen. De inbrekers hebben het zaakje overvallen, niet neergevallen.",
+      "3": "'Opvallen' = opgemerkt worden. De inbrekers hebben het zaakje overvallen, niet opgevallen."
+    },
+    "hint": "De inbrekers hebben het juwelierszaakje beroofd.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De twee evenementen zijn dit jaar op hetzelfde weekend ___.",
+    "options": [
+      "samengevallen",
+      "neergevallen",
+      "vervallen",
+      "opgevallen"
+    ],
+    "correct": 0,
+    "explanation": "'Samenvallen' = gelijktijdig plaatsvinden. De twee evenementen vonden op hetzelfde moment plaats.",
+    "wrongExplanations": {
+      "1": "'Neervallen' = naar beneden vallen. Ze zijn samengevallen (overlapping), ze zijn niet neergevallen.",
+      "2": "'Vervallen' = ongeldig worden of in verval raken. Ze zijn samengevallen, ze zijn niet vervallen.",
+      "3": "'Opvallen' = de aandacht trekken. Ze zijn samengevallen, ze zijn niet opgevallen."
+    },
+    "hint": "De twee evenementen vonden op hetzelfde moment plaats.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Zijn paspoort was al ___; hij moest snel een nieuw aanvragen.",
+    "options": [
+      "vervallen",
+      "samengevallen",
+      "neergevallen",
+      "opgevallen"
+    ],
+    "correct": 0,
+    "explanation": "'Vervallen' = niet meer geldig zijn. Het paspoort was verlopen.",
+    "wrongExplanations": {
+      "1": "'Samenvallen' = gelijktijdig plaatsvinden. Het paspoort is vervallen, het is niet samengevallen.",
+      "2": "'Neervallen' = naar beneden vallen. Het paspoort is vervallen, het is niet neergevallen.",
+      "3": "'Opvallen' = de aandacht trekken. Het paspoort is vervallen, het is niet opgevallen."
+    },
+    "hint": "Het paspoort was niet meer geldig — hij had een nieuw nodig.",
+    "tense": "perfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Door de nieuwe wet is een deel van de subsidie ___.",
+    "options": [
+      "weggevallen",
+      "neergevallen",
+      "samengevallen",
+      "opgevallen"
+    ],
+    "correct": 0,
+    "explanation": "'Wegvallen' = verdwijnen. Een deel van de subsidie is verdwenen door de nieuwe wet.",
+    "wrongExplanations": {
+      "1": "'Neervallen' = naar beneden vallen. De subsidie is weggevallen, ze is niet neergevallen.",
+      "2": "'Samenvallen' = gelijktijdig plaatsvinden. De subsidie is weggevallen, ze is niet samengevallen.",
+      "3": "'Opvallen' = de aandacht trekken. De subsidie is weggevallen, ze is niet opgevallen."
+    },
+    "hint": "Een deel van de subsidie is door de nieuwe wet verdwenen.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Het nieuwe kantoor heeft hem erg ___; hij werkt er met plezier.",
+    "options": [
+      "bevallen",
+      "aangevallen",
+      "neergevallen",
+      "opgevallen"
+    ],
+    "correct": 0,
+    "explanation": "'Bevallen' = iemand aanstaan. Het nieuwe kantoor is naar zijn zin.",
+    "wrongExplanations": {
+      "1": "'Aanvallen' = aanvallen. Het kantoor heeft hem bevallen, het heeft hem niet aangevallen.",
+      "2": "'Neervallen' = naar beneden vallen. Het kantoor heeft hem bevallen, het is niet neergevallen.",
+      "3": "'Opvallen' = de aandacht trekken. Het kantoor heeft hem bevallen, het is niet opgevallen."
+    },
+    "hint": "Het nieuwe kantoor is naar zijn zin — hij werkt er graag.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Toen de hond de postbode ___, schrok iedereen in de straat.",
+    "options": [
+      "aanviel",
+      "opviel",
+      "neerviel",
+      "uitviel"
+    ],
+    "correct": 0,
+    "explanation": "'Aanvallen' (aanviel) = een aanval doen. De hond deed een aanval op de postbode.",
+    "wrongExplanations": {
+      "1": "'Opvallen' (opviel) = de aandacht trekken. De hond viel aan, hij viel niet op.",
+      "2": "'Neervallen' (neerviel) = naar beneden vallen. De hond viel aan, hij viel niet neer.",
+      "3": "'Uitvallen' (uitviel) = stoppen met werken of fel reageren. De hond viel aan, hij viel niet uit."
+    },
+    "hint": "De hond deed een aanval op de postbode.",
+    "tense": "imperfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Een plotseling gevoel van verdriet ___ haar tijdens het winkelen.",
+    "options": [
+      "overviel",
+      "opviel",
+      "aanviel",
+      "neerviel"
+    ],
+    "correct": 0,
+    "explanation": "'Overvallen' (overviel) = plotseling treffen. Een golf van verdriet trof haar onverwacht.",
+    "wrongExplanations": {
+      "1": "'Opvallen' (opviel) = de aandacht trekken. Het gevoel overviel haar, het viel niet op.",
+      "2": "'Aanvallen' (aanviel) = aanvallen. Het gevoel overviel haar, het viel niet aan.",
+      "3": "'Neervallen' (neerviel) = naar beneden vallen. Het gevoel overviel haar, het viel niet neer."
+    },
+    "hint": "Een golf van verdriet trof haar plotseling en onverwacht.",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Zonder dagelijkse structuur ___ hij snel in zijn oude gewoonten.",
+    "options": [
+      "verviel",
+      "opviel",
+      "neerviel",
+      "aanviel"
+    ],
+    "correct": 0,
+    "explanation": "'Vervallen' (verviel) = terugvallen in iets negatiefs. Zonder structuur viel hij terug in slechte gewoonten.",
+    "wrongExplanations": {
+      "1": "'Opvallen' (opviel) = de aandacht trekken. Hij verviel in oude gewoonten, hij viel niet op.",
+      "2": "'Neervallen' (neerviel) = naar beneden vallen. Hij verviel in gewoonten, hij viel niet neer.",
+      "3": "'Aanvallen' (aanviel) = aanvallen. Hij verviel in gewoonten, hij viel niet aan."
+    },
+    "hint": "Zonder structuur gleed hij terug in slechte gewoonten.",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
     "register": "neutraal"
   }
 ]

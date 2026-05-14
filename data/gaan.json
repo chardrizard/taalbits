@@ -1,7 +1,12 @@
 [
   {
     "sentence": "Op vrijdagavond wil hij altijd ______; hij houdt van gezelligheid en muziek.",
-    "options": ["uitgaan", "weggaan", "doorgaan", "overgaan"],
+    "options": [
+      "uitgaan",
+      "weggaan",
+      "doorgaan",
+      "overgaan"
+    ],
     "correct": 0,
     "explanation": "'Uitgaan' = 's avonds naar buiten gaan voor vermaak, zoals naar een café, restaurant of club. De context 'gezelligheid en muziek' maakt duidelijk dat het om een sociale avond gaat.",
     "wrongExplanations": {
@@ -16,7 +21,12 @@
   },
   {
     "sentence": "We kunnen er niet van ______ dat het congres op tijd begint.",
-    "options": ["uitgaan", "doorgaan", "overgaan", "weggaan"],
+    "options": [
+      "uitgaan",
+      "doorgaan",
+      "overgaan",
+      "weggaan"
+    ],
     "correct": 0,
     "explanation": "'Uitgaan van' = iets aannemen als startpunt, iets als gegeven beschouwen. 'Er van uitgaan' is een vaste combinatie voor het maken van een aanname.",
     "wrongExplanations": {
@@ -31,7 +41,12 @@
   },
   {
     "sentence": "Nadat het licht was ______, konden we niets meer zien.",
-    "options": ["uitgegaan", "doorgegaan", "overgegaan", "weggegaan"],
+    "options": [
+      "uitgegaan",
+      "doorgegaan",
+      "overgegaan",
+      "weggegaan"
+    ],
     "correct": 0,
     "explanation": "'Uitgaan' = ophouden met branden of stralen, zoals een lamp of kaars. Als een licht uitgaat, stopt het met geven van licht.",
     "wrongExplanations": {
@@ -46,7 +61,12 @@
   },
   {
     "sentence": "De vergadering begint over vijf minuten. Je moet nu ______.",
-    "options": ["weggaan", "uitgaan", "doorgaan", "overgaan"],
+    "options": [
+      "weggaan",
+      "uitgaan",
+      "doorgaan",
+      "overgaan"
+    ],
     "correct": 0,
     "explanation": "'Weggaan' = vertrekken, de huidige plek verlaten. Je moet nu de deur uit om op tijd bij de vergadering te zijn.",
     "wrongExplanations": {
@@ -61,7 +81,12 @@
   },
   {
     "sentence": "Na de ruzie is zij direct ______.",
-    "options": ["weggegaan", "uitgegaan", "doorgegaan", "overgegaan"],
+    "options": [
+      "weggegaan",
+      "uitgegaan",
+      "doorgegaan",
+      "overgegaan"
+    ],
     "correct": 0,
     "explanation": "'Weggaan' = vertrekken, de plek verlaten. Na een ruzie kun je direct vertrekken zonder verdere uitleg.",
     "wrongExplanations": {
@@ -76,7 +101,12 @@
   },
   {
     "sentence": "Toch moet je ______; opgeven is geen optie.",
-    "options": ["doorgaan", "weggaan", "uitgaan", "overgaan"],
+    "options": [
+      "doorgaan",
+      "weggaan",
+      "uitgaan",
+      "overgaan"
+    ],
     "correct": 0,
     "explanation": "'Doorgaan' = verdergaan, niet stoppen, iets voortzetten. Ondanks de moeilijkheden ga je verder met wat je aan het doen bent.",
     "wrongExplanations": {
@@ -91,7 +121,12 @@
   },
   {
     "sentence": "Ondanks de hevige regen is het festival toch ______.",
-    "options": ["doorgegaan", "uitgegaan", "overgegaan", "weggegaan"],
+    "options": [
+      "doorgegaan",
+      "uitgegaan",
+      "overgegaan",
+      "weggegaan"
+    ],
     "correct": 0,
     "explanation": "'Doorgaan' = toch plaatsvinden, niet afgelast worden. Als een evenement doorgaat, vindt het gewoon plaats ondanks obstakels.",
     "wrongExplanations": {
@@ -106,7 +141,12 @@
   },
   {
     "sentence": "De twee bedrijven willen volgende maand een samenwerking ______.",
-    "options": ["aangaan", "doorgaan", "overgaan", "uitgaan"],
+    "options": [
+      "aangaan",
+      "doorgaan",
+      "overgaan",
+      "uitgaan"
+    ],
     "correct": 0,
     "explanation": "'Aangaan' = een verbintenis of overeenkomst sluiten. 'Een samenwerking aangaan' is een vaste combinatie voor het formeel starten van een samenwerking.",
     "wrongExplanations": {
@@ -121,7 +161,12 @@
   },
   {
     "sentence": "Hij zei dat de kritiek hem totaal niet ______.",
-    "options": ["aanging", "doorging", "overging", "uitging"],
+    "options": [
+      "aanging",
+      "doorging",
+      "overging",
+      "uitging"
+    ],
     "correct": 0,
     "explanation": "'Aangaan' = betrekking hebben op iemand, iemand raken of aangaan. 'Dat gaat mij aan' is een vaste uitdrukking voor iets dat jou betreft of jouw zaak is.",
     "wrongExplanations": {
@@ -136,7 +181,12 @@
   },
   {
     "sentence": "Als hij dit jaar genoeg punten haalt, mag hij ______.",
-    "options": ["overgaan", "doorgaan", "uitgaan", "weggaan"],
+    "options": [
+      "overgaan",
+      "doorgaan",
+      "uitgaan",
+      "weggaan"
+    ],
     "correct": 0,
     "explanation": "'Overgaan' = naar de volgende klas of het volgende niveau gaan. In het onderwijs gebruik je 'overgaan' als een leerling voldoende resultaten heeft om door te stromen.",
     "wrongExplanations": {
@@ -151,7 +201,12 @@
   },
   {
     "sentence": "Iedereen was stil totdat de bel ______.",
-    "options": ["overging", "doorging", "uitging", "wegging"],
+    "options": [
+      "overging",
+      "doorging",
+      "uitging",
+      "wegging"
+    ],
     "correct": 0,
     "explanation": "'Overgaan' = rinkelen, klinken. Als een bel of telefoon 'overgaat', maakt het geluid. Dit is een vaste combinatie in het Nederlands.",
     "wrongExplanations": {
@@ -166,7 +221,12 @@
   },
   {
     "sentence": "Na tien jaar als zelfstandige is zij in loondienst ______.",
-    "options": ["overgegaan", "doorgegaan", "weggegaan", "uitgegaan"],
+    "options": [
+      "overgegaan",
+      "doorgegaan",
+      "weggegaan",
+      "uitgegaan"
+    ],
     "correct": 0,
     "explanation": "'Overgaan' = overstappen naar iets anders, een overgang maken. 'Overgaan naar loondienst' betekent dat je van werkvorm verandert.",
     "wrongExplanations": {
@@ -181,7 +241,12 @@
   },
   {
     "sentence": "De pijn in mijn been is na een paar dagen vanzelf ______.",
-    "options": ["overgegaan", "doorgegaan", "voorbijgegaan", "weggegaan"],
+    "options": [
+      "overgegaan",
+      "doorgegaan",
+      "voorbijgegaan",
+      "weggegaan"
+    ],
     "correct": 0,
     "explanation": "'Overgaan' = ophouden, niet meer aanwezig zijn. Als pijn overgaat, stopt die vanzelf. Dit is de vaste combinatie voor pijn of klachten die verdwijnen.",
     "wrongExplanations": {
@@ -196,7 +261,12 @@
   },
   {
     "sentence": "Je kunt die kans niet laten ______; dit is je enige keer.",
-    "options": ["voorbijgaan", "weggaan", "doorgaan", "overgaan"],
+    "options": [
+      "voorbijgaan",
+      "weggaan",
+      "doorgaan",
+      "overgaan"
+    ],
     "correct": 0,
     "explanation": "'Voorbijgaan' = passeren zonder te benutten. 'Een kans laten voorbijgaan' is een vaste uitdrukking voor het missen van een gelegenheid.",
     "wrongExplanations": {
@@ -211,7 +281,12 @@
   },
   {
     "sentence": "De rechter is volledig ______ aan de bezwaren van de verdachte.",
-    "options": ["voorbijgegaan", "doorgegaan", "overgegaan", "weggegaan"],
+    "options": [
+      "voorbijgegaan",
+      "doorgegaan",
+      "overgegaan",
+      "weggegaan"
+    ],
     "correct": 0,
     "explanation": "'Voorbijgaan aan' = negeren of niet ingaan op iets. Als iemand aan bezwaren voorbijgaat, worden die bezwaren genegeerd of niet behandeld.",
     "wrongExplanations": {
@@ -226,7 +301,12 @@
   },
   {
     "sentence": "De zomervakantie is dit jaar heel snel ______.",
-    "options": ["voorbijgegaan", "doorgegaan", "overgegaan", "uitgegaan"],
+    "options": [
+      "voorbijgegaan",
+      "doorgegaan",
+      "overgegaan",
+      "uitgegaan"
+    ],
     "correct": 0,
     "explanation": "'Voorbijgaan' = passeren, eindigen. Als tijd voorbijgaat, verstrijkt die en is die periode afgelopen.",
     "wrongExplanations": {
@@ -241,7 +321,12 @@
   },
   {
     "sentence": "De patiënt moet morgen een zware operatie ______.",
-    "options": ["ondergaan", "doorgaan", "overgaan", "uitgaan"],
+    "options": [
+      "ondergaan",
+      "doorgaan",
+      "overgaan",
+      "uitgaan"
+    ],
     "correct": 0,
     "explanation": "'Ondergaan' = iets meemaken of ervaren, vaak iets moeilijks of ingrijpends. 'Een operatie ondergaan' is een vaste combinatie voor het ondergaan van een medische ingreep.",
     "wrongExplanations": {
@@ -256,7 +341,12 @@
   },
   {
     "sentence": "We keken hoe de zon langzaam boven de zee ______.",
-    "options": ["onderging", "doorging", "overging", "uitging"],
+    "options": [
+      "onderging",
+      "doorging",
+      "overging",
+      "uitging"
+    ],
     "correct": 0,
     "explanation": "'Ondergaan' = zakken onder de horizon. Als de zon ondergaat, verdwijnt die aan de horizon en wordt het donker.",
     "wrongExplanations": {
@@ -271,7 +361,12 @@
   },
   {
     "sentence": "Na het ontslag heeft zij een zeer moeilijke periode ______.",
-    "options": ["ondergaan", "doorgegaan", "overgegaan", "weggegaan"],
+    "options": [
+      "ondergaan",
+      "doorgegaan",
+      "overgegaan",
+      "weggegaan"
+    ],
     "correct": 0,
     "explanation": "'Ondergaan' = iets meemaken of doorstaan, met name iets moeilijks of pijnlijks. Let op: 'ondergaan' is onscheidbaar, dus het perfectum is 'ondergaan' — zonder 'ge-' prefix.",
     "wrongExplanations": {
@@ -283,5 +378,625 @@
     "tense": "perfectum",
     "wordOrder": "standard",
     "register": "neutraal"
+  },
+  {
+    "sentence": "Ze is zo gefocust dat ze volledig in haar werk dreigt te ___.",
+    "options": [
+      "opgaan",
+      "meegaan",
+      "doorgaan",
+      "weggaan"
+    ],
+    "correct": 0,
+    "explanation": "'Opgaan in' = volledig geabsorbeerd zijn door iets. Ze gaat volledig op in haar werk en verliest het tijdsbesef.",
+    "wrongExplanations": {
+      "1": "'Meegaan' = meekomen of lang meegaan. Je gaat op in je werk, je gaat niet mee.",
+      "2": "'Doorgaan' = verdergaan. Ze gaat op in haar werk, ze gaat niet alleen maar door.",
+      "3": "'Weggaan' = vertrekken. Ze gaat op in haar werk, ze gaat niet weg."
+    },
+    "hint": "Ze is zo gefocust dat ze volledig geabsorbeerd raakt door haar werk.",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Die uitzondering lijkt niet voor iedereen te ___.",
+    "options": [
+      "opgaan",
+      "aangaan",
+      "meegaan",
+      "ingaan"
+    ],
+    "correct": 0,
+    "explanation": "'Opgaan' = van toepassing zijn, gelden voor iemand. De uitzondering is niet voor iedereen geldig.",
+    "wrongExplanations": {
+      "1": "'Aangaan' = betrekking hebben op. Opgaan = van toepassing zijn; aangaan = betrekking hebben op (je gaat iets aan).",
+      "2": "'Meegaan' = meekomen. De uitzondering gaat op, ze gaat niet mee.",
+      "3": "'Ingaan' = van kracht worden of reageren op. De uitzondering gaat op, ze gaat niet in."
+    },
+    "hint": "De uitzondering is niet voor iedereen van toepassing.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Al zijn spaargeld dreigt ___ aan de onverwachte reparaties.",
+    "options": [
+      "op te gaan",
+      "mee te gaan",
+      "in te gaan",
+      "over te gaan"
+    ],
+    "correct": 0,
+    "explanation": "'Opgaan aan' = volledig verbruikt worden door iets. Al zijn spaargeld wordt gebruikt voor de reparaties.",
+    "wrongExplanations": {
+      "1": "'Meegaan' = meekomen of lang meegaan. Geld gaat op aan iets, het gaat niet mee.",
+      "2": "'Ingaan' = van kracht worden of ingaan op. Geld gaat op, het gaat niet in.",
+      "3": "'Overgaan' = overstappen of overgaan naar. Geld gaat op, het gaat niet over."
+    },
+    "hint": "Al zijn spaargeld wordt verbruikt door de reparaties.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij wilde tijdens het optreden absoluut niet ___.",
+    "options": [
+      "afgaan",
+      "meegaan",
+      "opgaan",
+      "weggaan"
+    ],
+    "correct": 0,
+    "explanation": "'Afgaan' = voor schut staan, zich schamen door een misser. Hij wilde niet voor schut staan.",
+    "wrongExplanations": {
+      "1": "'Meegaan' = meekomen. Hij wil niet afgaan, hij wil niet meegaan.",
+      "2": "'Opgaan' = geabsorbeerd worden. Hij wil niet afgaan, hij wil niet opgaan.",
+      "3": "'Weggaan' = vertrekken. Hij wil niet afgaan, hij wil niet weggaan."
+    },
+    "hint": "Hij wilde niet voor schut staan tijdens het optreden.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Je kunt beter niet ___ op geruchten — zoek de feiten zelf op.",
+    "options": [
+      "afgaan",
+      "ingaan",
+      "meegaan",
+      "opgaan"
+    ],
+    "correct": 0,
+    "explanation": "'Afgaan op' = vertrouwen op iets zonder het te controleren. Je kunt beter zelf de feiten controleren.",
+    "wrongExplanations": {
+      "1": "'Ingaan op' = reageren op. Je gaat af op informatie; je gaat in op een vraag.",
+      "2": "'Meegaan' = meekomen of meegaan met een idee. Je gaat af op geruchten, je gaat niet mee.",
+      "3": "'Opgaan' = van toepassing zijn. Je gaat af op geruchten, je gaat niet op."
+    },
+    "hint": "Je vertrouwt blindelings op geruchten zonder ze te controleren.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Als het alarm ___, moet iedereen direct het gebouw verlaten.",
+    "options": [
+      "afgaat",
+      "meegaat",
+      "opgaat",
+      "weggaat"
+    ],
+    "correct": 0,
+    "explanation": "'Afgaan' = afklinken, in werking treden (alarm, bel). Als het alarm klinkt, moeten mensen evacueren.",
+    "wrongExplanations": {
+      "1": "'Meegaan' = meekomen. Het alarm gaat af, het gaat niet mee.",
+      "2": "'Opgaan' = van toepassing zijn of verbruikt worden. Het alarm gaat af, het gaat niet op.",
+      "3": "'Weggaan' = vertrekken. Het alarm gaat af, het gaat niet weg."
+    },
+    "hint": "Als het alarm klinkt, moet iedereen evacueren.",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Wil jij morgen ___ naar het concert, of heb je andere plannen?",
+    "options": [
+      "meegaan",
+      "weggaan",
+      "opgaan",
+      "ingaan"
+    ],
+    "correct": 0,
+    "explanation": "'Meegaan' = met iemand meekomen naar een plek. Hij is uitgenodigd om mee te gaan.",
+    "wrongExplanations": {
+      "1": "'Weggaan' = vertrekken. Meegaan is met iemand mee naar een concert; weggaan is gewoon vertrekken.",
+      "2": "'Opgaan' = geabsorbeerd worden of van toepassing zijn. Je gaat mee naar het concert, je gaat er niet in op.",
+      "3": "'Ingaan' = van kracht worden of ingaan op. Je gaat mee, je gaat niet in."
+    },
+    "hint": "Hij is uitgenodigd om mee te komen naar het concert.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Een goede winterjas moet minstens vijf jaar ___.",
+    "options": [
+      "meegaan",
+      "opgaan",
+      "doorgaan",
+      "weggaan"
+    ],
+    "correct": 0,
+    "explanation": "'Meegaan' = zo lang in goede staat blijven. Een goede jas gaat vijf jaar mee.",
+    "wrongExplanations": {
+      "1": "'Opgaan' = verbruikt worden. Een jas gaat mee (duurt lang), hij gaat niet op.",
+      "2": "'Doorgaan' = verdergaan. Een jas gaat mee in de zin van duurzaamheid, niet in de zin van doorgaan.",
+      "3": "'Weggaan' = vertrekken. Een jas gaat mee, hij gaat niet weg."
+    },
+    "hint": "Een goede jas blijft minstens vijf jaar in goede staat.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze wil niet ___ naar haar oude baan; dat hoofdstuk is gesloten.",
+    "options": [
+      "teruggaan",
+      "meegaan",
+      "doorgaan",
+      "opgaan"
+    ],
+    "correct": 0,
+    "explanation": "'Teruggaan' = terugkeren naar een eerdere situatie of plek. Ze wil niet terugkeren naar haar oude baan.",
+    "wrongExplanations": {
+      "1": "'Meegaan' = meekomen. Ze wil niet teruggaan, ze wil niet meegaan.",
+      "2": "'Doorgaan' = verdergaan. Ze wil niet teruggaan naar haar baan, ze wil wel doorgaan.",
+      "3": "'Opgaan' = geabsorbeerd worden. Ze wil niet teruggaan, ze wil niet opgaan."
+    },
+    "hint": "Ze wil niet terugkeren naar haar oude baan.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Om de oorzaak te begrijpen, moeten we even ___ in de tijd.",
+    "options": [
+      "teruggaan",
+      "doorgaan",
+      "ingaan",
+      "afgaan"
+    ],
+    "correct": 0,
+    "explanation": "'Teruggaan' = terugkeren in de tijd. We kijken naar het verleden om de oorzaak te vinden.",
+    "wrongExplanations": {
+      "1": "'Doorgaan' = verdergaan. We gaan terug in de tijd, we gaan niet door.",
+      "2": "'Ingaan' = ingaan op of van kracht worden. We gaan terug in de tijd, we gaan niet in.",
+      "3": "'Afgaan' = voor schut staan. We gaan terug in de tijd, we gaan niet af."
+    },
+    "hint": "We kijken naar het verleden om de oorzaak te begrijpen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De nieuwe cao gaat pas volgend jaar januari ___.",
+    "options": [
+      "in",
+      "mee",
+      "op",
+      "af"
+    ],
+    "correct": 0,
+    "explanation": "'Ingaan' = van kracht worden, in werking treden. De cao wordt pas volgend jaar januari van kracht.",
+    "wrongExplanations": {
+      "1": "'Meegaan' = meekomen of meegaan. Een cao gaat in (wordt van kracht), hij gaat niet mee.",
+      "2": "'Opgaan' = van toepassing zijn of verbruikt worden. Een cao gaat in, hij gaat niet op.",
+      "3": "'Afgaan' = voor schut staan of klinken. Een cao gaat in, hij gaat niet af."
+    },
+    "hint": "De cao wordt pas volgend jaar januari van kracht.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Het heeft geen zin om ___ op elke kritische opmerking.",
+    "options": [
+      "in te gaan",
+      "mee te gaan",
+      "op te gaan",
+      "af te gaan"
+    ],
+    "correct": 0,
+    "explanation": "'Ingaan op' = reageren op iets. Het heeft geen zin om op elke kritische opmerking te reageren.",
+    "wrongExplanations": {
+      "1": "'Meegaan' = meekomen of akkoord gaan. Je gaat in op een opmerking, je gaat niet mee.",
+      "2": "'Opgaan op' = niet gangbaar in deze context. Je gaat in op opmerkingen, niet op.",
+      "3": "'Afgaan op' = vertrouwen op zonder te controleren. Je gaat in op een opmerking (reageert), je gaat er niet op af."
+    },
+    "hint": "Het heeft geen zin om op elke kritische opmerking te reageren.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij weigerde ___ tegen de beslissing van zijn baas.",
+    "options": [
+      "in te gaan",
+      "mee te gaan",
+      "op te gaan",
+      "af te gaan"
+    ],
+    "correct": 0,
+    "explanation": "'Ingaan tegen' = zich verzetten tegen. Hij weigerde zich te verzetten tegen de beslissing.",
+    "wrongExplanations": {
+      "1": "'Meegaan met' = akkoord gaan met. In te gaan tegen = verzetten; mee te gaan met = akkoord gaan.",
+      "2": "'Opgaan' = van toepassing zijn. Je gaat in tegen iets, je gaat er niet op.",
+      "3": "'Afgaan op' = vertrouwen op. Je gaat in tegen een beslissing, je gaat er niet op af."
+    },
+    "hint": "Hij weigerde zich te verzetten tegen zijn baas.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Je moet leren goed ___ met teleurstelling.",
+    "options": [
+      "om te gaan",
+      "mee te gaan",
+      "in te gaan",
+      "af te gaan"
+    ],
+    "correct": 0,
+    "explanation": "'Omgaan met' = hanteren, in de omgang met iets kunnen. Het is een vaardigheid om goed met teleurstelling te kunnen omgaan.",
+    "wrongExplanations": {
+      "1": "'Meegaan' = meekomen. Je gaat om met teleurstelling, je gaat er niet mee.",
+      "2": "'Ingaan op' = reageren op. Je gaat om met teleurstelling, je gaat er niet op in.",
+      "3": "'Afgaan op' = vertrouwen op. Je gaat om met teleurstelling, je gaat er niet op af."
+    },
+    "hint": "Het is een vaardigheid om teleurstelling goed te hanteren.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze zijn al jaren bevriend — ze weten hoe ze met elkaar moeten ___.",
+    "options": [
+      "omgaan",
+      "meegaan",
+      "ingaan",
+      "doorgaan"
+    ],
+    "correct": 0,
+    "explanation": "'Omgaan met' = in de omgang zijn met iemand, met elkaar overweg kunnen. Ze weten hoe ze met elkaar overweg kunnen.",
+    "wrongExplanations": {
+      "1": "'Meegaan' = meekomen. Ze gaan om met elkaar, ze gaan niet mee.",
+      "2": "'Ingaan' = van kracht worden of reageren. Ze gaan om met elkaar, ze gaan niet in.",
+      "3": "'Doorgaan' = verdergaan. Ze gaan om met elkaar, ze gaan niet alleen maar door."
+    },
+    "hint": "Ze weten hoe ze met elkaar overweg kunnen.",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze beloofde deze week even bij ons ___.",
+    "options": [
+      "langs te gaan",
+      "mee te gaan",
+      "in te gaan",
+      "af te gaan"
+    ],
+    "correct": 0,
+    "explanation": "'Langsgaan' = even bezoeken, even aanlopen. Ze beloofde ons even te bezoeken.",
+    "wrongExplanations": {
+      "1": "'Meegaan' = meekomen. Ze gaat langs (bezoekt ons), ze gaat niet mee.",
+      "2": "'Ingaan' = van kracht worden of reageren op. Ze gaat langs, ze gaat niet in.",
+      "3": "'Afgaan' = voor schut staan of afgaan op. Ze gaat langs, ze gaat niet af."
+    },
+    "hint": "Ze beloofde ons even te bezoeken.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Als je toch in de buurt bent, kun je even bij het postkantoor ___.",
+    "options": [
+      "langsgaan",
+      "meegaan",
+      "ingaan",
+      "doorgaan"
+    ],
+    "correct": 0,
+    "explanation": "'Langsgaan' = even aanlopen bij een plek. Ze kan even bij het postkantoor aanlopen.",
+    "wrongExplanations": {
+      "1": "'Meegaan' = meekomen. Je gaat langs bij het postkantoor, je gaat er niet mee.",
+      "2": "'Ingaan' = naar binnen gaan of van kracht worden. Langsgaan is even aanlopen; ingaan is naar binnen gaan.",
+      "3": "'Doorgaan' = verdergaan. Je gaat langs, je gaat niet door."
+    },
+    "hint": "Ze kan even aanlopen bij het postkantoor.",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Groei en duurzaamheid kunnen prima ___.",
+    "options": [
+      "samengaan",
+      "meegaan",
+      "doorgaan",
+      "ingaan"
+    ],
+    "correct": 0,
+    "explanation": "'Samengaan' = compatibel zijn, goed bij elkaar passen. Groei en duurzaamheid sluiten elkaar niet uit.",
+    "wrongExplanations": {
+      "1": "'Meegaan' = meekomen. Ze gaan samen (zijn compatibel), ze gaan niet mee.",
+      "2": "'Doorgaan' = verdergaan. Ze gaan samen, ze gaan niet alleen door.",
+      "3": "'Ingaan' = van kracht worden of reageren. Ze gaan samen, ze gaan niet in."
+    },
+    "hint": "Groei en duurzaamheid zijn verenigbaar.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Stijl en comfort hoeven niet altijd goed te ___.",
+    "options": [
+      "samengaan",
+      "meegaan",
+      "doorgaan",
+      "opgaan"
+    ],
+    "correct": 0,
+    "explanation": "'Samengaan' = compatibel zijn. Stijl en comfort zijn niet altijd verenigbaar.",
+    "wrongExplanations": {
+      "1": "'Meegaan' = meekomen of lang meegaan. Ze gaan samen (zijn compatibel), ze gaan niet mee.",
+      "2": "'Doorgaan' = verdergaan. Ze gaan samen, ze gaan niet door.",
+      "3": "'Opgaan' = van toepassing zijn. Ze gaan samen, ze gaan niet op."
+    },
+    "hint": "Stijl en comfort zijn niet altijd verenigbaar.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Je mag pas ___ als je een geldig ticket hebt.",
+    "options": [
+      "binnengaan",
+      "meegaan",
+      "weggaan",
+      "doorgaan"
+    ],
+    "correct": 0,
+    "explanation": "'Binnengaan' = naar binnen gaan. Je kunt alleen naar binnen met een geldig ticket.",
+    "wrongExplanations": {
+      "1": "'Meegaan' = meekomen. Je gaat naar binnen, je gaat niet mee.",
+      "2": "'Weggaan' = vertrekken. Je gaat naar binnen, je gaat niet weg.",
+      "3": "'Doorgaan' = verdergaan. Je gaat naar binnen, je gaat niet door."
+    },
+    "hint": "Je kunt alleen naar binnen met een geldig ticket.",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ondanks alle tegenwind wil hij met zijn plannen ___.",
+    "options": [
+      "voortgaan",
+      "meegaan",
+      "opgaan",
+      "langsgaan"
+    ],
+    "correct": 0,
+    "explanation": "'Voortgaan' = verdergaan, doorzetten. Hij blijft doorzetten ondanks de obstakels.",
+    "wrongExplanations": {
+      "1": "'Meegaan' = meekomen. Hij gaat voort (door), hij gaat niet mee.",
+      "2": "'Opgaan' = geabsorbeerd worden. Hij gaat voort, hij gaat niet op.",
+      "3": "'Langsgaan' = even bezoeken. Hij gaat voort met zijn plannen, hij gaat niet langs."
+    },
+    "hint": "Hij gaat door met zijn plannen ondanks de obstakels.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Hij wil de competitie ___ met zijn sterkste team.",
+    "options": [
+      "aangaan",
+      "doorgaan",
+      "meegaan",
+      "opgaan"
+    ],
+    "correct": 0,
+    "explanation": "'Aangaan' = een uitdaging of strijd aanvaarden. Hij wil de competitie aanvaarden.",
+    "wrongExplanations": {
+      "1": "'Doorgaan' = verdergaan. Je gaat een competitie aan, je gaat er niet door.",
+      "2": "'Meegaan' = meekomen. Je gaat een competitie aan, je gaat er niet mee.",
+      "3": "'Opgaan' = geabsorbeerd worden. Je gaat een competitie aan, je gaat er niet in op."
+    },
+    "hint": "Hij wil de competitie aanvaarden met zijn sterkste team.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft zijn uitnodiging aanvaard en is mee naar het gala ___.",
+    "options": [
+      "meegegaan",
+      "weggegaan",
+      "doorgegaan",
+      "ingegaan"
+    ],
+    "correct": 0,
+    "explanation": "'Meegaan' = met iemand meekomen. Ze is met hem meegegaan naar het gala.",
+    "wrongExplanations": {
+      "1": "'Weggaan' = vertrekken. Ze is meegegaan, niet weggegaan.",
+      "2": "'Doorgaan' = verdergaan. Ze is meegegaan, niet doorgegaan.",
+      "3": "'Ingaan' = naar binnen gaan of van kracht worden. Ze is meegegaan, niet ingegaan."
+    },
+    "hint": "Ze heeft de uitnodiging aanvaard en is met hem mee.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na tien jaar in het buitenland is hij vorig jaar naar Nederland ___.",
+    "options": [
+      "teruggegaan",
+      "doorgegaan",
+      "meegegaan",
+      "ingegaan"
+    ],
+    "correct": 0,
+    "explanation": "'Teruggaan' = terugkeren naar een eerdere plek. Na tien jaar is hij naar Nederland teruggekeerd.",
+    "wrongExplanations": {
+      "1": "'Doorgaan' = verdergaan. Hij is teruggegaan, niet doorgegaan.",
+      "2": "'Meegaan' = meekomen. Hij is teruggegaan naar Nederland, niet meegegaan.",
+      "3": "'Ingaan' = naar binnen gaan. Hij is teruggegaan naar Nederland, niet ingegaan."
+    },
+    "hint": "Na tien jaar in het buitenland is hij naar Nederland teruggekeerd.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De nieuwe huurprijzen zijn per 1 juli officieel ___.",
+    "options": [
+      "ingegaan",
+      "meegegaan",
+      "doorgegaan",
+      "opgegaan"
+    ],
+    "correct": 0,
+    "explanation": "'Ingaan' = van kracht worden. De nieuwe huurprijzen zijn per 1 juli van kracht geworden.",
+    "wrongExplanations": {
+      "1": "'Meegaan' = meekomen. De prijzen zijn ingegaan, ze zijn niet meegegaan.",
+      "2": "'Doorgaan' = verdergaan. De prijzen zijn ingegaan, ze zijn niet doorgegaan.",
+      "3": "'Opgaan' = verbruikt worden. De prijzen zijn ingegaan, ze zijn niet opgegaan."
+    },
+    "hint": "De nieuwe huurprijzen zijn per 1 juli van kracht geworden.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Hij heeft de afgelopen jaren heel anders ___ met zijn stress.",
+    "options": [
+      "omgegaan",
+      "meegegaan",
+      "doorgegaan",
+      "ingegaan"
+    ],
+    "correct": 0,
+    "explanation": "'Omgaan met' = hanteren. Hij heeft de stress de afgelopen jaren anders gehanteerd.",
+    "wrongExplanations": {
+      "1": "'Meegaan' = meekomen. Hij is omgegaan met stress, hij is niet meegegaan.",
+      "2": "'Doorgaan' = verdergaan. Hij is omgegaan met stress, hij is niet doorgegaan.",
+      "3": "'Ingaan' = van kracht worden of reageren. Hij is omgegaan met stress, hij is niet ingegaan."
+    },
+    "hint": "Hij heeft zijn stress de afgelopen jaren anders gehanteerd.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De twee kleine partijen zijn na de verkiezingen ___.",
+    "options": [
+      "samengegaan",
+      "meegegaan",
+      "doorgegaan",
+      "ingegaan"
+    ],
+    "correct": 0,
+    "explanation": "'Samengaan' = fuseren, samenkomen. De twee partijen zijn gefuseerd na de verkiezingen.",
+    "wrongExplanations": {
+      "1": "'Meegaan' = meekomen. Ze zijn samengegaan (gefuseerd), ze zijn niet meegegaan.",
+      "2": "'Doorgaan' = verdergaan. Ze zijn samengegaan, ze zijn niet doorgegaan.",
+      "3": "'Ingaan' = van kracht worden. Ze zijn samengegaan, ze zijn niet ingegaan."
+    },
+    "hint": "De twee partijen zijn na de verkiezingen gefuseerd.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Het brandalarm is om drie uur 's nachts ___.",
+    "options": [
+      "afgegaan",
+      "meegegaan",
+      "doorgegaan",
+      "ingegaan"
+    ],
+    "correct": 0,
+    "explanation": "'Afgaan' = klinken, in werking treden (alarm). Het alarm is om drie uur 's nachts afgegaan.",
+    "wrongExplanations": {
+      "1": "'Meegaan' = meekomen. Het alarm is afgegaan, het is niet meegegaan.",
+      "2": "'Doorgaan' = verdergaan. Het alarm is afgegaan, het is niet doorgegaan.",
+      "3": "'Ingaan' = van kracht worden. Het alarm is afgegaan, het is niet ingegaan."
+    },
+    "hint": "Het alarm heeft om drie uur 's nachts geklonken.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Al zijn vakantiegeld is ___ aan de reparatie van zijn auto.",
+    "options": [
+      "opgegaan",
+      "meegegaan",
+      "doorgegaan",
+      "ingegaan"
+    ],
+    "correct": 0,
+    "explanation": "'Opgaan aan' = volledig verbruikt worden door iets. Al zijn vakantiegeld is besteed aan de reparatie.",
+    "wrongExplanations": {
+      "1": "'Meegaan' = meekomen. Het geld is opgegaan, het is niet meegegaan.",
+      "2": "'Doorgaan' = verdergaan. Het geld is opgegaan, het is niet doorgegaan.",
+      "3": "'Ingaan' = van kracht worden. Het geld is opgegaan, het is niet ingegaan."
+    },
+    "hint": "Al zijn vakantiegeld is gebruikt voor de reparatie.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze had geen zin, maar ___ toch mee op de teamuitje.",
+    "options": [
+      "ging",
+      "deed",
+      "kwam",
+      "liep"
+    ],
+    "correct": 0,
+    "explanation": "'Meegaan' (ging mee) = met iemand meekomen. Ze ging ondanks haar tegenzin mee.",
+    "wrongExplanations": {
+      "1": "'Deed mee' = deed mee aan. Ze ging mee (meekomen), ze deed niet mee (deelnemen).",
+      "2": "'Kwam mee' = meekomen. Beide zijn grammaticaal mogelijk, maar de vraag vraagt naar 'meegaan' (gaan, niet komen).",
+      "3": "'Liep mee' = meeliepen. Ze ging mee, ze liep niet mee."
+    },
+    "hint": "Ze ging ondanks haar tegenzin mee op het teamuitje.",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De nieuwe regels ___ per 1 maart in, eerder dan verwacht.",
+    "options": [
+      "gingen",
+      "kwamen",
+      "traden",
+      "vielen"
+    ],
+    "correct": 0,
+    "explanation": "'Ingaan' (gingen in) = van kracht worden. De regels werden per 1 maart van kracht.",
+    "wrongExplanations": {
+      "1": "'Kwamen in' = binnenkwamen. De regels gingen in (werden van kracht), ze kwamen niet in.",
+      "2": "'Traden in' = 'treden in werking' is ook correct in formeel taalgebruik, maar het gaat hier om 'ingaan'.",
+      "3": "'Vielen in' = invallen. De regels gingen in, ze vielen niet in."
+    },
+    "hint": "De regels werden per 1 maart van kracht.",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
   }
 ]
