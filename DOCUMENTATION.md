@@ -176,20 +176,24 @@ The three tag fields are forward-compatible: present in JSON, ignored by the cur
 
 | Theme | `type` | Questions |
 |---|---|---|
-| komen | mc | 112 |
-| halen | mc | 101 |
-| nemen | mc | 93 |
-| zetten | mc | 90 |
-| doen | mc | 60 |
-| krijgen | mc | 60 |
-| werken | mc | 60 |
-| zoeken | mc | 60 |
-| kijken | mc | 56 |
-| leggen | mc | 50 |
+| komen | mc | 132 |
+| halen | mc | 106 |
+| nemen | mc | 113 |
+| zetten | mc | 95 |
+| doen | mc | 80 |
+| krijgen | mc | 80 |
+| werken | mc | 65 |
+| zoeken | mc | 65 |
+| kijken | mc | 76 |
+| leggen | mc | 55 |
+| vallen | mc | 50 |
+| gaan | mc | 50 |
+| houden | mc | 51 |
+| maken | mc | 51 |
 | preposities | fill | 285 |
-| **Total** |  | **1027** |
+| **Total** |  | **1354** |
 
-Mix mode pools only `type === "mc"` themes ([index.html:346](index.html:346)) — currently 742 questions across 10 verb themes.
+Mix mode pools only `type === "mc"` themes ([index.html:346](index.html:346)) — currently 1069 questions across 14 verb themes.
 
 ## Authoring guide
 

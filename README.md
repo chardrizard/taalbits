@@ -70,6 +70,10 @@ taalbits/
 │   ├── krijgen.json            # Questions for -krijgen
 │   ├── werken.json             # Questions for -werken
 │   ├── doen.json               # Questions for -doen
+│   ├── vallen.json             # Questions for -vallen
+│   ├── gaan.json               # Questions for -gaan
+│   ├── houden.json             # Questions for -houden
+│   ├── maken.json              # Questions for -maken
 │   └── preposities.json        # Fill-in preposition questions
 ├── assets/icons/               # Favicons and PWA icons
 ├── README.md
