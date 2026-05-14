@@ -2238,5 +2238,80 @@
     "tense": "infinitive",
     "wordOrder": "standard",
     "register": "neutraal"
+  },
+  {
+    "sentence": "De trein is tien minuten te laat ___.",
+    "options": ["aangekomen", "opgekomen", "bijgekomen", "uitgekomen"],
+    "correct": 0,
+    "explanation": "'Aankomen' = ergens arriveren. De trein arriveerde tien minuten te laat.",
+    "wrongExplanations": {
+      "1": "'Opkomen' = oprijzen of in gedachten komen. Treinen komen niet op.",
+      "2": "'Bijkomen' = herstellen van bewusteloosheid. Treinen komen niet bij.",
+      "3": "'Uitkomen' = aan het licht komen of ergens uitkomen. Treinen komen niet uit."
+    },
+    "hint": "De trein arriveerde later dan gepland.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Het geheim is uiteindelijk ___.",
+    "options": ["uitgekomen", "aangekomen", "bijgekomen", "opgekomen"],
+    "correct": 0,
+    "explanation": "'Uitkomen' = aan het licht komen, openbaar worden. Het geheim werd onthuld.",
+    "wrongExplanations": {
+      "1": "'Aankomen' = arriveren. Een geheim arriveert niet.",
+      "2": "'Bijkomen' = herstellen. Een geheim komt niet bij.",
+      "3": "'Opkomen' = oprijzen of bedenken. Geheimen komen niet op."
+    },
+    "hint": "Het geheim werd openbaar.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na een uur is ze eindelijk ___.",
+    "options": ["bijgekomen", "aangekomen", "uitgekomen", "opgekomen"],
+    "correct": 0,
+    "explanation": "'Bijkomen' = herstellen van flauwvallen of verdoving. Ze was bewusteloos en is weer bij bewustzijn.",
+    "wrongExplanations": {
+      "1": "'Aankomen' = arriveren. Ze was al aanwezig — ze was flauwgevallen.",
+      "2": "'Uitkomen' = openbaar worden. Dat past niet bij iemand die herstelt.",
+      "3": "'Opkomen' = rijzen of bedenken. Dat klopt niet in deze medische context."
+    },
+    "hint": "Ze was bewusteloos en herstelde na een uur.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Tijdens de wandeling is er een goed idee bij hem ___.",
+    "options": ["opgekomen", "aangekomen", "bijgekomen", "uitgekomen"],
+    "correct": 0,
+    "explanation": "'Opkomen' = in iemands gedachten komen. Het idee is bij hem opgekomen tijdens het lopen.",
+    "wrongExplanations": {
+      "1": "'Aankomen' = arriveren. Een idee arriveert niet bij iemand.",
+      "2": "'Bijkomen' = herstellen. Ideeën komen niet bij.",
+      "3": "'Uitkomen' = aan het licht komen. Ideeën komen op, niet uit."
+    },
+    "hint": "Hij bedacht een goed idee tijdens de wandeling.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De dokter zei dat hij vijf kilo was ___.",
+    "options": ["aangekomen", "opgekomen", "bijgekomen", "uitgekomen"],
+    "correct": 0,
+    "explanation": "'Aankomen' = zwaarder worden. Hij is vijf kilo aangekomen in gewicht.",
+    "wrongExplanations": {
+      "1": "'Opkomen' = rijzen of in gedachten komen. Iemand komt niet op in gewicht.",
+      "2": "'Bijkomen' = herstellen van bewusteloosheid. Je komt bij van flauwvallen, niet van gewichtstoename.",
+      "3": "'Uitkomen' = openbaar worden. Dat heeft niets met gewicht te maken."
+    },
+    "hint": "Hij is zwaarder geworden.",
+    "tense": "perfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
   }
 ]

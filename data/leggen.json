@@ -998,5 +998,80 @@
     "tense": "infinitive",
     "wordOrder": "inversion",
     "register": "neutraal"
+  },
+  {
+    "sentence": "De leraar heeft de regel drie keer ___.",
+    "options": ["uitgelegd", "opgelegd", "vastgelegd", "bijgelegd"],
+    "correct": 0,
+    "explanation": "'Uitleggen' = iets duidelijk maken, verklaren. De leraar heeft de regel uitgelegd.",
+    "wrongExplanations": {
+      "1": "'Opleggen' = iemand iets verplichten. De leraar legt de regel niet op — hij legt hem uit.",
+      "2": "'Vastleggen' = iets schriftelijk registreren. Regels leg je niet vast door te herhalen.",
+      "3": "'Bijleggen' = een conflict oplossen. Regels leg je niet bij."
+    },
+    "hint": "De leraar legde de regel uit zodat leerlingen het begrepen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Gisteren hebben we alle afspraken schriftelijk ___.",
+    "options": ["vastgelegd", "bijgelegd", "uitgelegd", "opgelegd"],
+    "correct": 0,
+    "explanation": "'Vastleggen' = iets officieel of schriftelijk registreren. De afspraken zijn op papier gezet.",
+    "wrongExplanations": {
+      "1": "'Bijleggen' = een ruzie oplossen. Afspraken leg je niet bij.",
+      "2": "'Uitleggen' = verklaren. Je legt afspraken uit aan iemand, maar je legt ze schriftelijk vast.",
+      "3": "'Opleggen' = iets verplicht opleggen. Afspraken die je zelf maakt leg je vast, niet op."
+    },
+    "hint": "We noteerden de afspraken officieel op papier.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De rechter heeft de verdachte een taakstraf ___.",
+    "options": ["opgelegd", "uitgelegd", "vastgelegd", "bijgelegd"],
+    "correct": 0,
+    "explanation": "'Opleggen' = iemand iets verplichten, een straf of maatregel geven. De rechter heeft de straf opgelegd.",
+    "wrongExplanations": {
+      "1": "'Uitleggen' = verklaren. De rechter legt misschien de straf uit, maar de taakstraf zelf wordt opgelegd.",
+      "2": "'Vastleggen' = schriftelijk registreren. Een straf leg je op, niet vast.",
+      "3": "'Bijleggen' = een conflict oplossen. De rechter lost geen conflict bij — hij legt een straf op."
+    },
+    "hint": "De rechter gaf de verdachte een straf.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Na een lang gesprek hebben de vrienden hun ruzie eindelijk ___.",
+    "options": ["bijgelegd", "uitgelegd", "opgelegd", "vastgelegd"],
+    "correct": 0,
+    "explanation": "'Bijleggen' = een conflict of ruzie oplossen. Na het gesprek zijn ze het weer eens.",
+    "wrongExplanations": {
+      "1": "'Uitleggen' = verklaren. Je legt een ruzie niet uit — je legt hem bij.",
+      "2": "'Opleggen' = verplichten. De vrienden leggen de ruzie niet op aan iemand.",
+      "3": "'Vastleggen' = schriftelijk registreren. Ruzies leg je niet vast."
+    },
+    "hint": "Na het gesprek was de ruzie opgelost.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De stad liet weten dat er een nieuw fietspad was ___.",
+    "options": ["aangelegd", "bijgelegd", "vastgelegd", "opgelegd"],
+    "correct": 0,
+    "explanation": "'Aanleggen' = iets bouwen of installeren (weg, fietspad, tuin). De gemeente heeft een fietspad aangelegd.",
+    "wrongExplanations": {
+      "1": "'Bijleggen' = een conflict oplossen of geld bijdragen. Een fietspad leg je aan, niet bij.",
+      "2": "'Vastleggen' = schriftelijk registreren. Een fietspad leg je niet vast.",
+      "3": "'Opleggen' = iets verplichten. Fietspaden legt men aan, niet op."
+    },
+    "hint": "Er is een nieuw fietspad gebouwd door de gemeente.",
+    "tense": "perfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
   }
 ]

@@ -1118,5 +1118,80 @@
     "tense": "infinitive",
     "wordOrder": "standard",
     "register": "neutraal"
+  },
+  {
+    "sentence": "De docent heeft alle werkstukken zorgvuldig ___.",
+    "options": ["nagekeken", "bekeken", "meegekeken", "teruggekeken"],
+    "correct": 0,
+    "explanation": "'Nakijken' = iets controleren of corrigeren (werkstukken, toetsen). De docent heeft de werkstukken beoordeeld.",
+    "wrongExplanations": {
+      "1": "'Bekijken' = iets bestuderen of bekijken. Bekijken is minder specifiek; nakijken impliceert beoordelen.",
+      "2": "'Meekijken' = samen met iemand kijken. De docent corrigeerde zelfstandig.",
+      "3": "'Terugkijken' = iets opnieuw bekijken of reflecteren. Werkstukken worden niet teruggekeken."
+    },
+    "hint": "De docent corrigeerde en beoordeelde de werkstukken.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze zei dat ze de nieuwe serie al had ___.",
+    "options": ["bekeken", "nagekeken", "meegekeken", "teruggekeken"],
+    "correct": 0,
+    "explanation": "'Bekijken' = iets bekijken (film, serie). Ze had de serie al eerder gezien.",
+    "wrongExplanations": {
+      "1": "'Nakijken' = controleren of beoordelen. Een serie kijk je niet na.",
+      "2": "'Meekijken' = samen kijken. Ze keek alleen, niet met iemand mee.",
+      "3": "'Terugkijken' = opnieuw bekijken. Ze had hem nog niet eerder gezien."
+    },
+    "hint": "Ze had de serie al eerder gezien.",
+    "tense": "perfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Iedereen heeft van zijn plotselinge beslissing ___.",
+    "options": ["opgekeken", "teruggekeken", "nagekeken", "meegekeken"],
+    "correct": 0,
+    "explanation": "'Opkijken van' = verbaasd zijn over iets. Iedereen was verrast door zijn beslissing.",
+    "wrongExplanations": {
+      "1": "'Terugkijken' = reflecteren of iets opnieuw bekijken. Je kijkt niet terug van een beslissing.",
+      "2": "'Nakijken' = controleren. Beslissingen worden niet nagekeken.",
+      "3": "'Meekijken' = samen kijken. Dat past niet bij verrast zijn."
+    },
+    "hint": "Zijn beslissing verraste iedereen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "We hebben de wedstrijd na afloop ___.",
+    "options": ["teruggekeken", "nagekeken", "bekeken", "meegekeken"],
+    "correct": 0,
+    "explanation": "'Terugkijken' = een opname opnieuw bekijken. Ze hebben de wedstrijd bekeken nadat het voorbij was.",
+    "wrongExplanations": {
+      "1": "'Nakijken' = controleren of corrigeren. Een wedstrijd kijk je niet na.",
+      "2": "'Bekijken' = iets bekijken. Bekijken suggereert live kijken; terugkijken benadrukt dat het ná afloop was.",
+      "3": "'Meekijken' = samen live kijken. De wedstrijd was al voorbij — het was een herhaling."
+    },
+    "hint": "Ze bekeken de opname van de wedstrijd nadat het voorbij was.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Gisteren heeft mijn collega ___ terwijl ik de presentatie opbouwde.",
+    "options": ["meegekeken", "nagekeken", "bekeken", "opgekeken"],
+    "correct": 0,
+    "explanation": "'Meekijken' = samen met iemand kijken terwijl die iets doet. De collega keek live mee.",
+    "wrongExplanations": {
+      "1": "'Nakijken' = controleren achteraf. Tijdens de opbouw kijk je niet na.",
+      "2": "'Bekijken' = iets bestuderen. Bekijken past niet bij live meekijken.",
+      "3": "'Opkijken' = omhoog kijken of ergens van opkijken. Dat klopt niet in deze situatie."
+    },
+    "hint": "De collega keek live mee terwijl ik werkte.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
   }
 ]

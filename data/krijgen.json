@@ -1198,5 +1198,80 @@
     "tense": "infinitive",
     "wordOrder": "standard",
     "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft haar scriptie net op tijd ___.",
+    "options": ["afgekregen", "doorgekregen", "teruggekregen", "uitgekregen"],
+    "correct": 0,
+    "explanation": "'Afkrijgen' = iets kunnen afronden of klaar krijgen. Ze heeft haar scriptie op tijd kunnen afmaken.",
+    "wrongExplanations": {
+      "1": "'Doorkrijgen' = iets snappen of erdoorheen krijgen. Een scriptie doe je niet door.",
+      "2": "'Terugkrijgen' = iets terug ontvangen. Ze had de scriptie niet weggegeven.",
+      "3": "'Uitkrijgen' = iets helemaal uitlezen. Uitkrijgen slaat eerder op een boek of een kledingstuk."
+    },
+    "hint": "Ze lukte het om de scriptie op tijd af te ronden.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na de uitleg had hij het eindelijk ___.",
+    "options": ["doorgekregen", "afgekregen", "teruggekregen", "meegekregen"],
+    "correct": 0,
+    "explanation": "'Doorkrijgen' = iets snappen, begrijpen. Na de uitleg begreep hij het eindelijk.",
+    "wrongExplanations": {
+      "1": "'Afkrijgen' = iets kunnen afronden. Begrijpen is niet hetzelfde als afronden.",
+      "2": "'Terugkrijgen' = iets terug ontvangen. Hij ontving niets terug.",
+      "3": "'Meegekregen' = iets hebben ontvangen of meegenomen. Meegekregen is meer 'ontvangen', doorkrijgen is 'het doordringt'."
+    },
+    "hint": "Na de uitleg begreep hij het eindelijk.",
+    "tense": "perfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na de reparatie heeft ze haar fiets eindelijk ___.",
+    "options": ["teruggekregen", "afgekregen", "doorgekregen", "uitgekregen"],
+    "correct": 0,
+    "explanation": "'Terugkrijgen' = iets terug ontvangen nadat je het had afgegeven. Ze had de fiets naar de reparateur gebracht en nu teruggekregen.",
+    "wrongExplanations": {
+      "1": "'Afkrijgen' = iets afronden. Ze rondt niets af — ze ontvangt haar fiets.",
+      "2": "'Doorkrijgen' = begrijpen. Fietsen begrijp je niet.",
+      "3": "'Uitkrijgen' = iets helemaal uitlezen of uitdoen. Dat past niet bij een fiets ophalen."
+    },
+    "hint": "De reparateur was klaar en ze kon haar fiets terugkrijgen.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft het dikke boek al in twee dagen ___.",
+    "options": ["uitgekregen", "afgekregen", "doorgekregen", "teruggekregen"],
+    "correct": 0,
+    "explanation": "'Uitkrijgen' = iets helemaal uitlezen of uithebben. Ze heeft het boek al uitgelezen in twee dagen.",
+    "wrongExplanations": {
+      "1": "'Afkrijgen' = iets afronden. Je rondt een boek niet af — je leest het uit.",
+      "2": "'Doorkrijgen' = begrijpen. Een boek doorgekregen hebben is niet de standaarduitdrukking.",
+      "3": "'Terugkrijgen' = iets terug ontvangen. Ze heeft het boek niet weggegeven."
+    },
+    "hint": "Ze las het hele dikke boek in twee dagen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze vroeg of iedereen de boodschap had ___.",
+    "options": ["meegekregen", "doorgekregen", "afgekregen", "teruggekregen"],
+    "correct": 0,
+    "explanation": "'Meegekregen' = iets hebben ontvangen of begrepen. Ze vroeg of de boodschap bij iedereen was aangekomen.",
+    "wrongExplanations": {
+      "1": "'Doorkrijgen' = iets echt snappen. Meegekregen is het idiomatische woord voor een bericht ontvangen of begrijpen.",
+      "2": "'Afkrijgen' = iets afronden. Een boodschap rondt men niet af.",
+      "3": "'Terugkrijgen' = iets terug ontvangen. Dat past niet bij een boodschap begrijpen."
+    },
+    "hint": "Ze wilde weten of de boodschap bij iedereen was aangekomen.",
+    "tense": "perfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
   }
 ]

@@ -1858,5 +1858,80 @@
     "tense": "infinitive",
     "wordOrder": "standard",
     "register": "neutraal"
+  },
+  {
+    "sentence": "Het bedrijf heeft drie nieuwe medewerkers ___.",
+    "options": ["aangenomen", "opgenomen", "afgenomen", "ingenomen"],
+    "correct": 0,
+    "explanation": "'Aannemen' = iemand in dienst nemen. Het bedrijf heeft drie mensen aangesteld.",
+    "wrongExplanations": {
+      "1": "'Opnemen' = opnemen (geluid, video) of in het ziekenhuis opnemen. Medewerkers worden niet opgenomen.",
+      "2": "'Afnemen' = dalen of iets afpakken. Medewerkers worden niet afgenomen.",
+      "3": "'Innemen' = een positie innemen of medicijnen innemen. Medewerkers worden niet ingenomen."
+    },
+    "hint": "Het bedrijf heeft nieuwe mensen aangesteld.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Gisteren heeft de politie zijn verklaring ___.",
+    "options": ["opgenomen", "aangenomen", "afgenomen", "meegenomen"],
+    "correct": 0,
+    "explanation": "'Opnemen' = officieel vastleggen of registreren (een verklaring). De politie heeft zijn verklaring geregistreerd.",
+    "wrongExplanations": {
+      "1": "'Aannemen' = accepteren of in dienst nemen. Een verklaring neem je op, niet aan.",
+      "2": "'Afnemen' = een examen afnemen of dalen. Een verklaring afnemen is mogelijk, maar opnemen is de vaste combinatie hier.",
+      "3": "'Meenemen' = iets meepakken. De politie neemt de verklaring op, niet mee."
+    },
+    "hint": "De politie heeft zijn verklaring officieel geregistreerd.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Na de piek in de zomer is het toerisme sterk ___.",
+    "options": ["afgenomen", "aangenomen", "opgenomen", "ingenomen"],
+    "correct": 0,
+    "explanation": "'Afnemen' = dalen, minder worden. Na de zomerpiek is het aantal toeristen gedaald.",
+    "wrongExplanations": {
+      "1": "'Aannemen' = accepteren of in dienst nemen. Toerisme neemt niet aan.",
+      "2": "'Opnemen' = vastleggen of opnemen. Toerisme neemt niet op.",
+      "3": "'Innemen' = een positie innemen. Toerisme neemt geen positie in."
+    },
+    "hint": "Na de zomer daalde het aantal toeristen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De arts vroeg of ze de medicijnen al had ___.",
+    "options": ["ingenomen", "aangenomen", "opgenomen", "meegenomen"],
+    "correct": 0,
+    "explanation": "'Innemen' = medicijnen slikken. De arts vroeg of ze de pillen al had geslikt.",
+    "wrongExplanations": {
+      "1": "'Aannemen' = accepteren. Medicijnen neem je in, niet aan.",
+      "2": "'Opnemen' = vastleggen of opnemen. Medicijnen neem je niet op.",
+      "3": "'Meenemen' = meepakken. Medicijnen neem je in — je slikt ze."
+    },
+    "hint": "Had ze de pillen al geslikt?",
+    "tense": "perfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij heeft zijn laptop naar de vergadering ___.",
+    "options": ["meegenomen", "aangenomen", "opgenomen", "afgenomen"],
+    "correct": 0,
+    "explanation": "'Meenemen' = iets bij je nemen als je ergens naartoe gaat. Hij nam zijn laptop mee naar de vergadering.",
+    "wrongExplanations": {
+      "1": "'Aannemen' = accepteren of in dienst nemen. Een laptop neem je mee, niet aan.",
+      "2": "'Opnemen' = vastleggen. Een laptop neem je mee, niet op.",
+      "3": "'Afnemen' = dalen of iets afpakken. Een laptop neem je niet af."
+    },
+    "hint": "Hij nam zijn laptop mee als hij naar de vergadering ging.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
   }
 ]

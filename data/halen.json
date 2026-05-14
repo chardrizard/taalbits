@@ -2018,5 +2018,80 @@
     "tense": "perfectum",
     "wordOrder": "standard",
     "register": "neutraal"
+  },
+  {
+    "sentence": "De vuilniswagen heeft deze week het afval niet ___.",
+    "options": ["opgehaald", "afgehaald", "ingehaald", "achterhaald"],
+    "correct": 0,
+    "explanation": "'Ophalen' = iets komen halen (vuilnis, pakket). De vuilnisdienst is niet langs geweest.",
+    "wrongExplanations": {
+      "1": "'Afhalen' = iemand of iets van een specifieke plek halen. Afval haal je op, niet af.",
+      "2": "'Inhalen' = achterstand goedmaken of voorbijrijden. Afval wordt niet ingehaald.",
+      "3": "'Achterhalen' = iets te weten komen of opsporen. Afval achterhaal je niet."
+    },
+    "hint": "De vuilnisdienst is niet langs geweest.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Heb jij de kinderen al van school ___?",
+    "options": ["afgehaald", "opgehaald", "ingehaald", "achterhaald"],
+    "correct": 0,
+    "explanation": "'Afhalen' = iemand van een specifieke plek ophalen (school, station). Kinderen haal je af van school.",
+    "wrongExplanations": {
+      "1": "'Ophalen' = iets of iemand halen. Ophalen is minder idiomatisch bij personen van een locatie; afhalen is de vaste combinatie.",
+      "2": "'Inhalen' = voorbijrijden of achterstand bijwerken. Kinderen haal je niet in.",
+      "3": "'Achterhalen' = uitzoeken of opsporen. Kinderen achterhaal je niet van school."
+    },
+    "hint": "Ben je de kinderen bij de school gaan ophalen?",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na zijn ziekte heeft hij de gemiste lessen snel ___.",
+    "options": ["ingehaald", "opgehaald", "afgehaald", "achterhaald"],
+    "correct": 0,
+    "explanation": "'Inhalen' = een achterstand goedmaken. Na ziekte haalt een leerling gemiste stof in.",
+    "wrongExplanations": {
+      "1": "'Ophalen' = iets komen halen. Lessen worden niet opgehaald.",
+      "2": "'Afhalen' = iemand van een plek ophalen. Lessen haal je niet af.",
+      "3": "'Achterhalen' = iets te weten komen of terugvinden. Lessen achterhaalt men niet."
+    },
+    "hint": "Hij werkte de gemiste lesstof bij na zijn ziekte.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De politie heeft de identiteit van de dader ___.",
+    "options": ["achterhaald", "opgehaald", "afgehaald", "ingehaald"],
+    "correct": 0,
+    "explanation": "'Achterhalen' = iets te weten komen door onderzoek. De politie ontdekte wie de dader was.",
+    "wrongExplanations": {
+      "1": "'Ophalen' = iets komen halen. Een identiteit haal je niet op.",
+      "2": "'Afhalen' = iemand van een plek halen. Identiteiten haal je niet af.",
+      "3": "'Inhalen' = achterstand goedmaken. Identiteiten haal je niet in."
+    },
+    "hint": "De politie ontdekte wie de dader was.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze merkte dat de auto achter haar haar net had ___.",
+    "options": ["ingehaald", "opgehaald", "afgehaald", "achterhaald"],
+    "correct": 0,
+    "explanation": "'Inhalen' = voorbijrijden op de weg. De auto achter haar reed haar voorbij.",
+    "wrongExplanations": {
+      "1": "'Ophalen' = iets komen halen. Inhalen in het verkeer is voorbijrijden.",
+      "2": "'Afhalen' = iemand van een plek ophalen. Dat past niet in de context van rijden.",
+      "3": "'Achterhalen' = iets uitzoeken of opsporen. Een auto achterhaalt je niet in het verkeer."
+    },
+    "hint": "Een auto reed haar op de weg voorbij.",
+    "tense": "perfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
   }
 ]

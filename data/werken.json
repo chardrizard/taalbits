@@ -1198,5 +1198,80 @@
     "tense": "infinitive",
     "wordOrder": "standard",
     "register": "neutraal"
+  },
+  {
+    "sentence": "Na de vergadering heeft ze de notulen meteen ___.",
+    "options": ["bijgewerkt", "verwerkt", "uitgewerkt", "meegewerkt"],
+    "correct": 0,
+    "explanation": "'Bijwerken' = iets actualiseren of up-to-date maken. Ze heeft de notulen direct bijgewerkt.",
+    "wrongExplanations": {
+      "1": "'Verwerken' = iets opnemen of emotioneel verwerken. Notulen verwerk je niet.",
+      "2": "'Uitwerken' = iets volledig uitschrijven of verder ontwikkelen. Bijwerken is actualiseren, uitwerken is verder ontwikkelen.",
+      "3": "'Meewerken' = samenwerken. Ze werkte de notulen bij — ze werkte niet mee."
+    },
+    "hint": "Ze actualiseerde de notulen direct na de vergadering.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft het slechte nieuws langzaam ___.",
+    "options": ["verwerkt", "bijgewerkt", "uitgewerkt", "weggewerkt"],
+    "correct": 0,
+    "explanation": "'Verwerken' = emotioneel of mentaal iets een plek geven. Ze heeft het slechte nieuws een plek gegeven.",
+    "wrongExplanations": {
+      "1": "'Bijwerken' = actualiseren. Nieuws werk je niet bij.",
+      "2": "'Uitwerken' = verder ontwikkelen. Nieuws werk je niet uit.",
+      "3": "'Wegwerken' = wegstoppen of afwerken. Slecht nieuws werk je niet weg."
+    },
+    "hint": "Ze heeft het emotioneel moeilijke nieuws een plek gegeven.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De man zei dat hij niet had ___ aan het fraudeonderzoek.",
+    "options": ["meegewerkt", "bijgewerkt", "verwerkt", "uitgewerkt"],
+    "correct": 0,
+    "explanation": "'Meewerken' = samenwerken of medewerking verlenen. De man ontkende medewerking aan het onderzoek.",
+    "wrongExplanations": {
+      "1": "'Bijwerken' = actualiseren. Je werkt niet bij aan een onderzoek.",
+      "2": "'Verwerken' = emotioneel verwerken of data verwerken. Aan een onderzoek verwerk je niet.",
+      "3": "'Uitwerken' = verder uitschrijven. Je werkt niet uit aan een fraudeonderzoek."
+    },
+    "hint": "Hij ontkende medewerking aan het onderzoek.",
+    "tense": "perfectum",
+    "wordOrder": "bijzin",
+    "register": "formeel"
+  },
+  {
+    "sentence": "In twee uur heeft hij de hele achterstand ___.",
+    "options": ["weggewerkt", "bijgewerkt", "verwerkt", "uitgewerkt"],
+    "correct": 0,
+    "explanation": "'Wegwerken' = een achterstand of stapel werk afhandelen. Hij haalde de achterstand in twee uur in.",
+    "wrongExplanations": {
+      "1": "'Bijwerken' = actualiseren. Achterstanden werk je weg, niet bij.",
+      "2": "'Verwerken' = emotioneel een plek geven of data verwerken. Achterstanden verwerk je niet.",
+      "3": "'Uitwerken' = verder uitschrijven. Achterstanden werk je weg."
+    },
+    "hint": "Hij haalde in twee uur alle achterstand in.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze klaagde dat de pijnstiller al snel was ___.",
+    "options": ["uitgewerkt", "bijgewerkt", "verwerkt", "weggewerkt"],
+    "correct": 0,
+    "explanation": "'Uitwerken' = (van medicijnen) niet meer effectief zijn. De pijnstiller had al snel geen effect meer.",
+    "wrongExplanations": {
+      "1": "'Bijwerken' = actualiseren. Een pijnstiller werkt niet bij.",
+      "2": "'Verwerken' = een plek geven. Een pijnstiller verwerkt niet.",
+      "3": "'Wegwerken' = wegstoppen of afwerken. Een pijnstiller werkt niet weg."
+    },
+    "hint": "De pijnstiller had snel geen effect meer.",
+    "tense": "perfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
   }
 ]

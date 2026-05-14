@@ -1198,5 +1198,80 @@
     "tense": "infinitive",
     "wordOrder": "standard",
     "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft alle lichten ___ voordat ze naar bed ging.",
+    "options": ["uitgedaan", "aangedaan", "voorgedaan", "overgedaan"],
+    "correct": 0,
+    "explanation": "'Uitdoen' = iets uitzetten of uittrekken. Ze heeft de lichten uitgedaan.",
+    "wrongExplanations": {
+      "1": "'Aandoen' = iets aanzetten of aantrekken. Lichten aandoen zou ze juist aan zetten, niet uit.",
+      "2": "'Voordoen' = demonstreren of voordoen als. Lichten doe je niet voor.",
+      "3": "'Overdoen' = iets opnieuw doen. Ze deed ze voor het eerst uit."
+    },
+    "hint": "Ze zette alle lichten uit voor het slapengaan.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Buiten was het koud, dus heeft ze haar winterjas ___.",
+    "options": ["aangedaan", "uitgedaan", "omgedaan", "overgedaan"],
+    "correct": 0,
+    "explanation": "'Aandoen' = iets aantrekken (kleding). Ze heeft haar jas aangedaan omdat het koud was.",
+    "wrongExplanations": {
+      "1": "'Uitdoen' = uitrekken. Ze zou haar jas uitdoen als het warm was, niet aandoen.",
+      "2": "'Omdoen' = iets om je hals of middel doen, zoals een sjaal. Een jas doe je aan, niet om.",
+      "3": "'Overdoen' = opnieuw doen. Ze trok haar jas niet opnieuw aan."
+    },
+    "hint": "Het was koud, dus trok ze haar jas aan.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De instructeur heeft de oefening twee keer ___.",
+    "options": ["voorgedaan", "meegedaan", "nagedaan", "overgedaan"],
+    "correct": 0,
+    "explanation": "'Voordoen' = iets demonstreren zodat anderen het kunnen zien. De instructeur toonde de oefening.",
+    "wrongExplanations": {
+      "1": "'Meedoen' = participeren. De instructeur deed niet mee — hij demonstreerde.",
+      "2": "'Nadoen' = imiteren. Nadoen doe je nádat iemand het heeft voorgedaan.",
+      "3": "'Overdoen' = opnieuw doen. Twee keer voordoen is niet hetzelfde als overdoen."
+    },
+    "hint": "De instructeur demonstreerde de beweging.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij zei dat hij nooit eerder aan zo'n toernooi had ___.",
+    "options": ["meegedaan", "voorgedaan", "overgedaan", "uitgedaan"],
+    "correct": 0,
+    "explanation": "'Meedoen' = deelnemen. Hij had nooit eerder deelgenomen aan zo'n toernooi.",
+    "wrongExplanations": {
+      "1": "'Voordoen' = demonstreren. Je doet iets voor — je doet niet voor áán een toernooi.",
+      "2": "'Overdoen' = iets herhalen. Hij had het nog niet eerder gedaan, dus kan hij het niet overdoen.",
+      "3": "'Uitdoen' = uitzetten of uitrekken. Je doet een toernooi niet uit."
+    },
+    "hint": "Hij had nog nooit aan zo'n competitie deelgenomen.",
+    "tense": "perfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Omdat de eerste poging mislukte, heeft ze de test helemaal ___.",
+    "options": ["overgedaan", "meegedaan", "voorgedaan", "uitgedaan"],
+    "correct": 0,
+    "explanation": "'Overdoen' = iets opnieuw doen, meestal omdat het de eerste keer niet goed ging.",
+    "wrongExplanations": {
+      "1": "'Meedoen' = deelnemen. Ze deed de test al — ze hoefde hem opnieuw te maken, niet deel te nemen.",
+      "2": "'Voordoen' = demonstreren. De test werd niet gedemonstreerd maar opnieuw gemaakt.",
+      "3": "'Uitdoen' = uitzetten of uitrekken. Een test doe je niet uit."
+    },
+    "hint": "De eerste poging mislukte, dus moest ze opnieuw beginnen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
   }
 ]

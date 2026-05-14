@@ -1198,5 +1198,80 @@
     "tense": "infinitive",
     "wordOrder": "standard",
     "register": "neutraal"
+  },
+  {
+    "sentence": "De wetenschappers hebben het effect jarenlang ___.",
+    "options": ["onderzocht", "opgezocht", "doorzocht", "bezocht"],
+    "correct": 0,
+    "explanation": "'Onderzoeken' = wetenschappelijk bestuderen. De wetenschappers hebben het effect jarenlang bestudeerd.",
+    "wrongExplanations": {
+      "1": "'Opzoeken' = iets opzoeken in een bron. Wetenschappers zoeken niet alleen op — ze onderzoeken.",
+      "2": "'Doorzoeken' = grondig doorzoeken (een ruimte). Een effect doorzoek je niet.",
+      "3": "'Bezoeken' = ergens naartoe gaan. Een effect bezoek je niet."
+    },
+    "hint": "De wetenschappers bestudeerden het effect gedurende jaren.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze meldde dat ze al had ___ welke trein het snelst was.",
+    "options": ["uitgezocht", "onderzocht", "doorzocht", "opgezocht"],
+    "correct": 0,
+    "explanation": "'Uitzoeken' = iets uitpluizen of zelf nagaan. Ze had al zelf nagegaan welke trein de beste optie was.",
+    "wrongExplanations": {
+      "1": "'Onderzoeken' = wetenschappelijk of formeel bestuderen. Hier gaat het om een praktische persoonlijke zoektocht.",
+      "2": "'Doorzoeken' = grondig doorzoeken (ruimte of verzameling). Een reisoptie doorzoek je niet.",
+      "3": "'Opzoeken' = informatie ergens opzoeken. Opzoeken is minder actief dan uitzoeken — uitzoeken impliceert een keuze maken."
+    },
+    "hint": "Ze had al zelf nagegaan welke trein het beste was.",
+    "tense": "perfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Vorig jaar heeft ze drie musea in Parijs ___.",
+    "options": ["bezocht", "onderzocht", "doorzocht", "opgezocht"],
+    "correct": 0,
+    "explanation": "'Bezoeken' = ergens naartoe gaan. Ze is naar drie musea in Parijs geweest.",
+    "wrongExplanations": {
+      "1": "'Onderzoeken' = wetenschappelijk bestuderen. Musea bezoek je als toerist, je onderzoekt ze niet.",
+      "2": "'Doorzoeken' = grondig doorzoeken. Musea doorzoek je niet zomaar.",
+      "3": "'Opzoeken' = informatie opzoeken. Musea zoek je misschien op in een reisgids, maar in werkelijkheid bezoek je ze."
+    },
+    "hint": "Ze ging naar drie musea in Parijs.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De politie heeft de woning grondig ___.",
+    "options": ["doorzocht", "onderzocht", "bezocht", "opgezocht"],
+    "correct": 0,
+    "explanation": "'Doorzoeken' = een plek volledig en grondig doorzoeken. De politie heeft de woning volledig doorzocht.",
+    "wrongExplanations": {
+      "1": "'Onderzoeken' = bestuderen. Een woning doorzoek je — dat is fysiek grondig zoeken.",
+      "2": "'Bezoeken' = ergens naartoe gaan. De politie bezocht de woning, maar het accent hier ligt op het zoeken.",
+      "3": "'Opzoeken' = informatie opzoeken. Een woning zoek je niet op voor informatie."
+    },
+    "hint": "De politie zocht de woning grondig door.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft het telefoonnummer in het telefoonboek ___.",
+    "options": ["opgezocht", "doorzocht", "onderzocht", "bezocht"],
+    "correct": 0,
+    "explanation": "'Opzoeken' = iets in een bron of register nakijken. Ze heeft het nummer gevonden in het telefoonboek.",
+    "wrongExplanations": {
+      "1": "'Doorzoeken' = grondig doorzoeken. Ze heeft één nummer opgezocht, niet het hele boek doorzocht.",
+      "2": "'Onderzoeken' = wetenschappelijk bestuderen. Een telefoonnummer onderzoek je niet.",
+      "3": "'Bezoeken' = ergens naartoe gaan. Een telefoonboek bezoek je niet."
+    },
+    "hint": "Ze zocht het nummer na in het telefoonboek.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
   }
 ]

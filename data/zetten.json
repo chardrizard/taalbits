@@ -1798,5 +1798,80 @@
     "tense": "perfectum",
     "wordOrder": "standard",
     "register": "neutraal"
+  },
+  {
+    "sentence": "Hij heeft de verwarming al ___.",
+    "options": ["aangezet", "doorgezet", "opgezet", "uitgezet"],
+    "correct": 0,
+    "explanation": "'Aanzetten' = iets inschakelen (verwarming, TV). Hij heeft de verwarming ingeschakeld.",
+    "wrongExplanations": {
+      "1": "'Doorzetten' = volhouden, doorgaan. Je zet de verwarming niet door.",
+      "2": "'Opzetten' = opstarten of opbouwen. De verwarming wordt aangezet, niet opgezet.",
+      "3": "'Uitzetten' = uitschakelen. Uitzetten is het tegenovergestelde — hij zette hem aan, niet uit."
+    },
+    "hint": "Hij heeft de verwarming ingeschakeld.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ondanks alle tegenslagen heeft hij ___.",
+    "options": ["doorgezet", "aangezet", "opgezet", "neergezet"],
+    "correct": 0,
+    "explanation": "'Doorzetten' = volhouden ondanks obstakels. Hij is blijven doorgaan ondanks de moeilijkheden.",
+    "wrongExplanations": {
+      "1": "'Aanzetten' = inschakelen. Volhouden is niet inschakelen.",
+      "2": "'Opzetten' = iets opstarten. Je zet iets op aan het begin — hier gaat het om volhouden.",
+      "3": "'Neerzetten' = een prestatie leveren. Neerzetten slaat op een resultaat, niet op het proces van volhouden."
+    },
+    "hint": "Hij bleef doorgaan ondanks de moeilijkheden.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Vorig jaar heeft de gemeente een nieuw sportprogramma ___.",
+    "options": ["opgezet", "aangezet", "doorgezet", "neergezet"],
+    "correct": 0,
+    "explanation": "'Opzetten' = iets organiseren of starten. De gemeente heeft een nieuw programma opgericht.",
+    "wrongExplanations": {
+      "1": "'Aanzetten' = inschakelen. Een programma zet je op, niet aan.",
+      "2": "'Doorzetten' = volhouden. Opzetten is beginnen, doorzetten is volhouden.",
+      "3": "'Neerzetten' = een prestatie leveren. Neerzetten past meer bij een resultaat dan bij het starten."
+    },
+    "hint": "De gemeente heeft een nieuw sportprogramma gestart.",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De bewaker controleerde of alle alarmen waren ___.",
+    "options": ["uitgezet", "aangezet", "doorgezet", "opgezet"],
+    "correct": 0,
+    "explanation": "'Uitzetten' = iets uitschakelen. De bewaker wilde weten of de alarmen uitstonden.",
+    "wrongExplanations": {
+      "1": "'Aanzetten' = inschakelen. De bewaker wil juist weten of ze uit staan, niet aan.",
+      "2": "'Doorzetten' = volhouden. Alarmen zet je niet door.",
+      "3": "'Opzetten' = opstarten of organiseren. Alarmen zet je aan of uit, niet op."
+    },
+    "hint": "De bewaker wilde weten of alle alarmen uitstonden.",
+    "tense": "perfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De architect heeft een indrukwekkend gebouw ___.",
+    "options": ["neergezet", "opgezet", "aangezet", "doorgezet"],
+    "correct": 0,
+    "explanation": "'Neerzetten' = iets indrukwekkends realiseren of tot stand brengen. De architect heeft een indrukwekkend gebouw gerealiseerd.",
+    "wrongExplanations": {
+      "1": "'Opzetten' = organiseren of opstarten. Een gebouw zet je neer, niet op.",
+      "2": "'Aanzetten' = inschakelen. Een gebouw zet je niet aan.",
+      "3": "'Doorzetten' = volhouden. Doorzetten beschrijft het proces, neerzetten het resultaat."
+    },
+    "hint": "De architect realiseerde een indrukwekkend gebouw.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
   }
 ]
