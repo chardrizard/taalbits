@@ -820,7 +820,7 @@
     "register": "neutraal"
   },
   {
-    "sentence": "Ze heeft zijn uitnodiging aanvaard en is mee naar het gala ___.",
+    "sentence": "Ze heeft zijn uitnodiging aanvaard en is naar het gala ___.",
     "options": [
       "meegegaan",
       "weggegaan",
@@ -1023,16 +1023,16 @@
     "sentence": "Ze moest een zware behandeling ___ voordat ze beter werd.",
     "options": [
       "ondergaan",
-      "ondergaan",
+      "overgaan",
       "doorgaan",
       "uitgaan"
     ],
     "correct": 0,
-    "explanation": "'Ondergaan' (ondergáán, onscheidbaar, accent op -gaan) = een ervaring of behandeling meemaken. Onscheidbaar: geen splitsing.",
+    "explanation": "'Ondergaan' (ondergáán, onscheidbaar) = een ervaring of behandeling meemaken. 'Een behandeling ondergaan' is de vaste combinatie voor het meemaken van een medische ingreep.",
     "wrongExplanations": {
-      "1": "Identieke spelling, maar de scheidbare variant (ónder­gaan = zinken) past semantisch niet — een behandeling ondergaan is meemaken, niet zinken.",
-      "2": "'Doorgaan' = verdergaan of plaatsvinden. Past niet.",
-      "3": "'Uitgaan' = buitengaan of licht uit. Past niet."
+      "1": "'Overgaan' = overstappen of pijn die verdwijnt. 'Een behandeling overgaan' is geen vaste combinatie.",
+      "2": "'Doorgaan' = verdergaan of plaatsvinden. Je kunt een behandeling niet 'doorgaan'.",
+      "3": "'Uitgaan' = buitengaan of licht dat stopt. Dat past niet bij een medische behandeling."
     },
     "hint": "Een zware behandeling meemaken — scheidbaar of onscheidbaar?",
     "tense": "infinitive",
