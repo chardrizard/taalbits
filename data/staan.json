@@ -1,0 +1,1882 @@
+[
+  {
+    "sentence": "Dat plan begint me steeds meer te ______.",
+    "options": [
+      "aanstaan",
+      "opstaan",
+      "afstaan",
+      "bijstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Aanstaan' = prettig lijken of bevallen. Het plan voelt steeds aantrekkelijker voor de spreker.",
+    "wrongExplanations": {
+      "1": "'Opstaan' = overeind komen of uit bed komen. Een plan kan je niet 'opstaan'.",
+      "2": "'Afstaan' = iets weggeven of overdragen. De spreker geeft het plan niet weg.",
+      "3": "'Bijstaan' = iemand helpen of steunen. Het plan helpt de spreker niet; het bevalt hem."
+    },
+    "hint": "Het plan voelt steeds beter voor hem. Welk werkwoord past bij 'bevallen'?",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De verwarming staat nog ______, daarom is het lokaal zo warm.",
+    "options": [
+      "aan",
+      "uit",
+      "stil",
+      "open"
+    ],
+    "correct": 0,
+    "explanation": "'Aanstaan' = ingeschakeld zijn. De verwarming werkt nog, daarom is het warm in het lokaal.",
+    "wrongExplanations": {
+      "1": "'Uitstaan' = uitgeschakeld zijn. Als de verwarming uit staat, wordt het lokaal niet zo warm.",
+      "2": "'Stilstaan' = niet bewegen of pauzeren. Een verwarming staat niet 'stil' in deze betekenis.",
+      "3": "'Openstaan' = open zijn of openstaan voor iets. Dat past niet bij een ingeschakelde verwarming."
+    },
+    "hint": "De verwarming werkt nog. Welk woord gebruik je voor een apparaat dat ingeschakeld is?",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Morgen sta ik vroeg ______, want mijn trein vertrekt om zes uur.",
+    "options": [
+      "op",
+      "aan",
+      "uit",
+      "stil"
+    ],
+    "correct": 0,
+    "explanation": "'Opstaan' = uit bed komen. In 'Morgen sta ik vroeg op' staat het prefix los aan het einde van het eerste zinsdeel.",
+    "wrongExplanations": {
+      "1": "'Aanstaan' = bevallen of ingeschakeld zijn. Een persoon staat niet 'aan' om een trein te halen.",
+      "2": "'Uitstaan' = uitgeschakeld zijn of iets verdragen. Dat past niet bij vroeg uit bed komen.",
+      "3": "'Stilstaan' = niet bewegen of ergens bij nadenken. De spreker moet juist uit bed komen."
+    },
+    "hint": "De trein vertrekt vroeg, dus hij moet vroeg uit bed. Welk los prefix hoort bij 'uit bed komen'?",
+    "tense": "present",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Omdat zij al om vijf uur was ______, was ze voor de lunch al moe.",
+    "options": [
+      "opgestaan",
+      "aangestaan",
+      "stilgestaan",
+      "klaargestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Opgestaan' = uit bed gekomen. Ze was al om vijf uur uit bed en werd daardoor vroeg moe.",
+    "wrongExplanations": {
+      "1": "'Aangestaan' = bevallen of ingeschakeld geweest. Dat past niet bij een persoon die vroeg uit bed kwam.",
+      "2": "'Stilgestaan' = niet bewogen of ergens bij nagedacht. De zin gaat over wakker worden en uit bed komen.",
+      "3": "'Klaargestaan' = klaar geweest om te helpen of te vertrekken. Dat zegt niet dat ze om vijf uur uit bed kwam."
+    },
+    "hint": "Ze kwam heel vroeg uit bed. Welke voltooid deelwoord past daarbij?",
+    "tense": "perfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De familie wil een deel van de tuin ______ aan de gemeente.",
+    "options": [
+      "afstaan",
+      "bijstaan",
+      "toestaan",
+      "ontstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Afstaan' = iets weggeven of overdragen. De familie draagt een stuk grond over aan de gemeente.",
+    "wrongExplanations": {
+      "1": "'Bijstaan' = helpen of steunen. Je staat een stuk tuin niet bij.",
+      "2": "'Toestaan' = toestemming geven. De familie geeft geen toestemming aan de tuin; ze draagt grond over.",
+      "3": "'Ontstaan' = beginnen te bestaan. De tuin ontstaat hier niet; een deel wordt overgedragen."
+    },
+    "hint": "Een stuk grond gaat van de familie naar de gemeente.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "De oude eigenaar heeft het pand aan zijn dochter ______.",
+    "options": [
+      "afgestaan",
+      "bijgestaan",
+      "toegestaan",
+      "ontstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Afgestaan' = overgedragen of weggegeven. De eigenaar heeft het pand aan zijn dochter gegeven.",
+    "wrongExplanations": {
+      "1": "'Bijgestaan' = geholpen of gesteund. Je staat een persoon bij, geen pand.",
+      "2": "'Toegestaan' = toegestaan of goedgekeurd. Een pand wordt niet 'toegestaan' aan iemand.",
+      "3": "'Ontstaan' = begonnen te bestaan. Het pand bestond al en werd overgedragen."
+    },
+    "hint": "Het pand ging van de oude eigenaar naar zijn dochter.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Tijdens het gesprek zal een advocaat haar ______.",
+    "options": [
+      "bijstaan",
+      "afstaan",
+      "aanstaan",
+      "opstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Bijstaan' = helpen of ondersteunen. Een advocaat kan iemand tijdens een gesprek juridisch steunen.",
+    "wrongExplanations": {
+      "1": "'Afstaan' = iets weggeven of overdragen. De advocaat geeft haar niet weg.",
+      "2": "'Aanstaan' = bevallen of ingeschakeld zijn. Dat past niet bij juridische hulp.",
+      "3": "'Opstaan' = overeind komen of uit bed komen. Dat is geen hulp in een gesprek."
+    },
+    "hint": "De advocaat helpt haar tijdens het gesprek.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "De vrijwilliger heeft de bewoners de hele avond ______.",
+    "options": [
+      "bijgestaan",
+      "afgestaan",
+      "opengestaan",
+      "vastgestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Bijgestaan' = geholpen of ondersteund. De vrijwilliger was er om de bewoners te helpen.",
+    "wrongExplanations": {
+      "1": "'Afgestaan' = weggegeven of overgedragen. Je staat bewoners niet af.",
+      "2": "'Opengestaan' = open geweest of open hebben gestaan voor iets. Dat beschrijft geen directe hulp aan bewoners.",
+      "3": "'Vastgestaan' = zeker of vast geweest. Dat past niet bij hulp bieden."
+    },
+    "hint": "De vrijwilliger hielp de bewoners actief.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De school wil niet ______ dat leerlingen zonder toestemming naar huis gaan.",
+    "options": [
+      "toestaan",
+      "bijstaan",
+      "afstaan",
+      "bestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Toestaan' = toestemming geven of iets goedkeuren. De school wil niet goedkeuren dat leerlingen zomaar vertrekken.",
+    "wrongExplanations": {
+      "1": "'Bijstaan' = helpen of steunen. De school helpt leerlingen hier niet; ze bepaalt wat mag.",
+      "2": "'Afstaan' = iets overdragen. Je staat een regel of gedrag niet af.",
+      "3": "'Bestaan' = er zijn of bestaan uit. Dat past niet bij toestemming geven."
+    },
+    "hint": "De vraag is of de school iets wel of niet goedkeurt.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Omdat de vergunning niet was ______, moest het evenement worden uitgesteld.",
+    "options": [
+      "toegestaan",
+      "bijgestaan",
+      "afgestaan",
+      "verstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Toegestaan' = goedgekeurd of toegestaan. Zonder goedkeuring voor de vergunning kan het evenement niet doorgaan.",
+    "wrongExplanations": {
+      "1": "'Bijgestaan' = geholpen of ondersteund. Een vergunning wordt niet bijgestaan.",
+      "2": "'Afgestaan' = overgedragen. De zin gaat niet over iets weggeven.",
+      "3": "'Verstaan' = begrepen of gehoord. Een vergunning wordt niet verstaan."
+    },
+    "hint": "Er was nog geen officiële goedkeuring.",
+    "tense": "perfectum",
+    "wordOrder": "bijzin",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Deze cursus ______ uit tien korte lessen en een eindopdracht.",
+    "options": [
+      "bestaat",
+      "ontstaat",
+      "verstaat",
+      "toestaat"
+    ],
+    "correct": 0,
+    "explanation": "'Bestaan uit' = opgebouwd zijn uit onderdelen. De cursus heeft tien lessen en een eindopdracht als onderdelen.",
+    "wrongExplanations": {
+      "1": "'Ontstaan' = beginnen te bestaan. De cursus ontstaat niet uit lessen; hij bestaat eruit.",
+      "2": "'Verstaan' = begrijpen of horen. Een cursus verstaat niets.",
+      "3": "'Toestaan' = toestemming geven. Een cursus geeft geen toestemming."
+    },
+    "hint": "De zin noemt de onderdelen waaruit de cursus is opgebouwd.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Het bedrijf heeft meer dan honderd jaar ______.",
+    "options": [
+      "bestaan",
+      "ontstaan",
+      "verstaan",
+      "toegestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Bestaan' = er zijn. Het bedrijf was meer dan honderd jaar actief of aanwezig.",
+    "wrongExplanations": {
+      "1": "'Ontstaan' = begonnen te bestaan. Dat gaat over het begin, niet over de hele periode van honderd jaar.",
+      "2": "'Verstaan' = begrepen of gehoord. Een bedrijf kan niet honderd jaar 'verstaan'.",
+      "3": "'Toegestaan' = goedgekeurd. Dat past niet bij hoe lang een bedrijf er was."
+    },
+    "hint": "Het gaat om hoe lang het bedrijf er was.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Door de storm kan er schade aan het dak ______.",
+    "options": [
+      "ontstaan",
+      "bestaan",
+      "verstaan",
+      "toestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Ontstaan' = beginnen te bestaan of gebeuren. Door de storm kan nieuwe schade aan het dak komen.",
+    "wrongExplanations": {
+      "1": "'Bestaan' = er zijn. Schade kan al bestaan, maar door de storm kan ze ontstaan.",
+      "2": "'Verstaan' = begrijpen of horen. Schade wordt niet verstaan.",
+      "3": "'Toestaan' = toestemming geven. De storm geeft geen toestemming."
+    },
+    "hint": "De schade is er misschien nog niet, maar kan door de storm beginnen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na de discussie is er langzaam meer begrip ______.",
+    "options": [
+      "ontstaan",
+      "bestaan",
+      "toegestaan",
+      "verstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Ontstaan' = geleidelijk beginnen te bestaan. Het begrip was er eerst minder en groeide na de discussie.",
+    "wrongExplanations": {
+      "1": "'Bestaan' = er zijn. De zin legt de nadruk op het ontstaan van nieuw begrip.",
+      "2": "'Toegestaan' = goedgekeurd. Begrip wordt niet toegestaan.",
+      "3": "'Verstaan' = begrijpen of horen. Dat past niet bij iets dat langzaam groeit."
+    },
+    "hint": "Het begrip kwam er langzaam bij na de discussie.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Kun je me goed ______ met al dat lawaai op de achtergrond?",
+    "options": [
+      "verstaan",
+      "bestaan",
+      "ontstaan",
+      "toestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Verstaan' = iemand goed kunnen horen en begrijpen. Het lawaai maakt horen moeilijker.",
+    "wrongExplanations": {
+      "1": "'Bestaan' = er zijn. Je kunt iemand niet 'bestaan' met lawaai.",
+      "2": "'Ontstaan' = beginnen te bestaan. Dat past niet bij luisteren.",
+      "3": "'Toestaan' = toestemming geven. De vraag gaat niet over toestemming."
+    },
+    "hint": "Het lawaai maakt het moeilijk om iemands woorden te horen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Door de slechte verbinding heb ik de helft van het gesprek niet ______.",
+    "options": [
+      "verstaan",
+      "bestaan",
+      "ontstaan",
+      "toegestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Verstaan' = horen en begrijpen wat iemand zegt. Door de slechte verbinding miste de spreker veel woorden.",
+    "wrongExplanations": {
+      "1": "'Bestaan' = er zijn. Een gesprek wordt niet 'bestaan' door een slechte verbinding.",
+      "2": "'Ontstaan' = beginnen te bestaan. Het gesprek ontstond niet; de spreker kon het niet goed horen.",
+      "3": "'Toegestaan' = goedgekeurd. De zin gaat niet over toestemming."
+    },
+    "hint": "De verbinding was slecht, dus hij hoorde de woorden niet goed.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ik kan dat constante getik echt niet ______.",
+    "options": [
+      "uitstaan",
+      "aanstaan",
+      "opstaan",
+      "klaarstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Niet kunnen uitstaan' = iets niet kunnen verdragen. Het constante getik irriteert de spreker sterk.",
+    "wrongExplanations": {
+      "1": "'Aanstaan' = bevallen of ingeschakeld zijn. Het getik bevalt de spreker juist niet.",
+      "2": "'Opstaan' = overeind komen of uit bed komen. Geluid kan je niet 'opstaan'.",
+      "3": "'Klaarstaan' = klaar zijn om te helpen of te vertrekken. Dat past niet bij irritatie."
+    },
+    "hint": "Het geluid irriteert hem zo erg dat hij het niet kan verdragen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "spreektaal"
+  },
+  {
+    "sentence": "Na de presentatie wil de docent even ______ bij de belangrijkste fouten.",
+    "options": [
+      "stilstaan",
+      "opstaan",
+      "aanstaan",
+      "afstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Stilstaan bij' = ergens bewust aandacht aan geven. De docent wil de belangrijkste fouten kort bespreken.",
+    "wrongExplanations": {
+      "1": "'Opstaan' = overeind komen of uit bed komen. De docent hoeft niet fysiek op te staan.",
+      "2": "'Aanstaan' = bevallen of ingeschakeld zijn. Dat past niet bij fouten bespreken.",
+      "3": "'Afstaan' = iets weggeven of overdragen. De docent geeft de fouten niet weg."
+    },
+    "hint": "De docent pauzeert inhoudelijk om aandacht te geven aan de fouten.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Bij de evaluatie hebben we lang ______ bij de klachten van klanten.",
+    "options": [
+      "stilgestaan",
+      "opgestaan",
+      "aangestaan",
+      "afgestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Stilgestaan bij' = bewust aandacht besteed aan iets. Tijdens de evaluatie bespraken ze de klachten uitgebreid.",
+    "wrongExplanations": {
+      "1": "'Opgestaan' = uit bed gekomen of overeind gekomen. Dat past niet bij een evaluatiegesprek.",
+      "2": "'Aangestaan' = bevallen of ingeschakeld geweest. Klachten staan je niet 'aan' in deze context.",
+      "3": "'Afgestaan' = overgedragen of weggegeven. De klachten werden besproken, niet afgestaan."
+    },
+    "hint": "Ze besteedden veel aandacht aan de klachten.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Straks staat de taxi al ______ voor de deur.",
+    "options": [
+      "klaar",
+      "open",
+      "vast",
+      "stil"
+    ],
+    "correct": 0,
+    "explanation": "'Klaarstaan' = klaar zijn om te vertrekken of te helpen. De taxi wacht al bij de deur om te rijden.",
+    "wrongExplanations": {
+      "1": "'Openstaan' = open zijn of openstaan voor iets. Een taxi kan open zijn, maar de context zegt dat hij klaar is om te vertrekken.",
+      "2": "'Vaststaan' = zeker of vastzitten. De taxi staat niet vast; hij wacht klaar.",
+      "3": "'Stilstaan' = niet bewegen. Dat kan letterlijk waar zijn, maar de zin bedoelt dat de taxi klaar is voor vertrek."
+    },
+    "hint": "De taxi wacht al zodat je meteen kunt vertrekken.",
+    "tense": "present",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ons team staat ______ voor feedback van gebruikers.",
+    "options": [
+      "open",
+      "vast",
+      "stil",
+      "uit"
+    ],
+    "correct": 0,
+    "explanation": "'Openstaan voor' = bereid zijn om iets te ontvangen of serieus te nemen. Het team wil feedback van gebruikers horen.",
+    "wrongExplanations": {
+      "1": "'Vaststaan' = zeker of definitief zijn. Feedback is niet iets waar je 'vast' voor staat.",
+      "2": "'Stilstaan' = niet bewegen of ergens bij nadenken. Dat past niet bij bereid zijn om feedback te ontvangen.",
+      "3": "'Uitstaan' = uitgeschakeld zijn of iets verdragen. Dat past niet bij feedback accepteren."
+    },
+    "hint": "Het team is bereid om feedback te ontvangen.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na het onderzoek staat ______ dat de fout in het systeem zat.",
+    "options": [
+      "vast",
+      "open",
+      "tegen",
+      "bij"
+    ],
+    "correct": 0,
+    "explanation": "'Vaststaan' = zeker zijn of bewezen zijn. Het onderzoek maakt duidelijk waar de fout zat.",
+    "wrongExplanations": {
+      "1": "'Openstaan' = open zijn of bereid zijn. De fout staat niet open; de conclusie is zeker.",
+      "2": "'Tegenstaan' = iemand niet bevallen. Dat past niet bij een bewezen conclusie.",
+      "3": "'Bijstaan' = iemand helpen. Dat past niet bij onderzoek naar een fout."
+    },
+    "hint": "Na het onderzoek is de conclusie zeker.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Die harde toon staat me eerlijk gezegd nogal ______.",
+    "options": [
+      "tegen",
+      "aan",
+      "bij",
+      "open"
+    ],
+    "correct": 0,
+    "explanation": "'Tegenstaan' = onaangenaam zijn of iemand afstoten. De harde toon voelt niet prettig voor de spreker.",
+    "wrongExplanations": {
+      "1": "'Aanstaan' = bevallen. Dat is juist positief, terwijl de toon de spreker stoort.",
+      "2": "'Bijstaan' = helpen of steunen. Een toon staat iemand niet bij.",
+      "3": "'Openstaan' = open zijn of bereid zijn. Dat past niet bij een negatieve reactie op toon."
+    },
+    "hint": "De toon voelt niet prettig; hij schrikt er juist door af.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "spreektaal"
+  },
+  {
+    "sentence": "Het museum wil ______ om zijn rustige sfeer en kleine tentoonstellingen.",
+    "options": [
+      "bekendstaan",
+      "openstaan",
+      "klaarstaan",
+      "vaststaan"
+    ],
+    "correct": 0,
+    "explanation": "'Bekendstaan om' = bekend zijn door een eigenschap. Het museum wil dat mensen het kennen door de rustige sfeer en kleine tentoonstellingen.",
+    "wrongExplanations": {
+      "1": "'Openstaan voor' = bereid zijn om iets te ontvangen. Dat past niet bij een reputatie.",
+      "2": "'Klaarstaan' = klaar zijn om te helpen of te vertrekken. Een museum kan niet om zijn sfeer 'klaarstaan'.",
+      "3": "'Vaststaan' = zeker zijn. Dat beschrijft geen reputatie."
+    },
+    "hint": "Het gaat om de reputatie van het museum.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Werknemers kunnen in deze fabriek aan veel lawaai ______.",
+    "options": [
+      "blootstaan",
+      "openstaan",
+      "bijstaan",
+      "toestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Blootstaan aan' = te maken krijgen met iets schadelijks of belastends. In de fabriek kunnen werknemers veel lawaai ervaren.",
+    "wrongExplanations": {
+      "1": "'Openstaan voor' = bereid zijn om iets te ontvangen. Werknemers zijn niet vrijwillig open voor lawaai.",
+      "2": "'Bijstaan' = helpen of ondersteunen. Lawaai is geen persoon die je bijstaat.",
+      "3": "'Toestaan' = toestemming geven. Werknemers geven geen toestemming aan het lawaai."
+    },
+    "hint": "Het lawaai is iets waar werknemers aan worden blootgesteld.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Die manier van werken heeft me nooit echt ______.",
+    "options": [
+      "aangestaan",
+      "opgestaan",
+      "afgestaan",
+      "bijgestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Aangestaan' = bevallen. De manier van werken voelde voor de spreker nooit echt prettig.",
+    "wrongExplanations": {
+      "1": "'Opgestaan' = uit bed gekomen of overeind gekomen. Een manier van werken komt niet overeind.",
+      "2": "'Afgestaan' = overgedragen of weggegeven. De spreker geeft de werkwijze niet weg.",
+      "3": "'Bijgestaan' = geholpen of gesteund. Een manier van werken staat iemand niet bij."
+    },
+    "hint": "De werkwijze voelde niet prettig of passend voor hem.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De printer staat al de hele middag ______.",
+    "options": [
+      "uit",
+      "aan",
+      "open",
+      "klaar"
+    ],
+    "correct": 0,
+    "explanation": "'Uitstaan' = uitgeschakeld zijn. De printer werkt niet, omdat hij al de hele middag uit staat.",
+    "wrongExplanations": {
+      "1": "'Aanstaan' = ingeschakeld zijn. Dat is het tegenovergestelde van uitgeschakeld zijn.",
+      "2": "'Openstaan' = open zijn of openstaan voor iets. Dat past niet bij een printer die niet werkt.",
+      "3": "'Klaarstaan' = klaar zijn om te gebruiken of te vertrekken. De printer staat juist uit."
+    },
+    "hint": "Het apparaat is niet ingeschakeld.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De gids staat bij de ingang ______ om de groep te ontvangen.",
+    "options": [
+      "klaar",
+      "vast",
+      "stil",
+      "tegen"
+    ],
+    "correct": 0,
+    "explanation": "'Klaarstaan' = klaar zijn om te helpen of te beginnen. De gids wacht bij de ingang om de groep te ontvangen.",
+    "wrongExplanations": {
+      "1": "'Vaststaan' = zeker zijn of vastzitten. De gids zit niet vast; hij is klaar om te helpen.",
+      "2": "'Stilstaan' = niet bewegen of ergens bij nadenken. De zin gaat niet alleen over stilstaan, maar over klaar zijn.",
+      "3": "'Tegenstaan' = onaangenaam zijn. Dat past niet bij een gids die mensen ontvangt."
+    },
+    "hint": "De gids wacht al en is klaar om te beginnen.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De hele ochtend heeft het team ______ om vragen van bezoekers te beantwoorden.",
+    "options": [
+      "klaargestaan",
+      "opengestaan",
+      "vastgestaan",
+      "stilgestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Klaargestaan' = klaar geweest om te helpen. Het team was beschikbaar voor vragen van bezoekers.",
+    "wrongExplanations": {
+      "1": "'Opengestaan' = open geweest of bereid geweest tot iets. Dat kan dichtbij liggen, maar hier gaat het om actief klaarstaan voor vragen.",
+      "2": "'Vastgestaan' = zeker of vast geweest. Dat past niet bij bezoekers helpen.",
+      "3": "'Stilgestaan' = niet bewogen of aandacht besteed aan iets. Het team was beschikbaar, niet aan het reflecteren."
+    },
+    "hint": "Het team was beschikbaar om direct te helpen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "We moeten ______ voor andere oplossingen als dit plan niet werkt.",
+    "options": [
+      "openstaan",
+      "vaststaan",
+      "klaarstaan",
+      "tegenstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Openstaan voor' = bereid zijn om iets te overwegen. Als het plan niet werkt, moeten andere oplossingen serieus worden bekeken.",
+    "wrongExplanations": {
+      "1": "'Vaststaan' = zeker of definitief zijn. Andere oplossingen staan niet vast; je moet er juist open voor zijn.",
+      "2": "'Klaarstaan' = klaar zijn om te helpen of te vertrekken. Dat past niet bij oplossingen overwegen.",
+      "3": "'Tegenstaan' = onaangenaam zijn. De zin gaat niet over afkeer, maar over bereidheid."
+    },
+    "hint": "Je bent bereid om andere opties serieus te bekijken.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De organisatie heeft jarenlang ______ voor nieuwe ideeën van jonge leden.",
+    "options": [
+      "opengestaan",
+      "vastgestaan",
+      "klaargestaan",
+      "tegengestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Opengestaan voor' = bereid geweest om iets te ontvangen of te overwegen. De organisatie nam ideeën van jonge leden serieus.",
+    "wrongExplanations": {
+      "1": "'Vastgestaan' = zeker of vast geweest. Dat past niet bij ideeën ontvangen.",
+      "2": "'Klaargestaan' = klaar geweest om te helpen. Dat is actiever dan hier bedoeld; het gaat om bereidheid voor ideeën.",
+      "3": "'Tegengestaan' = onaangenaam geweest of tegengewerkt. Dat is juist negatief."
+    },
+    "hint": "De organisatie was bereid om nieuwe ideeën serieus te nemen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Voor de rechter moet eerst ______ wat er precies is gebeurd.",
+    "options": [
+      "vaststaan",
+      "openstaan",
+      "klaarstaan",
+      "bekendstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Vaststaan' = zeker of bewezen zijn. Voor de rechter moet duidelijk en bewezen zijn wat er is gebeurd.",
+    "wrongExplanations": {
+      "1": "'Openstaan' = open zijn of bereid zijn. Feiten moeten niet openstaan, maar vaststaan.",
+      "2": "'Klaarstaan' = klaar zijn om te helpen of te vertrekken. Dat past niet bij bewijs.",
+      "3": "'Bekendstaan' = bekend zijn om iets. De zin gaat niet over reputatie, maar over zekerheid."
+    },
+    "hint": "In een rechtszaak moeten de feiten zeker en bewezen zijn.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Het heeft nooit helemaal ______ wie de beslissing heeft genomen.",
+    "options": [
+      "vastgestaan",
+      "opengestaan",
+      "klaargestaan",
+      "bekendgestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Vastgestaan' = zeker of bewezen geweest. Het bleef onduidelijk wie de beslissing nam.",
+    "wrongExplanations": {
+      "1": "'Opengestaan' = open of bereid geweest. Dat past niet bij duidelijkheid over een beslissing.",
+      "2": "'Klaargestaan' = klaar geweest om te helpen. Dat zegt niets over wie de beslissing nam.",
+      "3": "'Bekendgestaan' = een reputatie gehad. Dat past niet bij een feit dat onzeker bleef."
+    },
+    "hint": "Het was nooit helemaal zeker wie de beslissing nam.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ik denk dat deze aanpak veel mensen zal ______.",
+    "options": [
+      "tegenstaan",
+      "aanstaan",
+      "bijstaan",
+      "openstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Tegenstaan' = onaangenaam zijn of afstoten. De spreker verwacht dat mensen de aanpak niet prettig vinden.",
+    "wrongExplanations": {
+      "1": "'Aanstaan' = bevallen. Dat is juist positief, terwijl de spreker een negatieve reactie verwacht.",
+      "2": "'Bijstaan' = helpen of steunen. Een aanpak staat mensen niet bij.",
+      "3": "'Openstaan' = open zijn voor iets. Dat past grammaticaal en inhoudelijk niet in deze zin."
+    },
+    "hint": "De aanpak zal mensen waarschijnlijk niet bevallen.",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De koude, zakelijke sfeer heeft haar vanaf het begin ______.",
+    "options": [
+      "tegengestaan",
+      "aangestaan",
+      "bijgestaan",
+      "opengestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Tegengestaan' = onaangenaam geweest of iemand afgestoten. De koude sfeer voelde vanaf het begin niet prettig voor haar.",
+    "wrongExplanations": {
+      "1": "'Aangestaan' = bevallen. Dat is het tegenovergestelde van wat de koude sfeer suggereert.",
+      "2": "'Bijgestaan' = geholpen of gesteund. Een sfeer kan haar niet bijstaan.",
+      "3": "'Opengestaan' = open geweest of bereid geweest. Dat past niet bij een onaangename sfeer."
+    },
+    "hint": "De sfeer voelde koud en niet prettig.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De wijk heeft lang ______ als een rustige plek om te wonen.",
+    "options": [
+      "bekendgestaan",
+      "opengestaan",
+      "vastgestaan",
+      "klaargestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Bekendgestaan als' = een bepaalde reputatie gehad. De wijk had lang de reputatie van een rustige woonplek.",
+    "wrongExplanations": {
+      "1": "'Opengestaan' = open of bereid geweest. Dat past niet bij een reputatie.",
+      "2": "'Vastgestaan' = zeker of bewezen geweest. De zin gaat niet over bewijs, maar over hoe mensen de wijk kenden.",
+      "3": "'Klaargestaan' = klaar geweest om te helpen. Een wijk staat niet klaar als reputatie."
+    },
+    "hint": "Het gaat om de reputatie die de wijk lange tijd had.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Kinderen die veel buiten spelen, kunnen vaker aan kou en regen ______.",
+    "options": [
+      "blootstaan",
+      "openstaan",
+      "bijstaan",
+      "toestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Blootstaan aan' = te maken krijgen met iets dat invloed op je heeft. Buiten spelende kinderen krijgen vaker kou en regen over zich heen.",
+    "wrongExplanations": {
+      "1": "'Openstaan voor' = bereid zijn om iets te ontvangen. Kinderen kiezen niet bewust om open te staan voor kou en regen.",
+      "2": "'Bijstaan' = helpen of ondersteunen. Kou en regen zijn geen mensen die je helpt.",
+      "3": "'Toestaan' = toestemming geven. Kinderen geven geen toestemming aan kou en regen."
+    },
+    "hint": "Ze krijgen kou en regen over zich heen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Tijdens de crisis heeft het personeel maandenlang aan zware druk ______.",
+    "options": [
+      "blootgestaan",
+      "opengestaan",
+      "bijgestaan",
+      "toegestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Blootgestaan aan' = te maken gehad met iets belastends. Het personeel had maandenlang zware druk te verduren.",
+    "wrongExplanations": {
+      "1": "'Opengestaan' = open of bereid geweest. Dat past niet bij druk die mensen ervaren.",
+      "2": "'Bijgestaan' = geholpen of gesteund. Druk wordt niet bijgestaan.",
+      "3": "'Toegestaan' = goedgekeurd. Het personeel keurde de druk niet goed; het stond eraan bloot."
+    },
+    "hint": "Het personeel kreeg lange tijd zware druk te verduren.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "De patiënt moest een zware operatie ______.",
+    "options": [
+      "doorstaan",
+      "volstaan",
+      "afstaan",
+      "bestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Doorstaan' = iets moeilijks meemaken en volhouden. Een zware operatie is iets dat de patiënt moet doorstaan.",
+    "wrongExplanations": {
+      "1": "'Volstaan' = genoeg zijn. Een patiënt kan een operatie niet 'volstaan'.",
+      "2": "'Afstaan' = iets overdragen of weggeven. De patiënt geeft de operatie niet weg.",
+      "3": "'Bestaan' = er zijn. Dat past niet bij een moeilijke ervaring meemaken."
+    },
+    "hint": "De patiënt moet iets moeilijks meemaken en erdoorheen komen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Het oude gebouw heeft meerdere overstromingen ______.",
+    "options": [
+      "doorstaan",
+      "volstaan",
+      "bestaan",
+      "ontstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Doorstaan' = iets moeilijks overleven of verdragen. Het gebouw bleef staan ondanks meerdere overstromingen.",
+    "wrongExplanations": {
+      "1": "'Volstaan' = genoeg zijn. Het gebouw is niet 'genoeg' voor overstromingen.",
+      "2": "'Bestaan' = er zijn. Dat zegt alleen dat het gebouw er was, niet dat het schade heeft doorstaan.",
+      "3": "'Ontstaan' = beginnen te bestaan. Het gebouw ontstond niet door de overstromingen."
+    },
+    "hint": "Het gebouw bleef overeind ondanks moeilijke omstandigheden.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Een korte mail zal in dit geval ______.",
+    "options": [
+      "volstaan",
+      "doorstaan",
+      "bestaan",
+      "ontstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Volstaan' = genoeg zijn. In deze situatie is een korte mail voldoende.",
+    "wrongExplanations": {
+      "1": "'Doorstaan' = iets moeilijks meemaken. Een mail doorstaat deze situatie niet.",
+      "2": "'Bestaan' = er zijn. Dat zegt niet dat de mail genoeg is.",
+      "3": "'Ontstaan' = beginnen te bestaan. De mail ontstaat niet door de situatie."
+    },
+    "hint": "Er is niet meer nodig dan een korte mail.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Voor deze aanvraag ______ een kopie van je paspoort.",
+    "options": [
+      "volstaat",
+      "doorstaat",
+      "bestaat",
+      "ontstaat"
+    ],
+    "correct": 0,
+    "explanation": "'Volstaan' = genoeg zijn. Voor de aanvraag is een kopie van het paspoort voldoende.",
+    "wrongExplanations": {
+      "1": "'Doorstaan' = iets moeilijks meemaken. Een kopie doorstaat geen aanvraag.",
+      "2": "'Bestaan' = er zijn of bestaan uit. Dat zegt niet dat de kopie voldoende is.",
+      "3": "'Ontstaan' = beginnen te bestaan. De kopie ontstaat niet door de aanvraag."
+    },
+    "hint": "De kopie is genoeg voor de aanvraag.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Die felle kleur zou niet ______ bij haar donkere jas.",
+    "options": [
+      "misstaan",
+      "aanstaan",
+      "bijstaan",
+      "uitstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Niet misstaan' = goed passen of niet verkeerd lijken. De felle kleur kan goed bij de donkere jas passen.",
+    "wrongExplanations": {
+      "1": "'Aanstaan' = bevallen. Een kleur kan iemand aanstaan, maar 'niet misstaan bij' gaat specifiek over hoe iets erbij past.",
+      "2": "'Bijstaan' = helpen of steunen. Een kleur staat een jas niet bij.",
+      "3": "'Uitstaan' = verdragen of uitgeschakeld zijn. Dat past niet bij kleding combineren."
+    },
+    "hint": "Het gaat om of de kleur goed bij de jas past.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Die grap ______ in een serieus overleg.",
+    "options": [
+      "misstaat",
+      "aanstaat",
+      "bijstaat",
+      "openstaat"
+    ],
+    "correct": 0,
+    "explanation": "'Misstaan' = niet passen in een situatie. Een grap past niet goed in een serieus overleg.",
+    "wrongExplanations": {
+      "1": "'Aanstaan' = bevallen. De zin gaat niet over wat iemand leuk vindt, maar over wat niet past.",
+      "2": "'Bijstaan' = helpen of steunen. Een grap helpt het overleg niet in deze betekenis.",
+      "3": "'Openstaan' = open zijn of bereid zijn. Dat past niet bij een grap in overleg."
+    },
+    "hint": "De grap past niet bij de serieuze situatie.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Deze klacht moet ______ van je persoonlijke mening over de manager.",
+    "options": [
+      "losstaan",
+      "vaststaan",
+      "openstaan",
+      "bekendstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Losstaan van' = apart gezien worden van iets anders. De klacht moet onafhankelijk van je persoonlijke mening worden beoordeeld.",
+    "wrongExplanations": {
+      "1": "'Vaststaan' = zeker of bewezen zijn. Dat past niet bij iets apart beoordelen.",
+      "2": "'Openstaan' = open zijn of bereid zijn. Dat past niet bij afstand houden tussen twee zaken.",
+      "3": "'Bekendstaan' = een reputatie hebben. De klacht heeft hier geen reputatie."
+    },
+    "hint": "De klacht moet apart worden bekeken, zonder persoonlijke mening erbij.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "De cijfers hebben nooit helemaal ______ van de politieke discussie.",
+    "options": [
+      "losgestaan",
+      "vastgestaan",
+      "opengestaan",
+      "bekendgestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Losgestaan van' = apart hebben gestaan van iets anders. De cijfers waren steeds verbonden met de politieke discussie.",
+    "wrongExplanations": {
+      "1": "'Vastgestaan' = zeker of bewezen geweest. Dat zegt niets over de relatie met de politieke discussie.",
+      "2": "'Opengestaan' = open of bereid geweest. Dat past niet bij cijfers en politiek.",
+      "3": "'Bekendgestaan' = bekend geweest om iets. De zin gaat niet over reputatie."
+    },
+    "hint": "De cijfers waren niet helemaal apart van de politieke discussie.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Bij de rust stonden we met twee punten ______.",
+    "options": [
+      "achter",
+      "voor",
+      "gelijk",
+      "open"
+    ],
+    "correct": 0,
+    "explanation": "'Achterstaan' = achter liggen in score of ontwikkeling. Met twee punten achter heb je minder punten dan de tegenstander.",
+    "wrongExplanations": {
+      "1": "'Voorstaan' = voor liggen in score. Dat is het tegenovergestelde van achter liggen.",
+      "2": "'Gelijkstaan' = gelijk zijn of hetzelfde betekenen. Met twee punten verschil sta je niet gelijk.",
+      "3": "'Openstaan' = open zijn of beschikbaar zijn. Dat past niet bij een wedstrijdstand."
+    },
+    "hint": "Het team had minder punten dan de tegenstander.",
+    "tense": "imperfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "In dit contract staat te laat betalen ______ aan een boete.",
+    "options": [
+      "gelijk",
+      "achter",
+      "open",
+      "vast"
+    ],
+    "correct": 0,
+    "explanation": "'Gelijkstaan aan' = hetzelfde effect of dezelfde betekenis hebben als iets anders. In het contract betekent te laat betalen dat je een boete krijgt.",
+    "wrongExplanations": {
+      "1": "'Achterstaan' = achter liggen. Dat past niet bij de betekenis van een contractregel.",
+      "2": "'Openstaan' = open zijn of bereid zijn. Dat past niet bij een gelijk effect.",
+      "3": "'Vaststaan' = zeker zijn. De zin gaat niet alleen over zekerheid, maar over gelijkwaardigheid."
+    },
+    "hint": "Te laat betalen heeft hier hetzelfde effect als een boete.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "De leverancier moet ______ voor de kwaliteit van het product.",
+    "options": [
+      "instaan",
+      "bijstaan",
+      "openstaan",
+      "toestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Instaan voor' = verantwoordelijkheid nemen of garanderen. De leverancier is verantwoordelijk voor de kwaliteit.",
+    "wrongExplanations": {
+      "1": "'Bijstaan' = helpen of ondersteunen. De leverancier helpt de kwaliteit niet; hij is ervoor verantwoordelijk.",
+      "2": "'Openstaan voor' = bereid zijn om iets te ontvangen. Dat past niet bij garantie geven.",
+      "3": "'Toestaan' = toestemming geven. Kwaliteit wordt niet toegestaan."
+    },
+    "hint": "De leverancier moet verantwoordelijkheid nemen voor de kwaliteit.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "De partij zegt een eerlijker belastingstelsel te ______.",
+    "options": [
+      "voorstaan",
+      "instaan",
+      "openstaan",
+      "bijstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Voorstaan' = ergens voor pleiten of iets steunen. De partij zegt dat zij een eerlijker belastingstelsel wil.",
+    "wrongExplanations": {
+      "1": "'Instaan voor' = verantwoordelijkheid nemen of garanderen. Een partij kan voor kwaliteit instaan, maar ze staat een belastingstelsel voor.",
+      "2": "'Openstaan voor' = bereid zijn om iets te overwegen. De partij overweegt het niet alleen; ze pleit ervoor.",
+      "3": "'Bijstaan' = helpen of ondersteunen. Je staat een persoon bij, niet een belastingstelsel in deze betekenis."
+    },
+    "hint": "De partij pleit voor dit beleid.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Na de val kon hij niet meteen ______.",
+    "options": [
+      "opstaan",
+      "aanstaan",
+      "uitstaan",
+      "stilstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Opstaan' = overeind komen. Na een val moet iemand eerst weer rechtop komen.",
+    "wrongExplanations": {
+      "1": "'Aanstaan' = bevallen of ingeschakeld zijn. Dat past niet bij iemand die gevallen is.",
+      "2": "'Uitstaan' = uitgeschakeld zijn of iets verdragen. Dat past niet bij overeind komen.",
+      "3": "'Stilstaan' = niet bewegen of ergens bij nadenken. Na een val gaat het om weer overeind komen."
+    },
+    "hint": "Hij ligt of zit na de val en moet weer overeind komen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ik kan haar door het lawaai bijna niet ______.",
+    "options": [
+      "verstaan",
+      "bestaan",
+      "ontstaan",
+      "toestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Verstaan' = goed kunnen horen en begrijpen wat iemand zegt. Door het lawaai hoort de spreker haar woorden bijna niet.",
+    "wrongExplanations": {
+      "1": "'Bestaan' = er zijn. Je kunt een persoon niet 'bestaan' door lawaai.",
+      "2": "'Ontstaan' = beginnen te bestaan. Dat past niet bij luisteren.",
+      "3": "'Toestaan' = toestemming geven. De zin gaat niet over toestemming."
+    },
+    "hint": "Het lawaai maakt haar woorden moeilijk hoorbaar.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De leraar staat het gebruik van telefoons tijdens de toets niet ______.",
+    "options": [
+      "toe",
+      "bij",
+      "af",
+      "open"
+    ],
+    "correct": 0,
+    "explanation": "'Toestaan' = toestemming geven. In deze zin staat 'toe' los, omdat het werkwoord in de tegenwoordige tijd wordt gesplitst.",
+    "wrongExplanations": {
+      "1": "'Bijstaan' = helpen of ondersteunen. De leraar helpt het telefoongebruik niet.",
+      "2": "'Afstaan' = iets overdragen of weggeven. Telefoongebruik wordt niet afgestaan.",
+      "3": "'Openstaan' = open zijn of bereid zijn. Dat past niet bij een regel tijdens een toets."
+    },
+    "hint": "De leraar geeft hier juist geen toestemming.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Morgen staan we kort ______ bij de belangrijkste veranderingen.",
+    "options": [
+      "stil",
+      "open",
+      "vast",
+      "tegen"
+    ],
+    "correct": 0,
+    "explanation": "'Stilstaan bij' = bewust aandacht geven aan iets. Het team bespreekt kort de belangrijkste veranderingen.",
+    "wrongExplanations": {
+      "1": "'Openstaan voor' = bereid zijn om iets te ontvangen. Dat past niet bij iets kort bespreken.",
+      "2": "'Vaststaan' = zeker zijn. De veranderingen worden besproken, niet bewezen.",
+      "3": "'Tegenstaan' = onaangenaam zijn. Dat past niet bij aandacht geven aan veranderingen."
+    },
+    "hint": "Ze nemen kort tijd om aandacht te geven aan de veranderingen.",
+    "tense": "present",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Tijdens de bezwaarprocedure staat een jurist haar ______.",
+    "options": [
+      "bij",
+      "af",
+      "toe",
+      "open"
+    ],
+    "correct": 0,
+    "explanation": "'Bijstaan' = helpen of ondersteunen, vaak in een juridische context. De jurist helpt haar tijdens de bezwaarprocedure.",
+    "wrongExplanations": {
+      "1": "'Afstaan' = iets weggeven of overdragen. De jurist draagt haar niet over.",
+      "2": "'Toestaan' = toestemming geven. De jurist geeft haar niet toestemming; hij helpt haar.",
+      "3": "'Openstaan' = open zijn of bereid zijn. Dat past niet bij juridische ondersteuning."
+    },
+    "hint": "De jurist helpt haar in een officiële procedure.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Het restaurant staat ______ om zijn eenvoudige kaart en goede service.",
+    "options": [
+      "bekend",
+      "open",
+      "vast",
+      "klaar"
+    ],
+    "correct": 0,
+    "explanation": "'Bekendstaan om' = bekend zijn door een eigenschap. Het restaurant heeft een reputatie door zijn eenvoudige kaart en goede service.",
+    "wrongExplanations": {
+      "1": "'Openstaan voor' = bereid zijn om iets te ontvangen. Dat past niet bij reputatie.",
+      "2": "'Vaststaan' = zeker of bewezen zijn. De zin gaat niet over bewijs, maar over waar het restaurant om bekend is.",
+      "3": "'Klaarstaan' = klaar zijn om te helpen of te vertrekken. Dat past niet bij een reputatie."
+    },
+    "hint": "Het gaat om de reputatie van het restaurant.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De kinderen moeten om zeven uur ______ voor school.",
+    "options": [
+      "opstaan",
+      "aanstaan",
+      "uitstaan",
+      "stilstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Opstaan' = uit bed komen. De kinderen moeten vroeg wakker worden en uit bed voor school.",
+    "wrongExplanations": {
+      "1": "'Aanstaan' = bevallen of ingeschakeld zijn. Dat past niet bij kinderen die uit bed moeten.",
+      "2": "'Uitstaan' = uitgeschakeld zijn of iets verdragen. Kinderen staan niet uit voor school.",
+      "3": "'Stilstaan' = niet bewegen of ergens bij nadenken. De zin gaat over uit bed komen."
+    },
+    "hint": "Ze moeten vroeg uit bed.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Toen de bel ging, stond iedereen meteen ______.",
+    "options": [
+      "op",
+      "aan",
+      "uit",
+      "stil"
+    ],
+    "correct": 0,
+    "explanation": "'Opstaan' = overeind komen. Iedereen kwam meteen van zijn stoel toen de bel ging.",
+    "wrongExplanations": {
+      "1": "'Aanstaan' = bevallen of ingeschakeld zijn. Personen staan niet 'aan' in deze betekenis.",
+      "2": "'Uitstaan' = uitgeschakeld zijn of iets verdragen. Dat past niet bij mensen die overeind komen.",
+      "3": "'Stilstaan' = niet bewegen. Hier komt iedereen juist overeind."
+    },
+    "hint": "Iedereen kwam van zijn stoel.",
+    "tense": "imperfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na de operatie is zij voorzichtig uit bed ______.",
+    "options": [
+      "opgestaan",
+      "aangestaan",
+      "uitgestaan",
+      "stilgestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Opgestaan' = overeind gekomen of uit bed gekomen. Na de operatie deed ze dat voorzichtig.",
+    "wrongExplanations": {
+      "1": "'Aangestaan' = bevallen of ingeschakeld geweest. Dat past niet bij uit bed komen.",
+      "2": "'Uitgestaan' = uitgeschakeld geweest of iets verdragen. Dat past niet bij voorzichtig bewegen uit bed.",
+      "3": "'Stilgestaan' = niet bewogen of ergens bij stilgestaan. Ze kwam juist uit bed."
+    },
+    "hint": "Ze kwam voorzichtig uit bed.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Kun je iets langzamer praten? Ik kan je niet goed ______.",
+    "options": [
+      "verstaan",
+      "bestaan",
+      "ontstaan",
+      "toestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Verstaan' = goed horen en begrijpen wat iemand zegt. Langzamer praten helpt om de woorden beter te horen.",
+    "wrongExplanations": {
+      "1": "'Bestaan' = er zijn. Je kunt iemand niet 'bestaan' door langzamer praten.",
+      "2": "'Ontstaan' = beginnen te bestaan. Dat past niet bij luisteren.",
+      "3": "'Toestaan' = toestemming geven. De vraag gaat niet over toestemming."
+    },
+    "hint": "Het gaat om iemands woorden goed horen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Door de wind heb ik zijn antwoord niet ______.",
+    "options": [
+      "verstaan",
+      "bestaan",
+      "ontstaan",
+      "toegestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Verstaan' = horen en begrijpen. Door de wind kon de spreker het antwoord niet goed horen.",
+    "wrongExplanations": {
+      "1": "'Bestaan' = er zijn. Een antwoord wordt niet 'bestaan'.",
+      "2": "'Ontstaan' = beginnen te bestaan. Het antwoord ontstond niet; het werd niet goed gehoord.",
+      "3": "'Toegestaan' = goedgekeurd. De zin gaat niet over toestemming."
+    },
+    "hint": "De wind maakte het moeilijk om het antwoord te horen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze ______ Nederlands goed, maar spreken vindt ze nog lastig.",
+    "options": [
+      "verstaat",
+      "bestaat",
+      "ontstaat",
+      "toestaat"
+    ],
+    "correct": 0,
+    "explanation": "'Verstaan' = begrijpen wat je hoort. Ze begrijpt Nederlands goed, ook al vindt ze zelf spreken nog moeilijk.",
+    "wrongExplanations": {
+      "1": "'Bestaan' = er zijn. Een persoon 'bestaat' geen taal.",
+      "2": "'Ontstaan' = beginnen te bestaan. Dat past niet bij taal begrijpen.",
+      "3": "'Toestaan' = toestemming geven. De zin gaat niet over toestemming."
+    },
+    "hint": "Ze begrijpt de taal als ze die hoort.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Zonder zuurstof kan vuur niet lang ______.",
+    "options": [
+      "bestaan",
+      "ontstaan",
+      "verstaan",
+      "toestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Bestaan' = er zijn of blijven. Vuur kan zonder zuurstof niet blijven bestaan.",
+    "wrongExplanations": {
+      "1": "'Ontstaan' = beginnen te bestaan. De zin gaat niet over het begin van vuur, maar over blijven bestaan.",
+      "2": "'Verstaan' = horen en begrijpen. Vuur verstaat niets.",
+      "3": "'Toestaan' = toestemming geven. Zuurstof geeft geen toestemming."
+    },
+    "hint": "Het gaat om blijven bestaan, niet om beginnen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Deze organisatie ______ al sinds 1985.",
+    "options": [
+      "bestaat",
+      "ontstaat",
+      "verstaat",
+      "toestaat"
+    ],
+    "correct": 0,
+    "explanation": "'Bestaan' = er zijn. De organisatie is er al sinds 1985.",
+    "wrongExplanations": {
+      "1": "'Ontstaan' = beginnen te bestaan. 'Sinds 1985' gaat hier over hoe lang de organisatie er is.",
+      "2": "'Verstaan' = horen en begrijpen. Een organisatie verstaat niets.",
+      "3": "'Toestaan' = toestemming geven. Dat past niet bij hoe lang iets er is."
+    },
+    "hint": "De organisatie is er al lange tijd.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De werkgroep heeft jarenlang uit vijf leden ______.",
+    "options": [
+      "bestaan",
+      "ontstaan",
+      "verstaan",
+      "toegestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Bestaan uit' = opgebouwd zijn uit onderdelen of personen. De werkgroep had jarenlang vijf leden.",
+    "wrongExplanations": {
+      "1": "'Ontstaan' = beginnen te bestaan. Een groep ontstaat niet 'uit vijf leden' in deze betekenis; hij bestaat eruit.",
+      "2": "'Verstaan' = horen en begrijpen. Een werkgroep verstaat geen leden.",
+      "3": "'Toegestaan' = goedgekeurd. Dat past niet bij de samenstelling van een werkgroep."
+    },
+    "hint": "De zin noemt waaruit de werkgroep was opgebouwd.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na de botsing kan er makkelijk verwarring ______ over wie schuld heeft.",
+    "options": [
+      "ontstaan",
+      "bestaan",
+      "verstaan",
+      "toestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Ontstaan' = beginnen te bestaan. Na een botsing kan nieuwe verwarring komen over de schuldvraag.",
+    "wrongExplanations": {
+      "1": "'Bestaan' = er zijn. Verwarring kan bestaan, maar hier gaat het om het ontstaan ervan.",
+      "2": "'Verstaan' = horen en begrijpen. Verwarring wordt niet verstaan.",
+      "3": "'Toestaan' = toestemming geven. Niemand geeft toestemming aan verwarring."
+    },
+    "hint": "De verwarring kan nieuw beginnen na de botsing.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Het idee is tijdens een gesprek in de trein ______.",
+    "options": [
+      "ontstaan",
+      "bestaan",
+      "verstaan",
+      "toegestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Ontstaan' = beginnen te bestaan. Het idee kwam voor het eerst op tijdens het gesprek.",
+    "wrongExplanations": {
+      "1": "'Bestaan' = er zijn. De zin gaat over het moment waarop het idee begon.",
+      "2": "'Verstaan' = horen en begrijpen. Een idee wordt niet verstaan in deze context.",
+      "3": "'Toegestaan' = goedgekeurd. Het idee werd niet officieel toegestaan."
+    },
+    "hint": "Het idee begon tijdens dat gesprek.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Als je te lang wacht, ______ er misschien een groter probleem.",
+    "options": [
+      "ontstaat",
+      "bestaat",
+      "verstaat",
+      "toestaat"
+    ],
+    "correct": 0,
+    "explanation": "'Ontstaan' = beginnen te bestaan. Door te lang wachten kan een nieuw, groter probleem komen.",
+    "wrongExplanations": {
+      "1": "'Bestaan' = er zijn. Het probleem is er misschien nog niet; het kan ontstaan.",
+      "2": "'Verstaan' = horen en begrijpen. Een probleem verstaat niets.",
+      "3": "'Toestaan' = toestemming geven. Wachten geeft geen toestemming aan een probleem."
+    },
+    "hint": "Het probleem is er misschien nog niet, maar kan beginnen.",
+    "tense": "present",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De gemeente staat niet ______ dat terrassen na middernacht open blijven.",
+    "options": [
+      "toe",
+      "bij",
+      "af",
+      "open"
+    ],
+    "correct": 0,
+    "explanation": "'Toestaan' = toestemming geven. De gemeente geeft geen toestemming voor terrassen na middernacht.",
+    "wrongExplanations": {
+      "1": "'Bijstaan' = helpen of ondersteunen. De gemeente helpt de terrassen hier niet; ze bepaalt wat mag.",
+      "2": "'Afstaan' = iets overdragen. Terrassen worden niet afgestaan.",
+      "3": "'Openstaan' = open zijn of bereid zijn. Dat past niet bij een regel over openingstijden."
+    },
+    "hint": "De gemeente geeft hier geen toestemming.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Het is niet ______ om hier fietsen in de gang te zetten.",
+    "options": [
+      "toegestaan",
+      "bijgestaan",
+      "afgestaan",
+      "verstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Toegestaan' = goedgekeurd of toegestaan. Fietsen in de gang zetten mag hier niet.",
+    "wrongExplanations": {
+      "1": "'Bijgestaan' = geholpen of ondersteund. Fietsen worden niet bijgestaan.",
+      "2": "'Afgestaan' = overgedragen of weggegeven. De zin gaat niet over eigendom overdragen.",
+      "3": "'Verstaan' = gehoord of begrepen. Dat past niet bij een regel."
+    },
+    "hint": "De zin gaat over wat wel of niet mag.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De nieuwe software staat gebruikers ______ om zelf rapporten te maken.",
+    "options": [
+      "toe",
+      "bij",
+      "open",
+      "vast"
+    ],
+    "correct": 0,
+    "explanation": "'Toestaan' = mogelijk maken of toestemming geven. De software maakt het mogelijk dat gebruikers zelf rapporten maken.",
+    "wrongExplanations": {
+      "1": "'Bijstaan' = helpen of ondersteunen. De software kan helpen, maar 'staat toe' betekent hier dat het mag of mogelijk is.",
+      "2": "'Openstaan' = open zijn of bereid zijn. Dat past niet bij een functie in software.",
+      "3": "'Vaststaan' = zeker zijn. Dat past niet bij iets mogelijk maken."
+    },
+    "hint": "De software maakt deze actie mogelijk.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Die rustige uitleg staat me wel ______.",
+    "options": [
+      "aan",
+      "tegen",
+      "bij",
+      "open"
+    ],
+    "correct": 0,
+    "explanation": "'Aanstaan' = bevallen. De rustige uitleg voelt prettig voor de spreker.",
+    "wrongExplanations": {
+      "1": "'Tegenstaan' = onaangenaam zijn. Dat is het tegenovergestelde van wat 'wel' hier suggereert.",
+      "2": "'Bijstaan' = helpen of ondersteunen. Een uitleg staat iemand niet bij in deze vaste uitdrukking.",
+      "3": "'Openstaan' = open zijn of bereid zijn. Dat past niet bij iets dat je bevalt."
+    },
+    "hint": "De uitleg bevalt de spreker.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "spreektaal"
+  },
+  {
+    "sentence": "Het voorstel stond haar eerst niet ______, maar later veranderde ze van mening.",
+    "options": [
+      "aan",
+      "tegen",
+      "bij",
+      "open"
+    ],
+    "correct": 0,
+    "explanation": "'Aanstaan' = bevallen. Eerst beviel het voorstel haar niet, maar later dacht ze er anders over.",
+    "wrongExplanations": {
+      "1": "'Tegenstaan' = tegenvallen of onaangenaam zijn. Dat lijkt dichtbij, maar de vaste positieve uitdrukking is 'iemand aanstaan'.",
+      "2": "'Bijstaan' = helpen of ondersteunen. Een voorstel staat iemand niet bij.",
+      "3": "'Openstaan' = open zijn of bereid zijn. Dat past niet bij een voorstel dat iemand wel of niet bevalt."
+    },
+    "hint": "Het voorstel beviel haar eerst niet.",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De toon van het bericht heeft me niet echt ______.",
+    "options": [
+      "aangestaan",
+      "tegengestaan",
+      "bijgestaan",
+      "opengestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Aangestaan' = bevallen. De toon van het bericht voelde niet prettig voor de spreker.",
+    "wrongExplanations": {
+      "1": "'Tegengestaan' = onaangenaam geweest. Dat kan qua gevoel dichtbij liggen, maar 'niet aangestaan' is de vaste manier om te zeggen dat iets niet beviel.",
+      "2": "'Bijgestaan' = geholpen of ondersteund. Een toon staat iemand niet bij.",
+      "3": "'Opengestaan' = open of bereid geweest. Dat past niet bij de toon van een bericht."
+    },
+    "hint": "De toon beviel hem niet.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De koffie staat al ______ op tafel.",
+    "options": [
+      "klaar",
+      "open",
+      "vast",
+      "stil"
+    ],
+    "correct": 0,
+    "explanation": "'Klaarstaan' = klaar zijn om gebruikt of gepakt te worden. De koffie staat al klaar op tafel.",
+    "wrongExplanations": {
+      "1": "'Openstaan' = open zijn of bereid zijn. Koffie staat niet open in deze betekenis.",
+      "2": "'Vaststaan' = zeker zijn of vastzitten. Dat past niet bij koffie op tafel.",
+      "3": "'Stilstaan' = niet bewegen. Koffie beweegt misschien niet, maar de zin bedoelt dat hij klaar is."
+    },
+    "hint": "De koffie is klaar om te pakken.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Bij de receptie staan medewerkers ______ om vragen te beantwoorden.",
+    "options": [
+      "klaar",
+      "open",
+      "vast",
+      "tegen"
+    ],
+    "correct": 0,
+    "explanation": "'Klaarstaan' = beschikbaar zijn om te helpen. De medewerkers zijn klaar om vragen te beantwoorden.",
+    "wrongExplanations": {
+      "1": "'Openstaan' = bereid zijn om iets te ontvangen. Dat past minder goed dan klaarstaan voor actieve hulp.",
+      "2": "'Vaststaan' = zeker zijn of vastzitten. Medewerkers staan niet vast voor vragen.",
+      "3": "'Tegenstaan' = onaangenaam zijn. Dat past niet bij hulp aan de receptie."
+    },
+    "hint": "De medewerkers zijn beschikbaar om direct te helpen.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De lunchpakketten hebben de hele ochtend ______ voor de excursie.",
+    "options": [
+      "klaargestaan",
+      "opengestaan",
+      "vastgestaan",
+      "stilgestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Klaargestaan' = klaar geweest om mee te nemen of te gebruiken. De lunchpakketten waren voorbereid voor de excursie.",
+    "wrongExplanations": {
+      "1": "'Opengestaan' = open geweest. Lunchpakketten hoeven niet open te staan.",
+      "2": "'Vastgestaan' = zeker of vast geweest. Dat past niet bij voorbereide lunchpakketten.",
+      "3": "'Stilgestaan' = niet bewogen of ergens bij nagedacht. De zin gaat over klaar zijn."
+    },
+    "hint": "De lunchpakketten waren voorbereid en klaar om mee te nemen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ik sta ______ voor kritiek, zolang die concreet is.",
+    "options": [
+      "open",
+      "vast",
+      "stil",
+      "uit"
+    ],
+    "correct": 0,
+    "explanation": "'Openstaan voor' = bereid zijn om iets te ontvangen of serieus te nemen. De spreker wil concrete kritiek horen.",
+    "wrongExplanations": {
+      "1": "'Vaststaan' = zeker zijn. Kritiek staat niet vast voor iemand.",
+      "2": "'Stilstaan bij' = aandacht geven aan iets. De zin gaat eerst om bereid zijn om kritiek te ontvangen.",
+      "3": "'Uitstaan' = uitgeschakeld zijn of iets verdragen. Dat past niet bij concrete kritiek ontvangen."
+    },
+    "hint": "De spreker is bereid om kritiek te ontvangen.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De vacature staat nog ______, dus je kunt nog reageren.",
+    "options": [
+      "open",
+      "vast",
+      "klaar",
+      "tegen"
+    ],
+    "correct": 0,
+    "explanation": "'Openstaan' = beschikbaar of nog niet gesloten zijn. Een openstaande vacature is nog beschikbaar.",
+    "wrongExplanations": {
+      "1": "'Vaststaan' = zeker of definitief zijn. Dat zegt niet dat je nog kunt reageren.",
+      "2": "'Klaarstaan' = klaar zijn om te helpen of te vertrekken. Een vacature staat niet klaar.",
+      "3": "'Tegenstaan' = onaangenaam zijn. Dat past niet bij een beschikbare vacature."
+    },
+    "hint": "Je kunt nog reageren, dus de vacature is nog niet gesloten.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze heeft altijd ______ voor advies van ervaren collega's.",
+    "options": [
+      "opengestaan",
+      "vastgestaan",
+      "klaargestaan",
+      "tegengestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Opengestaan voor' = bereid geweest om iets serieus te nemen. Ze was bereid advies van ervaren collega's te ontvangen.",
+    "wrongExplanations": {
+      "1": "'Vastgestaan' = zeker of vast geweest. Dat past niet bij advies ontvangen.",
+      "2": "'Klaargestaan' = klaar geweest om te helpen. Zij ontving advies; ze stond er niet voor klaar om te helpen.",
+      "3": "'Tegengestaan' = onaangenaam geweest. Dat is juist negatief."
+    },
+    "hint": "Ze was bereid om advies serieus te nemen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "In de vergadering staan we even ______ bij de planning.",
+    "options": [
+      "stil",
+      "open",
+      "vast",
+      "tegen"
+    ],
+    "correct": 0,
+    "explanation": "'Stilstaan bij' = bewust aandacht geven aan iets. In de vergadering nemen ze even tijd voor de planning.",
+    "wrongExplanations": {
+      "1": "'Openstaan voor' = bereid zijn om iets te ontvangen. Dat past niet bij een agendapunt bespreken.",
+      "2": "'Vaststaan' = zeker zijn. De planning wordt besproken, niet bewezen.",
+      "3": "'Tegenstaan' = onaangenaam zijn. Dat past niet bij aandacht geven aan de planning."
+    },
+    "hint": "Ze nemen even tijd om de planning te bespreken.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Door de file heeft het verkeer een uur ______.",
+    "options": [
+      "stilgestaan",
+      "opengestaan",
+      "vastgestaan",
+      "klaargestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Stilgestaan' = niet bewogen. Door de file reed het verkeer een uur lang niet door.",
+    "wrongExplanations": {
+      "1": "'Opengestaan' = open geweest. Dat past niet bij verkeer.",
+      "2": "'Vastgestaan' = zeker of vast geweest. Verkeer kan vastzitten, maar de vaste vorm hier is 'stilgestaan'.",
+      "3": "'Klaargestaan' = klaar geweest. Verkeer staat niet klaar door een file."
+    },
+    "hint": "Het verkeer bewoog een uur niet.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Toen de spreker emotioneel werd, stonden we allemaal even ______.",
+    "options": [
+      "stil",
+      "open",
+      "vast",
+      "uit"
+    ],
+    "correct": 0,
+    "explanation": "'Stilstaan bij' kan ook betekenen dat je bewust pauzeert of geraakt bent door een moment. Iedereen hield even in door de emotie.",
+    "wrongExplanations": {
+      "1": "'Openstaan' = open zijn of bereid zijn. Dat past niet bij een emotionele pauze.",
+      "2": "'Vaststaan' = zeker zijn. De zin gaat niet over zekerheid.",
+      "3": "'Uitstaan' = uitgeschakeld zijn of iets verdragen. Dat past niet bij een emotioneel moment."
+    },
+    "hint": "Iedereen hield even in door het emotionele moment.",
+    "tense": "imperfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De lamp staat nog ______; kun je hem aandoen?",
+    "options": [
+      "uit",
+      "aan",
+      "open",
+      "klaar"
+    ],
+    "correct": 0,
+    "explanation": "'Uitstaan' = uitgeschakeld zijn. De lamp geeft geen licht, daarom vraagt iemand om hem aan te doen.",
+    "wrongExplanations": {
+      "1": "'Aanstaan' = ingeschakeld zijn. Als de lamp aan staat, hoef je hem niet aan te doen.",
+      "2": "'Openstaan' = open zijn of bereid zijn. Dat past niet bij een lamp.",
+      "3": "'Klaarstaan' = klaar zijn om te gebruiken. De lamp staat uit, niet klaar."
+    },
+    "hint": "De lamp geeft nog geen licht.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ik kan die geur in de keuken echt niet ______.",
+    "options": [
+      "uitstaan",
+      "aanstaan",
+      "openstaan",
+      "klaarstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Niet kunnen uitstaan' = iets niet kunnen verdragen. De geur stoort de spreker sterk.",
+    "wrongExplanations": {
+      "1": "'Aanstaan' = bevallen. De geur bevalt de spreker juist niet.",
+      "2": "'Openstaan' = open zijn of bereid zijn. Dat past niet bij een geur verdragen.",
+      "3": "'Klaarstaan' = klaar zijn om te helpen of te vertrekken. Dat past niet bij irritatie door een geur."
+    },
+    "hint": "De geur stoort hem zo erg dat hij die niet kan verdragen.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "spreektaal"
+  },
+  {
+    "sentence": "Heeft de computer de hele nacht ______?",
+    "options": [
+      "uitgestaan",
+      "aangestaan",
+      "opengestaan",
+      "klaargestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Uitgestaan' = uitgeschakeld geweest. De vraag is of de computer de hele nacht uit stond.",
+    "wrongExplanations": {
+      "1": "'Aangestaan' = ingeschakeld geweest. Dat is het tegenovergestelde van uitgestaan.",
+      "2": "'Opengestaan' = open geweest of open hebben gestaan. Dat past niet bij een uitgeschakelde computer.",
+      "3": "'Klaargestaan' = klaar geweest om te gebruiken. De vraag gaat om uitgeschakeld zijn."
+    },
+    "hint": "De vraag is of de computer uitgeschakeld was.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De datum voor het examen staat nu eindelijk ______.",
+    "options": [
+      "vast",
+      "open",
+      "klaar",
+      "tegen"
+    ],
+    "correct": 0,
+    "explanation": "'Vaststaan' = definitief of zeker zijn. De examendatum is nu eindelijk bepaald.",
+    "wrongExplanations": {
+      "1": "'Openstaan' = open of beschikbaar zijn. Een datum die openstaat is juist nog niet definitief.",
+      "2": "'Klaarstaan' = klaar zijn om te helpen of te vertrekken. Een datum staat niet klaar.",
+      "3": "'Tegenstaan' = onaangenaam zijn. Dat past niet bij een definitieve datum."
+    },
+    "hint": "De datum is eindelijk definitief.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Het stond al ______ dat hij de nieuwe teamleider zou worden.",
+    "options": [
+      "vast",
+      "open",
+      "tegen",
+      "bij"
+    ],
+    "correct": 0,
+    "explanation": "'Vaststaan' = zeker zijn. Het was al duidelijk dat hij de nieuwe teamleider zou worden.",
+    "wrongExplanations": {
+      "1": "'Openstaan' = open zijn of beschikbaar zijn. De beslissing was juist niet open.",
+      "2": "'Tegenstaan' = onaangenaam zijn. Dat past niet bij een zekere beslissing.",
+      "3": "'Bijstaan' = iemand helpen. Dat past niet bij een beslissing die zeker is."
+    },
+    "hint": "Het was al zeker.",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Zodra de afspraken ______, sturen we iedereen een bevestiging.",
+    "options": [
+      "vaststaan",
+      "openstaan",
+      "klaarstaan",
+      "tegenstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Vaststaan' = definitief zijn. Pas als de afspraken zeker zijn, kan de bevestiging worden gestuurd.",
+    "wrongExplanations": {
+      "1": "'Openstaan' = open of beschikbaar zijn. Openstaande afspraken zijn juist nog niet definitief.",
+      "2": "'Klaarstaan' = klaar zijn om te helpen of te vertrekken. Afspraken staan niet klaar.",
+      "3": "'Tegenstaan' = onaangenaam zijn. Dat past niet bij afspraken bevestigen."
+    },
+    "hint": "De afspraken moeten eerst definitief zijn.",
+    "tense": "present",
+    "wordOrder": "bijzin",
+    "register": "formeel"
+  },
+  {
+    "sentence": "De advocaat zal de verdachte tijdens het verhoor ______.",
+    "options": [
+      "bijstaan",
+      "afstaan",
+      "toestaan",
+      "openstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Bijstaan' = helpen of ondersteunen, vaak juridisch. De advocaat ondersteunt de verdachte tijdens het verhoor.",
+    "wrongExplanations": {
+      "1": "'Afstaan' = iets overdragen of weggeven. De advocaat geeft de verdachte niet weg.",
+      "2": "'Toestaan' = toestemming geven. De advocaat geeft hier geen toestemming; hij helpt.",
+      "3": "'Openstaan' = open zijn of bereid zijn. Dat past niet bij juridische hulp."
+    },
+    "hint": "De advocaat helpt de verdachte juridisch.",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "De stichting heeft een deel van haar budget ______ aan lokale scholen.",
+    "options": [
+      "afgestaan",
+      "bijgestaan",
+      "toegestaan",
+      "ontstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Afgestaan' = overgedragen of weggegeven. De stichting gaf een deel van haar budget aan lokale scholen.",
+    "wrongExplanations": {
+      "1": "'Bijgestaan' = geholpen of ondersteund. Een budget wordt niet bijgestaan.",
+      "2": "'Toegestaan' = goedgekeurd. De stichting keurde het budget niet goed; ze droeg geld over.",
+      "3": "'Ontstaan' = begonnen te bestaan. Het budget ontstond niet; een deel werd weggegeven."
+    },
+    "hint": "Een deel van het budget ging naar lokale scholen.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "De universiteit staat internationaal ______ om haar onderzoek naar waterbeheer.",
+    "options": [
+      "bekend",
+      "open",
+      "vast",
+      "klaar"
+    ],
+    "correct": 0,
+    "explanation": "'Bekendstaan om' = bekend zijn door een eigenschap of prestatie. De universiteit heeft internationaal een reputatie door dit onderzoek.",
+    "wrongExplanations": {
+      "1": "'Openstaan voor' = bereid zijn om iets te ontvangen. Dat past niet bij internationale reputatie.",
+      "2": "'Vaststaan' = zeker of bewezen zijn. De zin gaat over bekendheid, niet alleen zekerheid.",
+      "3": "'Klaarstaan' = klaar zijn om te helpen. Dat past niet bij onderzoek als reputatie."
+    },
+    "hint": "Het gaat om de internationale reputatie van de universiteit.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "De marathonloper heeft de hitte verrassend goed ______.",
+    "options": [
+      "doorstaan",
+      "volstaan",
+      "bestaan",
+      "ontstaan"
+    ],
+    "correct": 0,
+    "explanation": "'Doorstaan' = iets moeilijks meemaken en volhouden. De loper kon de hitte goed verdragen tijdens de marathon.",
+    "wrongExplanations": {
+      "1": "'Volstaan' = genoeg zijn. De loper is niet genoeg voor de hitte; hij doorstaat die.",
+      "2": "'Bestaan' = er zijn. Dat zegt niets over een moeilijke situatie volhouden.",
+      "3": "'Ontstaan' = beginnen te bestaan. De hitte ontstond niet door de loper."
+    },
+    "hint": "Hij heeft een moeilijke omstandigheid goed volgehouden.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Deze huizen staan direct ______ aan geluid van de snelweg.",
+    "options": [
+      "bloot",
+      "open",
+      "vast",
+      "klaar"
+    ],
+    "correct": 0,
+    "explanation": "'Blootstaan aan' = te maken krijgen met iets belastends. De huizen krijgen direct geluid van de snelweg te verduren.",
+    "wrongExplanations": {
+      "1": "'Openstaan voor' = bereid zijn om iets te ontvangen. Huizen zijn niet bereid om geluid te ontvangen.",
+      "2": "'Vaststaan' = zeker of vast zijn. Dat past niet bij geluidsoverlast.",
+      "3": "'Klaarstaan' = klaar zijn om te helpen of te vertrekken. Dat past niet bij huizen en geluid."
+    },
+    "hint": "De huizen krijgen direct geluidsoverlast te verduren.",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "formeel"
+  }
+]

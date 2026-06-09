@@ -190,10 +190,11 @@ The three tag fields are forward-compatible: present in JSON, ignored by the cur
 | gaan | mc | 50 |
 | houden | mc | 51 |
 | maken | mc | 51 |
+| staan | mc | 94 |
 | preposities | fill | 285 |
-| **Total** |  | **1354** |
+| **Total** |  | **1448** |
 
-Mix mode pools only `type === "mc"` themes ([index.html:346](index.html:346)) — currently 1069 questions across 14 verb themes.
+Mix mode pools only `type === "mc"` themes ([index.html:346](index.html:346)) — currently 1163 questions across 15 verb themes.
 
 ## Authoring guide
 
