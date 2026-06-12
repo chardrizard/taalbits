@@ -229,9 +229,10 @@
     "sentence": "Hij heeft gesolliciteerd ___ de functie van projectmanager.",
     "answer": "naar",
     "acceptedAnswers": [
-      "naar"
+      "naar",
+      "op"
     ],
-    "explanation": "'Solliciteren naar' = een sollicitatie indienen voor een baan.",
+    "explanation": "'Solliciteren naar' (of 'solliciteren op') = een sollicitatie indienen voor een baan. Beide voorzetsels zijn correct; 'naar' is het klassieke voorzetsel bij 'de functie'.",
     "hint": "Hij wil die baan graag hebben. Welk voorzetsel hoort bij 'solliciteren'?"
   },
   {
@@ -420,13 +421,13 @@
     "hint": "Je bent enthousiast over iets dat binnenkort begint. Welk voorzetsel hoort bij 'uitkijken'?"
   },
   {
-    "sentence": "Ik heb er gisteren nog ___ gedacht — we moeten die aanpak veranderen.",
+    "sentence": "Gelukkig heb ik er vanochtend nog ___ gedacht om de deur op slot te doen.",
     "answer": "aan",
     "acceptedAnswers": [
       "aan"
     ],
-    "explanation": "'Eraan denken' = aan iets denken waarbij het onderwerp al bekend is. 'Er + aan' vervangt 'aan + het onderwerp'.",
-    "hint": "Je dacht aan iets dat al bekend is in het gesprek. 'Er' + welk voorzetsel hoort bij 'denken'?"
+    "explanation": "'Eraan denken om iets te doen' = iets niet vergeten te doen. 'Er + aan' vervangt 'aan + de taak die al bekend is'.",
+    "hint": "Je was het bijna vergeten, maar je hebt het op tijd gedaan. 'Er' + welk voorzetsel hoort bij 'denken' als je iets niet vergeet?"
   },
   {
     "sentence": "Het nieuwe plan? We hebben ___ gesproken in de vergadering van dinsdag.",
@@ -473,9 +474,11 @@
     "answer": "erover",
     "acceptedAnswers": [
       "erover",
-      "er over"
+      "er over",
+      "erom",
+      "er om"
     ],
-    "explanation": "'Zich erover zorgen maken' = bezorgd zijn over iets dat al bekend is in het gesprek.",
+    "explanation": "'Zich erover (of erom) zorgen maken' = bezorgd zijn over iets dat al bekend is in het gesprek. 'Zorgen maken over' en 'zorgen maken om' zijn allebei correct.",
     "hint": "Je maakt je zorgen over de deadline die al besproken is. Welke er+prep combinatie past hier?"
   },
   {
@@ -780,14 +783,13 @@
     "hint": "Je bent begonnen met het recept dat al besproken is. 'Er' + welk voorzetsel hoort bij 'beginnen met'?"
   },
   {
-    "sentence": "De vakantie komt eraan — ik heb ___ gewacht de hele winter.",
-    "answer": "erop",
+    "sentence": "De vakantie komt eraan — ik heb er de hele winter ___ gewacht.",
+    "answer": "op",
     "acceptedAnswers": [
-      "erop",
-      "er op"
+      "op"
     ],
-    "explanation": "'Erop wachten' = wachten op iets dat al bekend is. 'Er + op' vervangt 'op + de vakantie'.",
-    "hint": "Je wachtte op de vakantie die al besproken is. 'Er' + het voorzetsel bij 'wachten op'. Wat wordt het?"
+    "explanation": "'Erop wachten' = wachten op iets dat al bekend is. In deze zin staat 'er' eerder in de zin en wordt het gesplitst: 'ik heb er ... op gewacht'.",
+    "hint": "Je wachtte op de vakantie die al genoemd is. 'Er' staat al in de zin — welk voorzetsel van 'wachten op' komt vóór het werkwoord?"
   },
   {
     "sentence": "De film was geweldig. Heb jij ___ genoten?",
@@ -1268,7 +1270,7 @@
     "hint": "Het bedrijf focust op een specifieke groep. Welk voorzetsel hoort bij 'zich richten' als je op een doelgroep focust?"
   },
   {
-    "sentence": "We zijn ___ het park gelopen naar het station.",
+    "sentence": "We zijn ___ het park gelopen naar het station — dat was korter dan eromheen.",
     "answer": "door",
     "acceptedAnswers": [
       "door"
@@ -1286,7 +1288,7 @@
     "hint": "De supermarkt is in het midden van twee andere winkels. Welk voorzetsel gebruik je als iets in het midden is?"
   },
   {
-    "sentence": "De kat zit ___ de tafel en wil er niet vandaan komen.",
+    "sentence": "De kat zit ___ de tafel — je ziet alleen haar staart nog uitsteken.",
     "answer": "onder",
     "acceptedAnswers": [
       "onder"
@@ -1298,9 +1300,10 @@
     "sentence": "Mag ik ___ je komen zitten? Die stoel is toch vrij?",
     "answer": "naast",
     "acceptedAnswers": [
-      "naast"
+      "naast",
+      "bij"
     ],
-    "explanation": "'Naast' = aan de zijkant van, ernaast. Geeft een positie direct links of rechts van iets of iemand aan.",
+    "explanation": "'Naast' = aan de zijkant van, direct links of rechts van iemand. 'Bij je komen zitten' kan hier ook — dat is algemener: in de buurt van.",
     "hint": "Je wilt aan de zijkant van iemand gaan zitten. Welk voorzetsel gebruik je voor 'aan de zijkant van'?"
   },
   {
@@ -1524,10 +1527,12 @@
     "answer": "erom",
     "acceptedAnswers": [
       "erom",
-      "er om"
+      "er om",
+      "eraan",
+      "er aan"
     ],
-    "explanation": "'Ergens om denken' / 'erom denken' = niet vergeten iets te doen. Dit is anders dan 'denken aan' (iemand in gedachten hebben) en 'denken over' (overwegen). 'Erom denken' = een herinnering, een taak.",
-    "hint": "Je moet iets niet vergeten. Dit is niet 'denken aan' (in je gedachten) maar 'denken om' (niet vergeten). Welke er+prep combinatie past?"
+    "explanation": "'Erom denken' / 'eraan denken' = niet vergeten iets te doen. Beide zijn correct in deze betekenis. Dit is anders dan 'denken over' (overwegen).",
+    "hint": "Je moet iets niet vergeten. Welke er+voorzetsel combinatie past bij 'niet vergeten iets te doen'?"
   },
   {
     "sentence": "Hij is geslaagd ___ zijn rijexamen na drie pogingen.",
@@ -1793,7 +1798,7 @@
     "hint": "De brief is een reactie op uw klacht. Welk voorzetsel hoort bij '___ aanleiding van'?"
   },
   {
-    "sentence": "Kun je ___ vrijdag het rapport inleveren? Dan heb ik het weekend om het te lezen.",
+    "sentence": "Kun je ___ vrijdag het rapport inleveren? De vergadering is vrijdagochtend, dus ik moet het eerder hebben.",
     "answer": "voor",
     "acceptedAnswers": [
       "voor"
@@ -1857,7 +1862,7 @@
     "hint": "De kosten zijn toegenomen. Welk voorzetsel gebruik je bij het percentage waarmee iets stijgt?"
   },
   {
-    "sentence": "Dat is precies het soort uitdaging waar ik ___ zoek ben.",
+    "sentence": "Dat is precies het soort uitdaging waar ik ___ op zoek ben.",
     "answer": "naar",
     "acceptedAnswers": [
       "naar"
@@ -1929,7 +1934,7 @@
     "hint": "De sleutels liggen bovenop een oppervlak. Welk voorzetsel gebruik je voor een horizontaal oppervlak?"
   },
   {
-    "sentence": "Er staat een boom ___ het huis die veel schaduw geeft.",
+    "sentence": "Er staat een boom ___ het huis — vanaf de straat zie je eerst de boom en dan pas de voordeur.",
     "answer": "voor",
     "acceptedAnswers": [
       "voor"
@@ -2029,12 +2034,12 @@
     "hint": "De bakker is aan de overkant. Welk voorzetsel geeft aan dat iets aan de andere kant is?"
   },
   {
-    "sentence": "Ze denkt ___ een nieuwe carrière — misschien iets in de IT.",
+    "sentence": "Ze denkt na ___ een nieuwe carrière — misschien iets in de IT.",
     "answer": "over",
     "acceptedAnswers": [
       "over"
     ],
-    "explanation": "'Denken over' = overwegen, nadenken over mogelijkheden. Vergelijk: 'denken aan' = iemand of iets in je gedachten hebben (emotioneel). Hier overweegt ze, dus 'over'.",
+    "explanation": "'Nadenken over' = overwegen, mogelijkheden afwegen. Vergelijk: 'denken aan' = iemand of iets in je gedachten hebben. Hier overweegt ze, dus 'over'.",
     "hint": "Ze overweegt een mogelijkheid — ze denkt niet aan een persoon. Welk voorzetsel hoort bij 'denken' als je iets overweegt?"
   },
   {
@@ -2410,9 +2415,10 @@
     "sentence": "Ik schrijf vandaag nog ___ de verhuurder over de lekkage.",
     "answer": "aan",
     "acceptedAnswers": [
-      "aan"
+      "aan",
+      "naar"
     ],
-    "explanation": "'Schrijven aan' = een bericht of brief sturen aan een persoon of organisatie. Vergelijk: 'schrijven over' = een onderwerp behandelen.",
+    "explanation": "'Schrijven aan' of 'schrijven naar' = een bericht of brief sturen aan een persoon of organisatie. Beide zijn correct. Vergelijk: 'schrijven over' = een onderwerp behandelen.",
     "hint": "De verhuurder is de ontvanger van je bericht. Welk voorzetsel hoort bij 'schrijven'?"
   },
   {
@@ -2585,5 +2591,206 @@
     ],
     "explanation": "'Toegankelijk zijn voor' = goed te gebruiken of bereikbaar zijn voor een bepaalde groep.",
     "hint": "De website moet bruikbaar zijn voor deze groep. Welk voorzetsel hoort bij 'toegankelijk zijn'?"
+  },
+  {
+    "sentence": "We staan vandaag even stil ___ het afscheid van onze collega na vijftien jaar.",
+    "answer": "bij",
+    "acceptedAnswers": [
+      "bij"
+    ],
+    "explanation": "'Stilstaan bij' = bewust aandacht geven aan iets, even over iets nadenken. Altijd met 'bij'. Het gaat hier niet om letterlijk stilstaan, maar om een moment van aandacht.",
+    "hint": "Je geeft ergens bewust aandacht aan. Welk voorzetsel hoort bij 'stilstaan' in de figuurlijke betekenis?"
+  },
+  {
+    "sentence": "Sta je er weleens ___ stil hoeveel water je per dag gebruikt?",
+    "answer": "bij",
+    "acceptedAnswers": [
+      "bij"
+    ],
+    "explanation": "'Ergens bij stilstaan' = bewust nadenken over iets. Met 'er' wordt het gesplitst: 'er ... bij stilstaan'. Het onderwerp volgt in de bijzin met 'hoeveel'.",
+    "hint": "'Stilstaan' + welk voorzetsel betekent 'bewust nadenken over'? 'Er' staat al in de zin."
+  },
+  {
+    "sentence": "Veel misverstanden op de werkvloer komen voort ___ onduidelijke communicatie.",
+    "answer": "uit",
+    "acceptedAnswers": [
+      "uit"
+    ],
+    "explanation": "'Voortkomen uit' = zijn oorsprong hebben in iets, het gevolg zijn van. Altijd met 'uit': het probleem groeit als het ware uit de bron.",
+    "hint": "De misverstanden hebben een bron, een oorsprong. Welk voorzetsel hoort bij 'voortkomen'?"
+  },
+  {
+    "sentence": "Haar liefde voor koken komt voort ___ haar jeugd in Indonesië.",
+    "answer": "uit",
+    "acceptedAnswers": [
+      "uit"
+    ],
+    "explanation": "'Voortkomen uit' = ontstaan zijn uit, zijn oorsprong hebben in. De jeugd is de bron waar de liefde voor koken uit is gegroeid.",
+    "hint": "Waar komt die liefde vandaan? Welk voorzetsel geeft de oorsprong aan bij 'voortkomen'?"
+  },
+  {
+    "sentence": "Hoe kijk jij ___ het nieuwe thuiswerkbeleid aan?",
+    "answer": "tegen",
+    "acceptedAnswers": [
+      "tegen"
+    ],
+    "explanation": "'Aankijken tegen' = een mening of houding hebben over iets. Vaste combinatie: 'ergens tegenaan kijken'. Vergelijk: 'kijken naar' = letterlijk je ogen richten op iets.",
+    "hint": "Het gaat om iemands mening, niet om letterlijk kijken. Welk voorzetsel hoort bij 'aankijken' in deze betekenis?"
+  },
+  {
+    "sentence": "Ik ben benieuwd hoe zij ___ deze verandering aankijkt.",
+    "answer": "tegen",
+    "acceptedAnswers": [
+      "tegen"
+    ],
+    "explanation": "'Aankijken tegen' = een bepaalde kijk of mening hebben op iets. In de bijzin blijft het voorzetsel vóór het object staan: 'hoe zij tegen ... aankijkt'.",
+    "hint": "Je wilt haar mening weten. 'Aankijken' + welk voorzetsel betekent 'een mening hebben over'?"
+  },
+  {
+    "sentence": "Ik heb de facturen geordend ___ datum, zodat de nieuwste bovenaan ligt.",
+    "answer": "op",
+    "acceptedAnswers": [
+      "op",
+      "naar"
+    ],
+    "explanation": "'Ordenen op' = sorteren volgens een kenmerk, zoals datum, naam of prijs. 'Ordenen naar' kan ook, maar 'op' is het gewone voorzetsel, zeker bij digitale lijsten.",
+    "hint": "Je sorteert volgens een kenmerk: de datum. Welk voorzetsel gebruik je bij 'ordenen' en 'sorteren'?"
+  },
+  {
+    "sentence": "Je kunt de zoekresultaten sorteren ___ prijs, van laag naar hoog.",
+    "answer": "op",
+    "acceptedAnswers": [
+      "op"
+    ],
+    "explanation": "'Sorteren op' = rangschikken volgens een kenmerk. Vaste combinatie in apps en webshops: 'sorteer op prijs', 'sorteer op datum'.",
+    "hint": "Denk aan de knop in een webshop: 'sorteer ___ prijs'. Welk voorzetsel is dat?"
+  },
+  {
+    "sentence": "De docent was goed te spreken ___ jouw presentatie van gisteren.",
+    "answer": "over",
+    "acceptedAnswers": [
+      "over"
+    ],
+    "explanation": "'Goed/niet te spreken zijn over' = tevreden of ontevreden zijn over iets. Vaste uitdrukking, altijd met 'over'.",
+    "hint": "De docent was tevreden. 'Te spreken zijn' + welk voorzetsel hoort daarbij — net als bij 'tevreden'?"
+  },
+  {
+    "sentence": "Ze was niet erg te spreken ___ de service in het hotel.",
+    "answer": "over",
+    "acceptedAnswers": [
+      "over"
+    ],
+    "explanation": "'Niet te spreken zijn over' = ontevreden zijn over iets. De vaste uitdrukking werkt in positieve én negatieve vorm: 'goed te spreken over', 'niet te spreken over'.",
+    "hint": "Ze was ontevreden. Welk voorzetsel hoort bij 'te spreken zijn' — denk aan 'klagen ___' en 'tevreden ___'?"
+  },
+  {
+    "sentence": "Tijdens de cursus komen alle grammaticaonderwerpen ___ bod.",
+    "answer": "aan",
+    "acceptedAnswers": [
+      "aan"
+    ],
+    "explanation": "'Aan bod komen' = behandeld of besproken worden. Vaste uitdrukking, altijd met 'aan'. Vergelijk: 'aan de beurt zijn'.",
+    "hint": "De onderwerpen worden behandeld. Vaste uitdrukking: '___ bod komen' — net als '___ de beurt'."
+  },
+  {
+    "sentence": "Door tijdgebrek is mijn vraag helaas niet meer ___ bod gekomen.",
+    "answer": "aan",
+    "acceptedAnswers": [
+      "aan"
+    ],
+    "explanation": "'Aan bod komen' = besproken worden, een plek krijgen in het programma. Hier in de perfectum-vorm: 'is ... aan bod gekomen'.",
+    "hint": "De vraag is niet meer behandeld. Welke vaste uitdrukking met 'bod' betekent 'besproken worden'?"
+  },
+  {
+    "sentence": "Ik zie erg op ___ dat lastige gesprek met mijn manager morgen.",
+    "answer": "tegen",
+    "acceptedAnswers": [
+      "tegen"
+    ],
+    "explanation": "'Opzien tegen' = iets moeilijk of vervelend vinden dat nog moet komen. Vaste combinatie: 'ergens tegen opzien'. Het tegenovergestelde van 'uitkijken naar'.",
+    "hint": "Je vindt het vervelend dat het nog moet gebeuren — het omgekeerde van 'uitkijken naar'. Welk voorzetsel hoort bij 'opzien'?"
+  },
+  {
+    "sentence": "Ze zag er maanden ___ op om naar de tandarts te gaan.",
+    "answer": "tegen",
+    "acceptedAnswers": [
+      "tegen"
+    ],
+    "explanation": "'Ergens tegen opzien' = iets spannend of vervelend vinden dat nog komt. Met 'er' wordt het gesplitst: 'er ... tegen opzien om'.",
+    "hint": "Ze vond het vervelend en stelde het uit. 'Er' + welk voorzetsel hoort bij 'opzien'?"
+  },
+  {
+    "sentence": "Na tien jaar in Nederland keerde ze terug ___ haar geboorteland.",
+    "answer": "naar",
+    "acceptedAnswers": [
+      "naar"
+    ],
+    "explanation": "'Terugkeren naar' = teruggaan naar een plek waar je eerder was. 'Naar' geeft de richting aan, net als bij 'gaan naar' en 'verhuizen naar'.",
+    "hint": "Ze gaat terug — er is beweging in een richting. Welk voorzetsel geeft richting aan?"
+  },
+  {
+    "sentence": "Laten we terugkeren ___ het hoofdonderwerp van deze vergadering.",
+    "answer": "naar",
+    "acceptedAnswers": [
+      "naar"
+    ],
+    "explanation": "'Terugkeren naar' werkt ook figuurlijk: teruggaan naar een onderwerp of situatie. Vergelijk: 'terugkomen op wat je zei' — dat is een andere vaste combinatie.",
+    "hint": "Jullie gaan terug naar het onderwerp. Bij 'terugkeren' hoort hetzelfde voorzetsel als bij beweging in een richting."
+  },
+  {
+    "sentence": "De vereniging is ontstaan ___ een klein buurtinitiatief van drie bewoners.",
+    "answer": "uit",
+    "acceptedAnswers": [
+      "uit",
+      "door"
+    ],
+    "explanation": "'Ontstaan uit' = gegroeid uit iets dat de bron was. 'Ontstaan door' kan ook, maar benadrukt de oorzaak; 'uit' benadrukt de oorsprong waar iets uit is gegroeid.",
+    "hint": "Het initiatief was het begin, de bron. Welk voorzetsel geeft aan dat iets uit een bron is gegroeid?"
+  },
+  {
+    "sentence": "Het woord 'smog' is ontstaan ___ de combinatie van 'smoke' en 'fog'.",
+    "answer": "uit",
+    "acceptedAnswers": [
+      "uit",
+      "door"
+    ],
+    "explanation": "'Ontstaan uit' = zijn oorsprong hebben in. Het nieuwe woord is gevormd uit twee bestaande woorden — die zijn de bron. 'Door' kan ook, maar 'uit' is hier het natuurlijke voorzetsel.",
+    "hint": "Twee woorden zijn de bron van het nieuwe woord. Welk voorzetsel hoort bij 'ontstaan' als je de oorsprong noemt?"
+  },
+  {
+    "sentence": "Houd er rekening ___ dat de meeste winkels op maandagochtend gesloten zijn.",
+    "answer": "mee",
+    "acceptedAnswers": [
+      "mee"
+    ],
+    "explanation": "'Rekening houden met' = iets meenemen in je planning of gedrag. Met 'er' en een bijzin wordt 'met' 'mee': 'er rekening mee houden dat ...'.",
+    "hint": "'Rekening houden met' — maar het object is een bijzin met 'dat'. Wat wordt 'met' na 'er'?"
+  },
+  {
+    "sentence": "Vanwege de hoge kosten hebben we ___ de verbouwing afgezien.",
+    "answer": "van",
+    "acceptedAnswers": [
+      "van"
+    ],
+    "explanation": "'Afzien van' = besluiten iets toch niet te doen. In de perfectum-vorm blijft het voorzetsel vóór het object staan: 'van de verbouwing afgezien'.",
+    "hint": "Ze doen de verbouwing toch niet. Welk voorzetsel hoort bij 'afzien'?"
+  },
+  {
+    "sentence": "De definitieve versie wijkt nauwelijks af ___ het eerste ontwerp.",
+    "answer": "van",
+    "acceptedAnswers": [
+      "van"
+    ],
+    "explanation": "'Afwijken van' = anders zijn dan iets, niet volgen wat normaal of afgesproken is. Altijd met 'van'.",
+    "hint": "De versie is bijna hetzelfde als het ontwerp — maar niet helemaal. Welk voorzetsel hoort bij 'afwijken'?"
+  },
+  {
+    "sentence": "Wist je dat je recht hebt ___ een vergoeding als je trein meer dan een uur vertraging heeft?",
+    "answer": "op",
+    "acceptedAnswers": [
+      "op"
+    ],
+    "explanation": "'Recht hebben op' = iets officieel mogen krijgen of eisen. Altijd met 'op': 'recht op een uitkering', 'recht op een vergoeding'.",
+    "hint": "Je mag officieel iets krijgen. Welk voorzetsel hoort bij 'recht hebben'?"
   }
 ]
