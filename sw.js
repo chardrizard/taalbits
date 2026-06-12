@@ -77,6 +77,25 @@ self.addEventListener("fetch", function(event) {
     return;
   }
 
+  // Data files: network-first so content updates appear immediately;
+  // cached copy is only the offline fallback.
+  if (new URL(event.request.url).pathname.indexOf("/data/") !== -1) {
+    event.respondWith(
+      fetch(event.request).then(function(response) {
+        if (response && response.status === 200) {
+          var copy = response.clone();
+          caches.open(CACHE_NAME).then(function(cache) {
+            cache.put(event.request, copy);
+          });
+        }
+        return response;
+      }).catch(function() {
+        return caches.match(event.request);
+      })
+    );
+    return;
+  }
+
   event.respondWith(
     caches.match(event.request).then(function(cached) {
       if (cached) return cached;
