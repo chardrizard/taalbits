@@ -2792,5 +2792,332 @@
     ],
     "explanation": "'Recht hebben op' = iets officieel mogen krijgen of eisen. Altijd met 'op': 'recht op een uitkering', 'recht op een vergoeding'.",
     "hint": "Je mag officieel iets krijgen. Welk voorzetsel hoort bij 'recht hebben'?"
+  },
+  {
+    "sentence": "Hij baalt enorm ___ het slechte weer tijdens zijn vakantie.",
+    "answer": "van",
+    "acceptedAnswers": [
+      "van"
+    ],
+    "explanation": "'Balen van' = teleurgesteld of geïrriteerd zijn over iets. Informeel maar heel gebruikelijk. Altijd met 'van'.",
+    "hint": "Hij is teleurgesteld. Welk voorzetsel hoort bij 'balen' — net als bij 'genieten' en 'last hebben'?"
+  },
+  {
+    "sentence": "___ het onderzoek blijkt dat veel huurders te veel betalen.",
+    "answer": "uit",
+    "acceptedAnswers": [
+      "uit"
+    ],
+    "explanation": "'Blijken uit' = duidelijk worden door iets. Het onderzoek is de bron van de informatie. Vaste combinatie: 'uit cijfers blijkt', 'uit onderzoek blijkt'.",
+    "hint": "Het onderzoek is de bron waar de conclusie vandaan komt. Welk voorzetsel geeft een bron aan?"
+  },
+  {
+    "sentence": "Wil je doorgaan ___ de cursus, of stop je na dit niveau?",
+    "answer": "met",
+    "acceptedAnswers": [
+      "met"
+    ],
+    "explanation": "'Doorgaan met' = verdergaan met een activiteit, niet stoppen. Vergelijk: 'stoppen met' — hetzelfde voorzetsel, tegengestelde betekenis.",
+    "hint": "Het tegenovergestelde van 'stoppen met'. Welk voorzetsel hoort bij allebei?"
+  },
+  {
+    "sentence": "De presentatie eindigde ___ een korte vragenronde.",
+    "answer": "met",
+    "acceptedAnswers": [
+      "met"
+    ],
+    "explanation": "'Eindigen met' = iets als laatste onderdeel hebben. Vergelijk: 'beginnen met' — hetzelfde voorzetsel aan het begin en het einde.",
+    "hint": "De vragenronde was het laatste onderdeel. Welk voorzetsel hoort bij 'eindigen' — net als bij 'beginnen'?"
+  },
+  {
+    "sentence": "Het gaat hier niet ___ geld, maar om de veiligheid van de bewoners.",
+    "answer": "om",
+    "acceptedAnswers": [
+      "om"
+    ],
+    "explanation": "'Het gaat om' = dit is het belangrijkste punt, hier draait het om. Vaste combinatie met 'om'.",
+    "hint": "Wat is het belangrijkste punt? 'Het gaat ___ ...' — kijk ook naar het tweede deel van de zin."
+  },
+  {
+    "sentence": "Deze korting geldt alleen ___ studenten met een geldige studentenpas.",
+    "answer": "voor",
+    "acceptedAnswers": [
+      "voor"
+    ],
+    "explanation": "'Gelden voor' = van toepassing zijn op een groep of situatie. Altijd met 'voor': 'de regel geldt voor iedereen'.",
+    "hint": "De korting is van toepassing op één groep. Welk voorzetsel hoort bij 'gelden'?"
+  },
+  {
+    "sentence": "Hij geeft niet ___ geld of status — vrienden vindt hij belangrijker.",
+    "answer": "om",
+    "acceptedAnswers": [
+      "om"
+    ],
+    "explanation": "'Geven om' = iets of iemand belangrijk vinden. Vaak in negatieve zinnen: 'niet geven om'. Vergelijk: 'geven aan' = letterlijk iets overhandigen.",
+    "hint": "Hij vindt het niet belangrijk. 'Geven' + welk voorzetsel betekent 'belangrijk vinden'?"
+  },
+  {
+    "sentence": "Ze hangt erg ___ haar oude huis en wil niet verhuizen.",
+    "answer": "aan",
+    "acceptedAnswers": [
+      "aan"
+    ],
+    "explanation": "'Hangen aan' (figuurlijk) = emotioneel verbonden zijn met iets, er moeilijk afstand van kunnen doen. Vergelijk de letterlijke betekenis: 'het schilderij hangt aan de muur'.",
+    "hint": "Ze is er emotioneel mee verbonden. 'Hangen' + welk voorzetsel — net als het schilderij aan de muur, maar dan figuurlijk?"
+  },
+  {
+    "sentence": "Na drie maanden in het buitenland kreeg hij heimwee ___ Nederland.",
+    "answer": "naar",
+    "acceptedAnswers": [
+      "naar"
+    ],
+    "explanation": "'Heimwee naar' = het verlangen om terug te zijn op een plek. Altijd met 'naar', net als 'verlangen naar'.",
+    "hint": "Hij verlangt terug naar een plek. Welk voorzetsel hoort bij 'heimwee' en 'verlangen'?"
+  },
+  {
+    "sentence": "Mag ik even informeren ___ de status van mijn aanvraag?",
+    "answer": "naar",
+    "acceptedAnswers": [
+      "naar"
+    ],
+    "explanation": "'Informeren naar' = vragen naar, navraag doen over iets. Let op het verschil: 'informeren over' = iemand informatie géven. Hier vraag je zelf om informatie, dus 'naar'.",
+    "hint": "Je vraagt om informatie — je geeft die niet. Welk voorzetsel hoort bij 'informeren' als je iets wilt weten, net als bij 'vragen naar'?"
+  },
+  {
+    "sentence": "Dit besluit gaat in ___ alles waar onze organisatie voor staat.",
+    "answer": "tegen",
+    "acceptedAnswers": [
+      "tegen"
+    ],
+    "explanation": "'Ingaan tegen' = in strijd zijn met, het tegenovergestelde doen van. Let op het verschil: 'ingaan op' = reageren op of iets accepteren ('ingaan op een aanbod').",
+    "hint": "Het besluit is in strijd met de waarden. 'Ingaan' + welk voorzetsel betekent 'in conflict zijn met'?"
+  },
+  {
+    "sentence": "Ik moet nog even ___ je voorstel kauwen voordat ik antwoord geef.",
+    "answer": "op",
+    "acceptedAnswers": [
+      "op"
+    ],
+    "explanation": "'Kauwen op' (figuurlijk) = lang over iets nadenken voordat je beslist. Net als letterlijk kauwen: je neemt de tijd om het te verwerken.",
+    "hint": "Hij wil er nog over nadenken. 'Kauwen' + welk voorzetsel — denk aan letterlijk kauwen op je eten?"
+  },
+  {
+    "sentence": "Ik ga vanmiddag even langs ___ mijn oma — ze is gisteren jarig geweest.",
+    "answer": "bij",
+    "acceptedAnswers": [
+      "bij"
+    ],
+    "explanation": "'Langsgaan bij' = iemand kort bezoeken. Vaste combinatie: 'even langsgaan bij iemand'. Vergelijk: 'op bezoek gaan bij'.",
+    "hint": "Een kort bezoek aan een persoon. Welk voorzetsel hoort bij 'langsgaan' — hetzelfde als bij 'op bezoek gaan'?"
+  },
+  {
+    "sentence": "Ik leen mijn auto liever niet ___ vrienden — dat geeft alleen maar gedoe.",
+    "answer": "aan",
+    "acceptedAnswers": [
+      "aan"
+    ],
+    "explanation": "'Lenen aan' = iets tijdelijk aan iemand anders geven. Let op de richting: 'lenen aan' = jij geeft, 'lenen van' = jij krijgt.",
+    "hint": "Hij geeft de auto aan iemand anders. Welke richting heeft het lenen hier — geven of krijgen?"
+  },
+  {
+    "sentence": "Ik heb deze boormachine geleend ___ de buurman.",
+    "answer": "van",
+    "acceptedAnswers": [
+      "van"
+    ],
+    "explanation": "'Lenen van' = iets tijdelijk van iemand anders krijgen. Let op de richting: 'lenen van' = jij krijgt, 'lenen aan' = jij geeft.",
+    "hint": "De buurman is de eigenaar — jij krijgt de boormachine tijdelijk. Welke richting heeft het lenen?"
+  },
+  {
+    "sentence": "De directie wilde niet meegaan ___ ons voorstel voor flexibele werktijden.",
+    "answer": "in",
+    "acceptedAnswers": [
+      "in",
+      "met"
+    ],
+    "explanation": "'Meegaan in' = een idee of voorstel accepteren en volgen. 'Meegaan met' kan hier ook. Vergelijk de letterlijke betekenis: 'meegaan met iemand' = samen ergens naartoe gaan.",
+    "hint": "Ze wilden het voorstel niet volgen. 'Meegaan' + welk voorzetsel bij een idee of voorstel?"
+  },
+  {
+    "sentence": "Hij heeft de neiging ___ uitstelgedrag als een taak te groot voelt.",
+    "answer": "tot",
+    "acceptedAnswers": [
+      "tot"
+    ],
+    "explanation": "'De neiging hebben tot' = snel geneigd zijn iets te doen. Met een zelfstandig naamwoord gebruik je 'tot'; met een werkwoord gebruik je 'om te': 'de neiging hebben om uit te stellen'.",
+    "hint": "Na 'de neiging' volgt hier een zelfstandig naamwoord. Welk voorzetsel hoort daarbij?"
+  },
+  {
+    "sentence": "We mogen onze ogen niet sluiten ___ de problemen op de woningmarkt.",
+    "answer": "voor",
+    "acceptedAnswers": [
+      "voor"
+    ],
+    "explanation": "'De ogen sluiten voor' = doen alsof een probleem niet bestaat, iets negeren. Vaste uitdrukking met 'voor'.",
+    "hint": "Doen alsof het probleem er niet is. Vaste uitdrukking: 'je ogen sluiten ___ iets'."
+  },
+  {
+    "sentence": "Het ontbreekt dit plan ___ een duidelijke planning en een realistisch budget.",
+    "answer": "aan",
+    "acceptedAnswers": [
+      "aan"
+    ],
+    "explanation": "'Het ontbreekt ... aan' = iets is er niet, iets mist. Vaste constructie: 'het ontbreekt hem aan tijd', 'het ontbreekt het team aan ervaring'.",
+    "hint": "Het plan mist iets. Vaste constructie: 'het ontbreekt X ___ Y'."
+  },
+  {
+    "sentence": "De bewoners zijn ontevreden ___ het besluit van de gemeente.",
+    "answer": "over",
+    "acceptedAnswers": [
+      "over",
+      "met"
+    ],
+    "explanation": "'Ontevreden over' (of 'ontevreden met') = niet blij zijn met iets. Beide voorzetsels zijn correct, net als bij 'tevreden over/met'.",
+    "hint": "Hetzelfde voorzetsel als bij 'tevreden'. Welke twee kunnen hier allebei?"
+  },
+  {
+    "sentence": "Toen ze haar diploma kreeg, kwam er een gevoel van trots ___ haar op.",
+    "answer": "in",
+    "acceptedAnswers": [
+      "in"
+    ],
+    "explanation": "'Opkomen in' = een gevoel of gedachte die vanzelf ontstaat in iemand. Vergelijk: 'opkomen voor' = iemand verdedigen — een heel andere betekenis.",
+    "hint": "Het gevoel ontstaat vanbinnen, in haar. Welk voorzetsel past bij iets dat vanbinnen omhoogkomt?"
+  },
+  {
+    "sentence": "Ze heeft al wekenlang ruzie ___ haar buurman over de schutting.",
+    "answer": "met",
+    "acceptedAnswers": [
+      "met"
+    ],
+    "explanation": "'Ruzie hebben met' = in conflict zijn met een persoon. 'Met' voor de persoon, 'over' voor het onderwerp: 'ruzie met de buurman over de schutting'.",
+    "hint": "De buurman is de persoon van het conflict. Welk voorzetsel hoort bij de persoon — en welk bij het onderwerp?"
+  },
+  {
+    "sentence": "De kinderen maken altijd ruzie ___ wie er op de voorste stoel mag zitten.",
+    "answer": "over",
+    "acceptedAnswers": [
+      "over"
+    ],
+    "explanation": "'Ruzie maken over' = conflict hebben over een onderwerp. 'Over' voor het onderwerp, 'met' voor de persoon.",
+    "hint": "Hier gaat het om het onderwerp van de ruzie, niet om de persoon. Welk voorzetsel hoort bij het onderwerp?"
+  },
+  {
+    "sentence": "We schuilden onder een boom ___ de plotselinge regenbui.",
+    "answer": "voor",
+    "acceptedAnswers": [
+      "voor"
+    ],
+    "explanation": "'Schuilen voor' = jezelf beschermen tegen iets door ergens te gaan staan. Altijd met 'voor': 'schuilen voor de regen'.",
+    "hint": "Ze beschermen zichzelf tegen de regen. Welk voorzetsel hoort bij 'schuilen'?"
+  },
+  {
+    "sentence": "Deze thee smaakt een beetje ___ kaneel — lekker bij dit koude weer.",
+    "answer": "naar",
+    "acceptedAnswers": [
+      "naar"
+    ],
+    "explanation": "'Smaken naar' = de smaak hebben van iets. Altijd met 'naar': 'het smaakt naar meer' is ook een vaste uitdrukking.",
+    "hint": "De thee heeft de smaak van kaneel. Welk voorzetsel hoort bij 'smaken' — denk aan 'dat smaakt ___ meer'?"
+  },
+  {
+    "sentence": "De uitnodiging is per post gestuurd ___ alle leden van de vereniging.",
+    "answer": "aan",
+    "acceptedAnswers": [
+      "aan",
+      "naar"
+    ],
+    "explanation": "'Sturen aan' = iets sturen met een persoon of groep als ontvanger; iets formeler. 'Sturen naar' kan ook en benadrukt de richting of het adres.",
+    "hint": "De leden zijn de ontvangers. Welk voorzetsel gebruik je voor de ontvanger van een brief?"
+  },
+  {
+    "sentence": "Ik stuur het pakket morgen ___ je nieuwe adres in Utrecht.",
+    "answer": "naar",
+    "acceptedAnswers": [
+      "naar"
+    ],
+    "explanation": "'Sturen naar' = iets versturen in de richting van een plek of adres. Bij een adres of plaats gebruik je 'naar'; bij een persoon als ontvanger kan ook 'aan'.",
+    "hint": "Een adres is een plek — er is richting. Welk voorzetsel geeft richting aan?"
+  },
+  {
+    "sentence": "Door alle vergaderingen kom ik niet toe ___ mijn eigen werk.",
+    "answer": "aan",
+    "acceptedAnswers": [
+      "aan"
+    ],
+    "explanation": "'Toekomen aan' = eindelijk tijd hebben om iets te doen. Vaak negatief: 'ik kom er niet aan toe' = ik heb er geen tijd voor.",
+    "hint": "Hij heeft geen tijd voor zijn eigen werk. 'Toekomen' + welk voorzetsel betekent 'tijd vinden voor'?"
+  },
+  {
+    "sentence": "Volgende maand verhuizen we ___ Groningen vanwege mijn nieuwe baan.",
+    "answer": "naar",
+    "acceptedAnswers": [
+      "naar"
+    ],
+    "explanation": "'Verhuizen naar' = naar een nieuwe woonplaats gaan. 'Naar' geeft de richting aan. Vergelijk: 'wonen in Groningen' — zonder beweging gebruik je 'in'.",
+    "hint": "Er is beweging naar een nieuwe plek. Welk voorzetsel hoort bij richting — en welk bij 'wonen'?"
+  },
+  {
+    "sentence": "Ze is vernoemd ___ haar Indonesische oma, die ook Sari heette.",
+    "answer": "naar",
+    "acceptedAnswers": [
+      "naar"
+    ],
+    "explanation": "'Vernoemen naar' = dezelfde naam geven als iemand anders. Altijd met 'naar': 'het plein is vernoemd naar een schrijver'.",
+    "hint": "Ze kreeg de naam van haar oma. Welk voorzetsel hoort bij 'vernoemen'?"
+  },
+  {
+    "sentence": "De feedback van de testgebruikers is verwerkt ___ de nieuwe versie van de app.",
+    "answer": "in",
+    "acceptedAnswers": [
+      "in"
+    ],
+    "explanation": "'Verwerken in' = iets opnemen als onderdeel van een groter geheel. De feedback zit nu ín de nieuwe versie.",
+    "hint": "De feedback is nu onderdeel van de app. Welk voorzetsel past bij 'onderdeel worden van'?"
+  },
+  {
+    "sentence": "De redactie moet waken ___ eenzijdige berichtgeving.",
+    "answer": "voor",
+    "acceptedAnswers": [
+      "voor"
+    ],
+    "explanation": "'Waken voor' = goed opletten dat iets slechts niet gebeurt. Let op het verschil: 'waken over' = beschermend in de gaten houden ('de ouders waken over hun kind').",
+    "hint": "Ze willen voorkomen dat iets slechts gebeurt. 'Waken' + welk voorzetsel betekent 'oppassen dat het niet gebeurt'?"
+  },
+  {
+    "sentence": "Het kind wijst enthousiast ___ de vliegtuigen in de lucht.",
+    "answer": "naar",
+    "acceptedAnswers": [
+      "naar"
+    ],
+    "explanation": "'Wijzen naar' = letterlijk met je vinger de richting aangeven. Let op het verschil: 'wijzen op' = de aandacht vestigen op iets ('de manager wees op het probleem').",
+    "hint": "Letterlijk wijzen met een vinger, een richting. Welk voorzetsel geeft richting aan?"
+  },
+  {
+    "sentence": "Past die kast nog ___ de muur en de deur, of is het te krap?",
+    "answer": "tussen",
+    "acceptedAnswers": [
+      "tussen"
+    ],
+    "explanation": "'Passen tussen' = genoeg ruimte hebben in de ruimte tussen twee dingen. Vergelijk: 'passen bij' = goed combineren met iets ('die kleur past bij je jas').",
+    "hint": "De kast moet in de ruimte tussen twee dingen. Welk voorzetsel beschrijft die positie?"
+  },
+  {
+    "sentence": "Sluit de printer eerst aan ___ het netwerk voordat je iets print.",
+    "answer": "op",
+    "acceptedAnswers": [
+      "op"
+    ],
+    "explanation": "'Aansluiten op' = technisch verbinden met een systeem of netwerk. Let op het verschil: 'aansluiten bij' = je voegen bij een groep of passen bij ('aansluiten bij een werkgroep').",
+    "hint": "Een technische verbinding met een systeem. 'Aansluiten' + welk voorzetsel — niet de groep, maar het netwerk?"
+  },
+  {
+    "sentence": "Niemand dacht dat ze ___ zo'n grote prestatie in staat was.",
+    "answer": "tot",
+    "acceptedAnswers": [
+      "tot"
+    ],
+    "explanation": "'In staat zijn tot' = iets kunnen doen. Met een zelfstandig naamwoord gebruik je 'tot'; met een werkwoord gebruik je 'om te': 'in staat zijn om het alleen te doen'.",
+    "hint": "Na 'in staat' volgt hier een zelfstandig naamwoord ('een prestatie'). Welk voorzetsel hoort daarbij?"
   }
 ]
