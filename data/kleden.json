@@ -1,0 +1,1052 @@
+[
+  {
+    "sentence": "Kun je de kinderen ______ terwijl ik het ontbijt maak?",
+    "options": ["aankleden", "uitkleden", "omkleden", "verkleden"],
+    "correct": 0,
+    "explanation": "'Aankleden' = kleren aantrekken, bij jezelf of bij iemand anders. De kinderen moeten 's ochtends hun kleren aan voor de dag begint.",
+    "wrongExplanations": {
+      "1": "'Uitkleden' = kleren uittrekken. 's Ochtends voor het ontbijt trek je kleren juist aan, niet uit.",
+      "2": "'Omkleden' = andere kleren aantrekken in plaats van wat je al draagt. De kinderen dragen nog geen dagkleding; ze worden voor het eerst aangekleed.",
+      "3": "'Verkleden' = je als iets of iemand anders aankleden, bijvoorbeeld als piraat. Dit is gewoon de ochtendroutine, geen kostuum."
+    },
+    "hint": "Het is ochtend en de kinderen moeten hun kleren aan. Welk prefix hoort bij 'kleren aantrekken'?",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "'s Ochtends kleed ik me eerst ______ en daarna pas drink ik koffie.",
+    "options": ["aan", "om", "uit", "in"],
+    "correct": 0,
+    "explanation": "'Zich aankleden' = je kleren aantrekken. In de hoofdzin staat het prefix los: 'ik kleed me aan'.",
+    "wrongExplanations": {
+      "1": "'Zich omkleden' = andere kleren aantrekken. 's Ochtends trek je je eerste kleren van de dag aan; er is nog niets om te wisselen.",
+      "2": "'Zich uitkleden' = je kleren uittrekken. Dat doe je 's avonds, niet aan het begin van de dag.",
+      "3": "'Inkleden' = een boodschap op een bepaalde manier formuleren. Dat heeft niets met kleren aantrekken te maken."
+    },
+    "hint": "Het is het begin van de dag: van pyjama naar kleren. Welk los prefix hoort bij 'kleren aantrekken'?",
+    "tense": "present",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "We hebben de kale vergaderruimte ______ met planten en posters.",
+    "options": ["aangekleed", "bekleed", "ingekleed", "verkleed"],
+    "correct": 0,
+    "explanation": "'Aankleden' betekent ook figuurlijk: een ruimte gezelliger of voller maken met decoratie. Een kale ruimte 'kleed je aan' met planten en posters.",
+    "wrongExplanations": {
+      "1": "'Bekleden' = een oppervlak bedekken met materiaal, zoals een stoel met stof. Planten en posters bedekken de ruimte niet; ze versieren haar.",
+      "2": "'Inkleden' = een boodschap of verzoek op een bepaalde manier formuleren. Het gaat hier om een ruimte, niet om woorden.",
+      "3": "'Verkleden' = een kostuum aantrekken. Een ruimte kan zich niet verkleden."
+    },
+    "hint": "De ruimte was kaal en wordt nu gezelliger gemaakt. Welk werkwoord gebruik je figuurlijk voor 'versieren'?",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij is pas vier, maar hij kan zich al helemaal zelf ______.",
+    "options": ["aankleden", "omkleden", "verkleden", "uitkleden"],
+    "correct": 0,
+    "explanation": "'Zich aankleden' = je kleren aantrekken. Voor een kind van vier is zelfstandig aankleden een mijlpaal.",
+    "wrongExplanations": {
+      "1": "'Zich omkleden' = andere kleren aantrekken in plaats van wat je draagt. Hier gaat het om de basisvaardigheid kleren aantrekken, niet om wisselen.",
+      "2": "'Zich verkleden' = een kostuum aantrekken. Dat is hier niet de prestatie die bedoeld wordt.",
+      "3": "'Zich uitkleden' = kleren uittrekken. Uittrekken is makkelijker dan aantrekken; de mijlpaal is juist het aantrekken."
+    },
+    "hint": "De prestatie van het kind is zelf zijn kleren aandoen. Welk prefix hoort daarbij?",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze kleedde haar dochtertje extra warm ______, want het vroor buiten.",
+    "options": ["aan", "om", "uit", "in"],
+    "correct": 0,
+    "explanation": "'Iemand aankleden' = iemand kleren aantrekken. 'Warm aankleden' is een vaste combinatie bij koud weer.",
+    "wrongExplanations": {
+      "1": "'Omkleden' = van kleding wisselen. Hier worden de kleren voor het naar buiten gaan aangetrokken, niet gewisseld.",
+      "2": "'Uitkleden' = kleren uittrekken. Bij vorst trek je juist kleren aan.",
+      "3": "'Inkleden' = een boodschap formuleren. Dat past niet bij een kind kleren aandoen."
+    },
+    "hint": "Het vriest, dus het kind krijgt dikke kleren aan. Welk los prefix hoort bij 'aantrekken'?",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Je loopt nog in je pyjama! Kleed je snel ______, we moeten naar school.",
+    "options": ["aan", "om", "uit", "in"],
+    "correct": 0,
+    "explanation": "'Je aankleden' = van pyjama naar gewone kleren: je trekt je kleren voor de dag aan. In de gebiedende wijs staat het prefix los achteraan.",
+    "wrongExplanations": {
+      "1": "'Je omkleden' zeg je als iemand al gewone kleren draagt en iets anders aantrekt. Een pyjama telt niet als aangekleed zijn.",
+      "2": "'Je uitkleden' = kleren uittrekken. Dan komt het kind in zijn ondergoed op school - niet handig.",
+      "3": "'Inkleden' gaat over hoe je iets zegt, niet over kleding."
+    },
+    "hint": "Van pyjama naar schoolkleren, voor het eerst die dag. Welk prefix hoort bij 'kleren aantrekken'?",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "spreektaal"
+  },
+  {
+    "sentence": "De kinderen lopen nog in hun pyjama; we kunnen pas weg als ze ______ zijn.",
+    "options": ["aangekleed", "omgekleed", "verkleed", "uitgekleed"],
+    "correct": 0,
+    "explanation": "'Aangekleed zijn' = je kleren aanhebben, klaar voor de dag. Van pyjama naar kleren = aankleden, en als scheidbaar werkwoord krijgt het 'ge' tussen prefix en stam: aan-ge-kleed.",
+    "wrongExplanations": {
+      "1": "'Omgekleed' = van de ene kleding naar de andere gewisseld. Een pyjama uitdoen en dagkleren aandoen noem je aankleden, niet omkleden.",
+      "2": "'Verkleed' = in een kostuum. De kinderen gaan niet als piraat de deur uit.",
+      "3": "'Uitgekleed' = zonder kleren. Dan kunnen ze zeker niet weg."
+    },
+    "hint": "De kinderen moeten van pyjama naar gewone kleren. Welk voltooid deelwoord hoort bij 'kleren aantrekken'?",
+    "tense": "perfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Terwijl hij zich 's ochtends ______, luisterde hij naar het nieuws op de radio.",
+    "options": ["aankleedde", "verkleedde", "omkleedde", "uitkleedde"],
+    "correct": 0,
+    "explanation": "'Zich aankleden' = je kleren aantrekken aan het begin van de dag. In de bijzin met 'terwijl' blijft het scheidbare werkwoord bij elkaar: 'zich aankleedde'.",
+    "wrongExplanations": {
+      "1": "'Zich verkleden' = een kostuum aantrekken. Dat is geen normale ochtendroutine.",
+      "2": "'Zich omkleden' = van kleding wisselen. 's Ochtends trek je je eerste kleren aan; er valt nog niets te wisselen.",
+      "3": "'Zich uitkleden' = kleren uittrekken. Dat doe je 's avonds, niet 's ochtends bij het opstaan."
+    },
+    "hint": "Ochtendroutine: kleren aantrekken voor de dag begint. Let op: in een bijzin blijft het werkwoord heel.",
+    "tense": "imperfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ben je nóg niet ______? De taxi staat er al en jij loopt nog in je badjas!",
+    "options": ["aangekleed", "omgekleed", "verkleed", "uitgekleed"],
+    "correct": 0,
+    "explanation": "'Aangekleed zijn' = je kleren aanhebben. Wie nog in zijn badjas loopt, is niet aangekleed.",
+    "wrongExplanations": {
+      "1": "'Omgekleed' = van de ene outfit naar de andere gewisseld. Een badjas is geen outfit; hier gaat het om überhaupt kleren aandoen.",
+      "2": "'Verkleed' = in een kostuum. Niemand verwacht een kostuum in de taxi.",
+      "3": "'Uitgekleed' = zonder kleren. De persoon is al te weinig gekleed, niet te veel."
+    },
+    "hint": "Badjas uit, kleren aan - dat moet nog gebeuren. Welk voltooid deelwoord hoort bij 'kleren aantrekken'?",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "spreektaal"
+  },
+  {
+    "sentence": "Zonder hulp kan mijn opa zich niet meer ______.",
+    "options": ["aankleden", "bekleden", "omkleden", "inkleden"],
+    "correct": 0,
+    "explanation": "'Zich aankleden' = je kleren aantrekken. Bij ouderen gaat het vaak om deze dagelijkse basishandeling waar hulp bij nodig is.",
+    "wrongExplanations": {
+      "1": "'Bekleden' = een oppervlak met materiaal bedekken of een functie vervullen. Een persoon bekleedt zichzelf niet met kleren.",
+      "2": "'Zich omkleden' = van kleding wisselen. Het gaat hier om de basishandeling kleren aantrekken, niet om wisselen.",
+      "3": "'Inkleden' = een boodschap formuleren. Dat doe je met woorden, niet met kleren."
+    },
+    "hint": "Het gaat om de dagelijkse handeling waarvoor opa hulp nodig heeft: kleren aandoen. Welk prefix hoort daarbij?",
+    "tense": "infinitive",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De gemeente wil het kale plein ______ met bomen en bankjes.",
+    "options": ["aankleden", "bekleden", "verkleden", "uitkleden"],
+    "correct": 0,
+    "explanation": "'Aankleden' = figuurlijk: een kale plek aantrekkelijker maken met extra elementen. Net als bij een ruimte kun je ook een plein 'aankleden'.",
+    "wrongExplanations": {
+      "1": "'Bekleden' = een oppervlak bedekken met materiaal, zoals stof op een stoel. Bomen en bankjes bedekken het plein niet.",
+      "2": "'Verkleden' = een kostuum aantrekken. Een plein verkleedt zich niet.",
+      "3": "'Uitkleden' = figuurlijk juist het tegenovergestelde: iets kaler maken, ergens dingen van afhalen."
+    },
+    "hint": "Het plein is kaal en moet aantrekkelijker worden. Welk werkwoord gebruik je figuurlijk voor 'versieren met extra's'?",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Je presentatie is goed, maar je kunt hem nog wat ______ met voorbeelden en beelden.",
+    "options": ["aankleden", "inkleden", "bekleden", "omkleden"],
+    "correct": 0,
+    "explanation": "'Aankleden' = figuurlijk: iets aantrekkelijker of levendiger maken door er dingen aan toe te voegen. Een presentatie kleed je aan met voorbeelden en beelden.",
+    "wrongExplanations": {
+      "1": "'Inkleden' = de vorm of toon van een boodschap kiezen, vooral bij gevoelige onderwerpen. Hier gaat het om extra's toevoegen, niet om de toon.",
+      "2": "'Bekleden' = een oppervlak bedekken of een functie vervullen. Een presentatie bekleed je niet.",
+      "3": "'Omkleden' = van kleding wisselen, of formeel 'met redenen omkleden'. Geen van beide past bij voorbeelden toevoegen."
+    },
+    "hint": "De presentatie krijgt extra's om hem levendiger te maken. Welk werkwoord betekent figuurlijk 'verrijken met extra's'?",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Na het sporten kleed ik me altijd ______ in de kleedkamer.",
+    "options": ["om", "aan", "uit", "in"],
+    "correct": 0,
+    "explanation": "'Zich omkleden' = je sportkleren uitdoen en andere kleren aandoen: je wisselt van kleding. Precies wat je na het sporten doet.",
+    "wrongExplanations": {
+      "1": "'Zich aankleden' = kleren aantrekken terwijl je nog niets (of pyjama) draagt. Na het sporten draag je al kleren; je wisselt ze.",
+      "2": "'Zich uitkleden' is maar de helft van het verhaal: je trekt ook weer iets anders aan. Voor de hele wissel gebruik je omkleden.",
+      "3": "'Inkleden' gaat over het formuleren van een boodschap, niet over kleding."
+    },
+    "hint": "Sportkleren uit, gewone kleren aan: een wissel. Welk prefix hoort bij 'van kleding wisselen'?",
+    "tense": "present",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ik ben doorweekt van de regen. Ik ga me even ______.",
+    "options": ["omkleden", "uitkleden", "verkleden", "aankleden"],
+    "correct": 0,
+    "explanation": "'Zich omkleden' = natte of vieze kleren uitdoen en droge, schone kleren aandoen. Bij een kledingwissel gebruik je omkleden.",
+    "wrongExplanations": {
+      "1": "'Zich uitkleden' = alleen je kleren uittrekken. De spreker wil ook droge kleren aan; dat hele proces heet omkleden.",
+      "2": "'Zich verkleden' = een kostuum aantrekken. Natte kleren wisselen voor droge is praktisch, geen verkleedpartij.",
+      "3": "'Zich aankleden' = kleren aantrekken als je nog niets draagt. De spreker draagt al kleren; ze zijn alleen nat."
+    },
+    "hint": "Natte kleren uit, droge kleren aan: een wissel. Welk werkwoord beschrijft dat hele proces?",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "spreektaal"
+  },
+  {
+    "sentence": "Voor het diner kleedde ze zich snel ______.",
+    "options": ["om", "aan", "uit", "in"],
+    "correct": 0,
+    "explanation": "'Zich omkleden' = andere kleren aantrekken voor een gelegenheid. Ze draagt al kleren en wisselt naar iets netters voor het diner.",
+    "wrongExplanations": {
+      "1": "'Zich aankleden' gebruik je als iemand nog geen kleren draagt. Voor een diner wissel je van outfit; dat is omkleden.",
+      "2": "'Zich uitkleden' = kleren uittrekken zonder iets nieuws aan te doen. Zo kun je niet aan tafel verschijnen.",
+      "3": "'Inkleden' = een boodschap formuleren. Dat doe je niet met kleding."
+    },
+    "hint": "Van dagkleding naar nettere kleding: een wissel voor een gelegenheid. Welk los prefix hoort daarbij?",
+    "tense": "imperfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Het besluit van de rechter moet met redenen ______ zijn.",
+    "options": ["omkleed", "bekleed", "ingekleed", "aangekleed"],
+    "correct": 0,
+    "explanation": "'Met redenen omkleed' = voorzien van een duidelijke motivering. Vaste juridische uitdrukking. Hier is 'omkleden' onscheidbaar (omkléden), dus het deelwoord krijgt geen 'ge': omkleed, niet omgekleed.",
+    "wrongExplanations": {
+      "1": "'Bekleed' hoort bij een functie vervullen of een oppervlak bedekken. 'Met redenen bekleed' bestaat niet.",
+      "2": "'Ingekleed' = op een bepaalde manier geformuleerd. Dat gaat over de toon, niet over de verplichte motivering; de vaste uitdrukking is 'met redenen omkleed'.",
+      "3": "'Aangekleed' = van kleding of decoratie voorzien. Een besluit kleed je niet aan met redenen."
+    },
+    "hint": "Vaste formele uitdrukking: een besluit moet 'met redenen ______' zijn. Let op: dit werkwoord is hier onscheidbaar, dus zonder 'ge'.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Hij heeft zich na het werk ______ voordat hij naar het feest ging.",
+    "options": ["omgekleed", "omkleed", "verkleed", "aangekleed"],
+    "correct": 0,
+    "explanation": "'Zich omkleden' = werkkleren uit, feestkleren aan. In de kledingbetekenis is omkleden scheidbaar, dus het deelwoord krijgt 'ge' in het midden: om-ge-kleed.",
+    "wrongExplanations": {
+      "1": "'Omkleed' zonder 'ge' is het deelwoord van het onscheidbare omkléden, dat alleen voorkomt in formele uitdrukkingen zoals 'met redenen omkleed'. Voor kleding is het omgekleed.",
+      "2": "'Verkleed' = in een kostuum. Naar een gewoon feest ga je in nette kleren, niet in een kostuum.",
+      "3": "'Aangekleed' = kleren aangetrokken terwijl je nog niets droeg. Na het werk droeg hij al kleren; hij wisselde ze."
+    },
+    "hint": "Werkkleren uit, feestkleren aan. Is dit werkwoord in de kledingbetekenis scheidbaar of onscheidbaar - en wat doet dat met 'ge'?",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Neem je sportkleren mee; je kunt je op school ______.",
+    "options": ["omkleden", "verkleden", "aankleden", "uitkleden"],
+    "correct": 0,
+    "explanation": "'Zich omkleden' = je gewone kleren wisselen voor je sportkleren. Voor de gymles kleed je je om.",
+    "wrongExplanations": {
+      "1": "'Zich verkleden' = een kostuum aantrekken. Sportkleren zijn praktische kleding, geen kostuum.",
+      "2": "'Zich aankleden' = kleren aantrekken als je nog niets draagt. Op school draag je al kleren; je wisselt ze.",
+      "3": "'Zich uitkleden' = alleen kleren uittrekken. Je trekt ook sportkleren aan; de hele wissel heet omkleden."
+    },
+    "hint": "Gewone kleren uit, sportkleren aan: een praktische wissel. Welk werkwoord hoort daarbij?",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De actrice moest zich tussen twee scènes razendsnel ______.",
+    "options": ["omkleden", "verkleden", "aankleden", "bekleden"],
+    "correct": 0,
+    "explanation": "'Zich omkleden' = van het ene kostuum naar het andere wisselen. Ook bij kostuums gebruik je omkleden als het om de praktische wissel gaat.",
+    "wrongExplanations": {
+      "1": "'Zich verkleden' = je als iets of iemand anders aankleden. De actrice is al verkleed; tussen scènes gaat het om de snelle wissel, en dat is omkleden.",
+      "2": "'Zich aankleden' = kleren aantrekken als je nog niets draagt. De actrice draagt al een kostuum.",
+      "3": "'Bekleden' = een oppervlak bedekken of een functie vervullen. Dat past niet bij kostuums wisselen."
+    },
+    "hint": "Het gaat niet om het kostuum zelf, maar om de snelle wissel van outfit A naar outfit B. Welk werkwoord beschrijft een wissel?",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze zei dat ze zich nog even wilde ______ voordat de gasten kwamen.",
+    "options": ["omkleden", "verkleden", "uitkleden", "bekleden"],
+    "correct": 0,
+    "explanation": "'Zich omkleden' = iets anders aantrekken, bijvoorbeeld nettere kleren voor bezoek. Een gewone kledingwissel voor een gelegenheid.",
+    "wrongExplanations": {
+      "1": "'Zich verkleden' = een kostuum aantrekken. Voor gasten trek je nettere kleren aan, geen kostuum.",
+      "2": "'Zich uitkleden' = kleren uittrekken zonder iets nieuws aan te doen. Zo ontvang je geen gasten.",
+      "3": "'Bekleden' = een oppervlak bedekken of een functie vervullen. Dat doe je niet met jezelf voor een feestje."
+    },
+    "hint": "Er komt bezoek, dus ze wil iets netters aantrekken: een wissel. Welk werkwoord hoort daarbij?",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ik ga me even ______, dit pak zit veel te warm.",
+    "options": ["omkleden", "uitkleden", "verkleden", "aankleden"],
+    "correct": 0,
+    "explanation": "'Zich omkleden' = iets anders aantrekken. Het warme pak gaat uit en er komt iets luchtigers voor in de plaats.",
+    "wrongExplanations": {
+      "1": "'Zich uitkleden' = alleen je kleren uittrekken. De spreker trekt ook iets anders aan; die hele wissel heet omkleden.",
+      "2": "'Zich verkleden' = een kostuum aantrekken. Een te warm pak wisselen is praktisch, geen verkleedpartij.",
+      "3": "'Zich aankleden' = kleren aantrekken als je nog niets draagt. De spreker draagt al een pak."
+    },
+    "hint": "Het pak gaat uit en er komt iets anders voor in de plaats. Welk werkwoord beschrijft die wissel?",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "spreektaal"
+  },
+  {
+    "sentence": "Er is geen kleedkamer, dus de spelers moeten zich in de auto ______.",
+    "options": ["omkleden", "verkleden", "aankleden", "bekleden"],
+    "correct": 0,
+    "explanation": "'Zich omkleden' = van gewone kleren naar sportkleren wisselen. Zonder kleedkamer gebeurt dat dan maar in de auto.",
+    "wrongExplanations": {
+      "1": "'Zich verkleden' = een kostuum aantrekken. Sporttenues zijn geen kostuums.",
+      "2": "'Zich aankleden' = kleren aantrekken als je nog niets draagt. De spelers dragen al kleren; ze wisselen naar hun tenue.",
+      "3": "'Bekleden' = een oppervlak bedekken met materiaal. De spelers bekleden de auto niet."
+    },
+    "hint": "Gewone kleren uit, tenue aan - normaal doe je dat in een kleedkamer. Welk werkwoord hoort bij die wissel?",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Met carnaval mogen de kinderen zich ______ als piraat of prinses.",
+    "options": ["verkleden", "omkleden", "aankleden", "uitkleden"],
+    "correct": 0,
+    "explanation": "'Zich verkleden' = je aankleden als iets of iemand anders, met een kostuum. Hét werkwoord voor carnaval, Halloween en verkleedfeestjes.",
+    "wrongExplanations": {
+      "1": "'Zich omkleden' = van de ene gewone kleding naar de andere wisselen. Een piratenkostuum aantrekken is geen gewone wissel, maar verkleden.",
+      "2": "'Zich aankleden' = gewoon je kleren aantrekken. Een kostuum aandoen om iemand anders te zijn heet verkleden.",
+      "3": "'Zich uitkleden' = kleren uittrekken. Bij carnaval trek je juist iets bijzonders aan."
+    },
+    "hint": "Een kostuum aandoen om iemand anders te zijn. Welk prefix hoort bij 'veranderen in'?",
+    "tense": "infinitive",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij had zich ______ als kerstman, dus niemand herkende hem.",
+    "options": ["verkleed", "omgekleed", "aangekleed", "uitgekleed"],
+    "correct": 0,
+    "explanation": "'Zich verkleden als' = een kostuum aantrekken om iemand anders te lijken. 'Verkleden' begint met het onbeklemtoonde 'ver-', dus het deelwoord krijgt geen 'ge': verkleed.",
+    "wrongExplanations": {
+      "1": "'Omgekleed' = van kleding gewisseld. Dat verklaart niet waarom niemand hem herkende; een kostuum als iemand anders is verkleden.",
+      "2": "'Aangekleed' = kleren aangetrokken. Iedereen is aangekleed; daar word je niet onherkenbaar van.",
+      "3": "'Uitgekleed' = zonder kleren. Dan was hij om een heel andere reden opgevallen."
+    },
+    "hint": "Hij was onherkenbaar omdat hij eruitzag als iemand anders. Welk werkwoord hoort bij een kostuum - en let op: het deelwoord heeft geen 'ge'.",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Waarom loop jij als cowboy rond? — Het is een themafeest, iedereen moest zich ______.",
+    "options": ["verkleden", "omkleden", "aankleden", "inkleden"],
+    "correct": 0,
+    "explanation": "'Zich verkleden' = een kostuum aantrekken. Op een themafeest komt iedereen verkleed, bijvoorbeeld als cowboy.",
+    "wrongExplanations": {
+      "1": "'Zich omkleden' = gewone kleren wisselen. Een cowboykostuum is geen gewone kledingwissel maar een verkleedpartij.",
+      "2": "'Zich aankleden' = je kleren aantrekken. Dat doet iedereen elke dag; hier gaat het om kostuums.",
+      "3": "'Inkleden' = een boodschap formuleren. Dat heeft niets met een themafeest te maken."
+    },
+    "hint": "Themafeest plus cowboykostuum: iedereen komt als iets of iemand anders. Welk werkwoord hoort daarbij?",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "spreektaal"
+  },
+  {
+    "sentence": "Voor Halloween wil ze zich dit jaar ______ als heks.",
+    "options": ["verkleden", "omkleden", "bekleden", "aankleden"],
+    "correct": 0,
+    "explanation": "'Zich verkleden als' = een kostuum aantrekken om eruit te zien als iets of iemand anders. Vaste combinatie: je verkleedt je áls heks, piraat, prinses.",
+    "wrongExplanations": {
+      "1": "'Zich omkleden' = gewone kleding wisselen. 'Zich omkleden als heks' bestaat niet; bij kostuums hoort verkleden.",
+      "2": "'Bekleden' = een oppervlak bedekken of een functie vervullen. Je kunt jezelf niet 'bekleden als heks'.",
+      "3": "'Zich aankleden' = je kleren aantrekken. Voor een heksenkostuum gebruik je verkleden."
+    },
+    "hint": "Halloween, kostuum, 'als heks'. Welk werkwoord combineert vast met 'als'?",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De juf zei dat alle kinderen zich morgen als hun lievelingsdier mogen ______.",
+    "options": ["verkleden", "omkleden", "aankleden", "bekleden"],
+    "correct": 0,
+    "explanation": "'Zich verkleden als' = een kostuum aantrekken. Een verkleeddag op school: de kinderen komen als hun lievelingsdier.",
+    "wrongExplanations": {
+      "1": "'Zich omkleden' = gewone kleding wisselen. Als dier naar school komen is verkleden, geen gewone wissel.",
+      "2": "'Zich aankleden' = je kleren aantrekken. Hier gaat het om dierenkostuums, dus verkleden.",
+      "3": "'Bekleden' = een oppervlak bedekken of een functie vervullen. Kinderen bekleden zich niet als dier."
+    },
+    "hint": "De kinderen komen morgen als dier naar school: een kostuum dus. Welk werkwoord hoort bij 'als'?",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Elk jaar ______ mijn oom zich als Sinterklaas voor de kinderen uit de buurt.",
+    "options": ["verkleedt", "bekleedt", "omkleedt", "inkleedt"],
+    "correct": 0,
+    "explanation": "'Zich verkleden als' = een kostuum aantrekken. 'Verkleden' is onscheidbaar, dus de vorm blijft in één woord: hij verkleedt zich.",
+    "wrongExplanations": {
+      "1": "'Bekleden' = een functie vervullen of een oppervlak bedekken. Je 'bekleedt je' niet als Sinterklaas.",
+      "2": "'Omkleden' is in de kledingbetekenis scheidbaar: dan zou er 'kleedt ... om' staan, met het prefix los. Bovendien is een Sinterklaaspak een kostuum, dus verkleden.",
+      "3": "'Inkleden' = een boodschap formuleren. Dat past hier niet."
+    },
+    "hint": "Een Sinterklaaspak is een kostuum. Welk onscheidbaar werkwoord blijft hier in één woord staan?",
+    "tense": "present",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Wat ben jij nou? — Ik ben ______ als zombie, zie je dat niet?",
+    "options": ["verkleed", "omgekleed", "aangekleed", "bekleed"],
+    "correct": 0,
+    "explanation": "'Verkleed zijn als' = een kostuum dragen. Het deelwoord van 'verkleden' krijgt geen 'ge', want 'ver-' is een onbeklemtoond voorvoegsel.",
+    "wrongExplanations": {
+      "1": "'Omgekleed' = van kleding gewisseld. Een zombiekostuum dragen is verkleed zijn, niet omgekleed zijn.",
+      "2": "'Aangekleed' = kleren aanhebben. Dat zegt niets over een kostuum.",
+      "3": "'Bekleed' hoort bij meubels of functies, niet bij personen in kostuum."
+    },
+    "hint": "Een zombiekostuum: je ziet eruit als iets anders. Welk deelwoord zonder 'ge' hoort daarbij?",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "spreektaal"
+  },
+  {
+    "sentence": "Voor de schoolmusical werden alle leerlingen ______ als dieren uit de jungle.",
+    "options": ["verkleed", "omgekleed", "aangekleed", "bekleed"],
+    "correct": 0,
+    "explanation": "'Iemand verkleden als' = iemand een kostuum aantrekken. Voor een musical worden de leerlingen verkleed als dieren.",
+    "wrongExplanations": {
+      "1": "'Omgekleed' = van kleding gewisseld. Dierenkostuums aantrekken voor een voorstelling is verkleden.",
+      "2": "'Aangekleed' = van kleren voorzien. De leerlingen droegen al kleren; ze kregen kostuums.",
+      "3": "'Bekleed' gebruik je voor meubels en functies, niet voor kinderen in dierenpakken."
+    },
+    "hint": "Kostuums voor een voorstelling, 'als dieren'. Welk werkwoord combineert met 'als'?",
+    "tense": "imperfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Moet ik me ______ voor je feestje? — Nee joh, kom gewoon zoals je bent.",
+    "options": ["verkleden", "omkleden", "aankleden", "uitkleden"],
+    "correct": 0,
+    "explanation": "'Zich verkleden' = een kostuum aantrekken. De vraag is of het een verkleedfeest is; het antwoord 'kom zoals je bent' maakt duidelijk van niet.",
+    "wrongExplanations": {
+      "1": "'Zich omkleden' = iets anders aantrekken. Dat kan ook, maar 'kom gewoon zoals je bent' is het antwoord op de vraag of er een kostuum nodig is.",
+      "2": "'Zich aankleden' = je kleren aantrekken. Dat je aangekleed komt, is wel duidelijk; de vraag gaat over een kostuum.",
+      "3": "'Zich uitkleden' = kleren uittrekken. Dat vraag je niet voor een feestje."
+    },
+    "hint": "De vraag is of het een feest met kostuums is. Welk werkwoord hoort bij kostuums?",
+    "tense": "infinitive",
+    "wordOrder": "inversion",
+    "register": "spreektaal"
+  },
+  {
+    "sentence": "De dokter vroeg of ik me tot op mijn ondergoed wilde ______.",
+    "options": ["uitkleden", "omkleden", "aankleden", "verkleden"],
+    "correct": 0,
+    "explanation": "'Zich uitkleden' = je kleren uittrekken. Bij een lichamelijk onderzoek vraagt de dokter je om je (gedeeltelijk) uit te kleden.",
+    "wrongExplanations": {
+      "1": "'Zich omkleden' = andere kleren aantrekken. Bij de dokter trek je niets nieuws aan; je trekt alleen uit.",
+      "2": "'Zich aankleden' = kleren aantrekken. Dat doe je pas weer ná het onderzoek.",
+      "3": "'Zich verkleden' = een kostuum aantrekken. Dat doe je niet in de spreekkamer."
+    },
+    "hint": "Kleren uittrekken voor een onderzoek, niets nieuws aan. Welk prefix hoort bij 'uittrekken'?",
+    "tense": "infinitive",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Kleed de baby maar ______, dan kan hij zo in bad.",
+    "options": ["uit", "aan", "om", "in"],
+    "correct": 0,
+    "explanation": "'Iemand uitkleden' = iemands kleren uittrekken. Voor het bad gaan de kleertjes uit. In de gebiedende wijs staat het prefix los achteraan.",
+    "wrongExplanations": {
+      "1": "'Aankleden' = kleren aantrekken. Dat doe je pas weer ná het bad.",
+      "2": "'Omkleden' = andere kleren aantrekken. In bad draag je helemaal niets, dus de kleren gaan alleen uit.",
+      "3": "'Inkleden' = een boodschap formuleren. Dat past niet bij een baby in bad."
+    },
+    "hint": "Voor het bad moeten alle kleertjes uit. Welk los prefix hoort bij 'uittrekken'?",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij was zo moe dat hij zich niet eens meer ______ en in zijn kleren in slaap viel.",
+    "options": ["uitkleedde", "aankleedde", "omkleedde", "verkleedde"],
+    "correct": 0,
+    "explanation": "'Zich uitkleden' = je kleren uittrekken, normaal gesproken vóór het slapen. Hij sliep in zijn kleren, dus dat is precies wat hij oversloeg.",
+    "wrongExplanations": {
+      "1": "'Zich aankleden' = kleren aantrekken. Hij had zijn kleren al aan; daarin viel hij juist in slaap.",
+      "2": "'Zich omkleden' = andere kleren aantrekken. Voor het slapen trek je kleren uit, je wisselt ze niet.",
+      "3": "'Zich verkleden' = een kostuum aantrekken. Dat doe je niet voor het slapengaan."
+    },
+    "hint": "Hij viel in slaap mét zijn kleren aan. Welke stap vóór het slapen heeft hij overgeslagen?",
+    "tense": "imperfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De nieuwe directie heeft de regeling zo ver ______ dat er bijna niets van overblijft.",
+    "options": ["uitgekleed", "aangekleed", "omgekleed", "ingekleed"],
+    "correct": 0,
+    "explanation": "'Uitkleden' = figuurlijk: iets steeds verder versoberen, er onderdelen van afhalen tot er weinig overblijft. Vaak gebruikt voor regelingen, budgetten en voorzieningen.",
+    "wrongExplanations": {
+      "1": "'Aangekleed' = figuurlijk juist het tegenovergestelde: verrijkt met extra's.",
+      "2": "'Omgekleed' = van kleding gewisseld. Een regeling kan zich niet omkleden.",
+      "3": "'Ingekleed' = op een bepaalde manier geformuleerd. Hier verdwijnt de inhoud zelf; het gaat niet om de formulering."
+    },
+    "hint": "Er wordt steeds meer van de regeling afgehaald tot er bijna niets overblijft. Welk werkwoord betekent figuurlijk 'kaal maken'?",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Na het zwemmen kleedden we de kinderen ______ en spoelden we het zand eraf.",
+    "options": ["uit", "aan", "om", "in"],
+    "correct": 0,
+    "explanation": "'Iemand uitkleden' = iemands kleren (hier: natte zwemkleren) uittrekken. Eerst alles uit, dan afspoelen.",
+    "wrongExplanations": {
+      "1": "'Aankleden' = kleren aantrekken. Dat komt pas na het afspoelen.",
+      "2": "'Omkleden' = andere kleren aantrekken. Tijdens het afspoelen dragen ze niets; eerst gaat alles alleen uit.",
+      "3": "'Inkleden' = een boodschap formuleren. Dat past niet bij kinderen afspoelen."
+    },
+    "hint": "Eerst moeten de natte zwemspullen uit, daarna pas afspoelen. Welk los prefix hoort bij 'uittrekken'?",
+    "tense": "imperfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "In de sauna is het normaal dat iedereen zich helemaal ______.",
+    "options": ["uitkleedt", "aankleedt", "omkleedt", "verkleedt"],
+    "correct": 0,
+    "explanation": "'Zich uitkleden' = al je kleren uittrekken. In de bijzin blijft het scheidbare werkwoord in één woord staan: 'zich uitkleedt'.",
+    "wrongExplanations": {
+      "1": "'Zich aankleden' = kleren aantrekken. In de sauna doe je je kleren juist uit.",
+      "2": "'Zich omkleden' = andere kleren aantrekken. In de sauna draag je niets, dus er valt niets te wisselen.",
+      "3": "'Zich verkleden' = een kostuum aantrekken. Dat doe je zeker niet in de sauna."
+    },
+    "hint": "In de sauna draag je niets. Welk werkwoord hoort bij 'alle kleren uittrekken'?",
+    "tense": "present",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Met zulke hoge servicekosten word je als huurder gewoon ______.",
+    "options": ["uitgekleed", "aangekleed", "omgekleed", "bekleed"],
+    "correct": 0,
+    "explanation": "'Iemand uitkleden' = figuurlijk: iemand veel te veel laten betalen, iemand financieel kaalplukken. Informele uitdrukking voor oneerlijk hoge kosten.",
+    "wrongExplanations": {
+      "1": "'Aangekleed' = figuurlijk: verrijkt met extra's. De huurder krijgt hier niets extra's; hij raakt juist geld kwijt.",
+      "2": "'Omgekleed' = van kleding gewisseld. Dat heeft niets met hoge kosten te maken.",
+      "3": "'Bekleed' hoort bij meubels of functies. 'Als huurder bekleed worden' bestaat niet."
+    },
+    "hint": "De huurder betaalt veel te veel en houdt bijna niets over. Welk werkwoord betekent figuurlijk 'financieel kaalplukken'?",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "spreektaal"
+  },
+  {
+    "sentence": "Heb je je al ______? Het bad staat klaar.",
+    "options": ["uitgekleed", "aangekleed", "omgekleed", "verkleed"],
+    "correct": 0,
+    "explanation": "'Zich uitkleden' = je kleren uittrekken. Voor het bad gaan de kleren uit; het deelwoord van dit scheidbare werkwoord is uit-ge-kleed.",
+    "wrongExplanations": {
+      "1": "'Aangekleed' = kleren aangetrokken. Met kleren aan stap je niet in bad.",
+      "2": "'Omgekleed' = andere kleren aangetrokken. In bad draag je niets, dus wisselen is niet nodig.",
+      "3": "'Verkleed' = in een kostuum. Ook dat is geen badkleding."
+    },
+    "hint": "Het bad staat klaar, dus de kleren moeten uit. Welk voltooid deelwoord hoort bij 'uittrekken'?",
+    "tense": "perfectum",
+    "wordOrder": "inversion",
+    "register": "spreektaal"
+  },
+  {
+    "sentence": "De stoelen in de wachtkamer zijn ______ met blauwe stof.",
+    "options": ["bekleed", "aangekleed", "omkleed", "verkleed"],
+    "correct": 0,
+    "explanation": "'Bekleden' = een oppervlak bedekken met een laag materiaal, zoals stof of leer. Vaste combinatie bij meubels: 'bekleed met stof'. Het deelwoord krijgt geen 'ge', want 'be-' is onbeklemtoond.",
+    "wrongExplanations": {
+      "1": "'Aangekleed' = figuurlijk versierd of van kleding voorzien. Bij een laag stof óver een meubel hoort bekleden.",
+      "2": "'Omkleed' komt alleen voor in formele uitdrukkingen zoals 'met redenen omkleed'. Voor meubels en stof gebruik je bekleden.",
+      "3": "'Verkleed' = in een kostuum. Stoelen dragen geen kostuums."
+    },
+    "hint": "Een laag stof over het oppervlak van een meubel. Welk werkwoord hoort bij 'bedekken met materiaal'?",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij heeft jarenlang de functie van voorzitter ______.",
+    "options": ["bekleed", "ingekleed", "omkleed", "aangekleed"],
+    "correct": 0,
+    "explanation": "'Een functie bekleden' = een (belangrijke) positie hebben of vervullen. Formele vaste combinatie, veel gebruikt in nieuws en officiële teksten.",
+    "wrongExplanations": {
+      "1": "'Ingekleed' = op een bepaalde manier geformuleerd. Een functie formuleer je niet; je bekleedt haar.",
+      "2": "'Omkleed' hoort bij de uitdrukking 'met redenen omkleed'. Bij een positie of ambt hoort bekleden.",
+      "3": "'Aangekleed' = versierd of van kleding voorzien. 'Een functie aankleden' is geen vaste combinatie."
+    },
+    "hint": "Vaste formele combinatie: een functie of ambt ______. Welk werkwoord betekent 'een positie vervullen'?",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Welke functie ______ zij precies bij de gemeente?",
+    "options": ["bekleedt", "verkleedt", "inkleedt", "omkleedt"],
+    "correct": 0,
+    "explanation": "'Een functie bekleden' = een positie vervullen. 'Bekleden' is onscheidbaar, dus de persoonsvorm blijft één woord: zij bekleedt.",
+    "wrongExplanations": {
+      "1": "'Verkleedt' hoort bij kostuums: 'zij verkleedt zich als heks'. Een functie verkleed je niet.",
+      "2": "'Inkleedt' hoort bij het formuleren van een boodschap, niet bij een positie.",
+      "3": "'Omkleedt' past hier niet: bij een functie hoort de vaste combinatie met bekleden."
+    },
+    "hint": "Het gaat om haar positie of baan bij de gemeente. Welk werkwoord vormt een vaste combinatie met 'functie'?",
+    "tense": "present",
+    "wordOrder": "inversion",
+    "register": "formeel"
+  },
+  {
+    "sentence": "We laten de oude bank opnieuw ______, want de stof is helemaal versleten.",
+    "options": ["bekleden", "aankleden", "omkleden", "uitkleden"],
+    "correct": 0,
+    "explanation": "'Bekleden' = een meubel bedekken met nieuw materiaal. Een versleten bank laat je opnieuw bekleden met nieuwe stof.",
+    "wrongExplanations": {
+      "1": "'Aankleden' = figuurlijk versieren met extra's. Hier wordt het oppervlak zelf vervangen; dat is bekleden.",
+      "2": "'Omkleden' = van kleding wisselen (personen) of 'met redenen omkleden' (formeel). Geen van beide past bij een bank.",
+      "3": "'Uitkleden' = kleren uittrekken of iets versoberen. De bank krijgt juist iets nieuws."
+    },
+    "hint": "De versleten stof wordt vervangen door nieuw materiaal over het meubel. Welk werkwoord hoort daarbij?",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "De muren van de studio zijn met geluidsisolerend materiaal ______.",
+    "options": ["bekleed", "omkleed", "aangekleed", "ingekleed"],
+    "correct": 0,
+    "explanation": "'Bekleden' = een oppervlak bedekken met een laag materiaal. Niet alleen meubels, ook muren en wanden kun je bekleden.",
+    "wrongExplanations": {
+      "1": "'Omkleed' hoort bij de formele uitdrukking 'met redenen omkleed'. Voor materiaal op een oppervlak gebruik je bekleden.",
+      "2": "'Aangekleed' = versierd, gezelliger gemaakt. Isolatiemateriaal is functioneel: het bedekt het oppervlak.",
+      "3": "'Ingekleed' = op een bepaalde manier geformuleerd. Muren formuleer je niet."
+    },
+    "hint": "Een laag materiaal over het hele oppervlak van de muren. Welk werkwoord hoort bij 'bedekken'?",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Het bestuur wil dat deze rol voortaan door een vrouw wordt ______.",
+    "options": ["bekleed", "verkleed", "aangekleed", "ingekleed"],
+    "correct": 0,
+    "explanation": "'Een rol of functie bekleden' = een positie vervullen. Formele vaste combinatie: een rol wordt door iemand bekleed.",
+    "wrongExplanations": {
+      "1": "'Verkleed' hoort bij kostuums. Een bestuursrol is geen kostuum.",
+      "2": "'Aangekleed' = versierd of van kleding voorzien. Een rol kleed je niet aan.",
+      "3": "'Ingekleed' = op een bepaalde manier geformuleerd. Het gaat hier om wie de positie krijgt, niet om de formulering."
+    },
+    "hint": "Het gaat om wie de positie gaat vervullen. Welk werkwoord vormt een vaste combinatie met 'een rol' of 'een functie'?",
+    "tense": "present",
+    "wordOrder": "bijzin",
+    "register": "formeel"
+  },
+  {
+    "sentence": "De binnenkant van de vioolkist is ______ met zacht fluweel.",
+    "options": ["bekleed", "aangekleed", "verkleed", "omkleed"],
+    "correct": 0,
+    "explanation": "'Bekleden met' = een oppervlak bedekken met een laag materiaal. De binnenkant van een kist of doos kan bekleed zijn met fluweel.",
+    "wrongExplanations": {
+      "1": "'Aangekleed' = versierd met extra's. Het fluweel versiert niet alleen; het bedekt het hele oppervlak.",
+      "2": "'Verkleed' = in een kostuum. Een vioolkist verkleedt zich niet.",
+      "3": "'Omkleed' komt alleen voor in formele uitdrukkingen zoals 'met redenen omkleed'."
+    },
+    "hint": "Het fluweel vormt een zachte laag over het hele binnenoppervlak. Welk werkwoord hoort bij 'bedekken met materiaal'?",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze kleedde haar kritiek zo voorzichtig ______ dat niemand zich aangevallen voelde.",
+    "options": ["in", "aan", "om", "uit"],
+    "correct": 0,
+    "explanation": "'Iets inkleden' = een boodschap op een bepaalde manier formuleren of verpakken, vooral bij gevoelige onderwerpen. Kritiek voorzichtig inkleden = haar vriendelijk verpakken.",
+    "wrongExplanations": {
+      "1": "'Aankleden' = figuurlijk: verrijken met extra's, zoals voorbeelden. Hier gaat het om de toon van de boodschap, niet om extra's.",
+      "2": "'Omkleden' past alleen in de formele uitdrukking 'met redenen omkleed'. Voor de toon van een boodschap gebruik je inkleden.",
+      "3": "'Uitkleden' = figuurlijk: iets versoberen of kaal maken. De kritiek wordt juist zorgvuldig verpakt."
+    },
+    "hint": "Het gaat om hóé ze de kritiek verwoordt: voorzichtig verpakt. Welk prefix hoort bij 'formuleren'?",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Denk goed na over hoe je zo'n gevoelig verzoek ______; de toon maakt veel uit.",
+    "options": ["inkleedt", "aankleedt", "uitkleedt", "bekleedt"],
+    "correct": 0,
+    "explanation": "'Een verzoek inkleden' = kiezen hoe je het formuleert en verpakt. Bij gevoelige verzoeken bepaalt de inkleding hoe de boodschap aankomt.",
+    "wrongExplanations": {
+      "1": "'Aankleden' = figuurlijk verrijken met extra's. Hier draait het om de toon en formulering, niet om toevoegingen.",
+      "2": "'Uitkleden' = figuurlijk versoberen. Het verzoek wordt niet kaler gemaakt; het wordt zorgvuldig verwoord.",
+      "3": "'Bekleden' hoort bij functies en meubels, niet bij het formuleren van een verzoek."
+    },
+    "hint": "De zin zegt het zelf: de toon maakt veel uit. Welk werkwoord gaat over hoe je iets formuleert?",
+    "tense": "present",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hij heeft het slechte nieuws slim ______, zodat het minder hard aankwam.",
+    "options": ["ingekleed", "aangekleed", "bekleed", "omkleed"],
+    "correct": 0,
+    "explanation": "'Iets inkleden' = een boodschap zo formuleren en verpakken dat ze goed aankomt. Slecht nieuws slim inkleden verzacht de klap.",
+    "wrongExplanations": {
+      "1": "'Aangekleed' = figuurlijk verrijkt met extra's. Het nieuws krijgt geen extra's; het wordt anders verpakt.",
+      "2": "'Bekleed' hoort bij functies en meubels. Nieuws bekleed je niet.",
+      "3": "'Omkleed' hoort bij de formele uitdrukking 'met redenen omkleed'. Hier gaat het om de verpakking van de boodschap."
+    },
+    "hint": "De boodschap zelf blijft slecht, maar de verpakking verzacht hem. Welk werkwoord gaat over het verpakken van een boodschap?",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Hoe je een afwijzing ______, bepaalt hoe die bij de ander overkomt.",
+    "options": ["inkleedt", "aankleedt", "omkleedt", "verkleedt"],
+    "correct": 0,
+    "explanation": "'Een afwijzing inkleden' = kiezen met welke woorden en toon je haar brengt. De inkleding bepaalt hoe de boodschap overkomt.",
+    "wrongExplanations": {
+      "1": "'Aankleedt' = figuurlijk verrijkt met extra's. Een afwijzing maak je niet leuker met extra's; je kiest de juiste verpakking.",
+      "2": "'Omkleedt' past alleen in de formele uitdrukking 'met redenen omkleed'.",
+      "3": "'Verkleedt' hoort bij kostuums. Een afwijzing trek je geen kostuum aan."
+    },
+    "hint": "Dezelfde boodschap kan zacht of hard klinken, afhankelijk van de woorden. Welk werkwoord gaat over die formulering?",
+    "tense": "present",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Voor een sollicitatiegesprek moet je netjes ______ zijn.",
+    "options": ["gekleed", "aangekleed", "verkleed", "omgekleed"],
+    "correct": 0,
+    "explanation": "'Netjes gekleed zijn' = nette kleding dragen. Bij hoe iemand erbij loopt gebruik je het kale 'gekleed': goed gekleed, netjes gekleed, sportief gekleed.",
+    "wrongExplanations": {
+      "1": "'Aangekleed zijn' = überhaupt kleren aanhebben. Dat je bij een sollicitatie kleren draagt, is duidelijk; het gaat om hóé je gekleed bent.",
+      "2": "'Verkleed zijn' = een kostuum dragen. Daarmee maak je geen goede indruk bij een sollicitatie.",
+      "3": "'Omgekleed zijn' = van kleding gewisseld zijn. Het gaat niet om de wissel, maar om hoe je eruitziet."
+    },
+    "hint": "Het gaat om de stijl van je kleding, niet om het aantrekken zelf. Welk kaal deelwoord gebruik je bij 'netjes' of 'goed'?",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze gaat altijd ______ in het zwart, zelfs in de zomer.",
+    "options": ["gekleed", "aangekleed", "verkleed", "bekleed"],
+    "correct": 0,
+    "explanation": "'Gekleed gaan in' = bepaalde kleding dragen als stijl. Vaste combinatie: gekleed gaan in het zwart, in pak, in vintage kleren.",
+    "wrongExplanations": {
+      "1": "'Aangekleed gaan' is geen vaste combinatie. Bij een kledingstijl hoort 'gekleed gaan in'.",
+      "2": "'Verkleed gaan' zou betekenen dat ze een kostuum draagt. Zwarte kleding is een stijl, geen kostuum.",
+      "3": "'Bekleed' hoort bij meubels en functies, niet bij hoe iemand zich kleedt."
+    },
+    "hint": "Vaste uitdrukking voor iemands kledingstijl: '______ gaan in'. Welk kaal deelwoord hoort daarin?",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Trek een dikke jas aan; je moet goed ______ zijn op die kou.",
+    "options": ["gekleed", "aangekleed", "omgekleed", "uitgekleed"],
+    "correct": 0,
+    "explanation": "'Gekleed zijn op' = kleding dragen die past bij de situatie of het weer. Vaste combinatie: gekleed op de kou, op het weer, op de gelegenheid.",
+    "wrongExplanations": {
+      "1": "'Aangekleed zijn op' is geen vaste combinatie. Bij passende kleding voor een situatie hoort 'gekleed zijn op'.",
+      "2": "'Omgekleed zijn' = van kleding gewisseld zijn. Het gaat niet om wisselen, maar om de juiste kleding voor de kou.",
+      "3": "'Uitgekleed zijn' = geen kleren aanhebben. Dan heb je het pas écht koud."
+    },
+    "hint": "Je kleding moet passen bij het weer. Welk kaal deelwoord combineert met 'op de kou'?",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Iedereen liep in pak en ik voelde me veel te casual ______ voor die bruiloft.",
+    "options": ["gekleed", "aangekleed", "verkleed", "omgekleed"],
+    "correct": 0,
+    "explanation": "'Te casual gekleed' = kleding dragen die te informeel is voor de gelegenheid. Bij stijl en gepastheid gebruik je het kale 'gekleed'.",
+    "wrongExplanations": {
+      "1": "'Aangekleed' = kleren aanhebben. De spreker had kleren aan; ze pasten alleen niet bij de gelegenheid.",
+      "2": "'Verkleed' = in een kostuum. Te informele kleding is geen kostuum.",
+      "3": "'Omgekleed' = van kleding gewisseld. Dat had de spreker misschien moeten doen, maar het gevoel gaat over de stijl: te casual gekleed."
+    },
+    "hint": "Het gaat om de stijl van de kleding ten opzichte van de gelegenheid. Welk kaal deelwoord hoort bij 'te casual'?",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "spreektaal"
+  },
+  {
+    "sentence": "De wandelaars gingen warm ______ op pad, want er stond een ijzige wind.",
+    "options": ["gekleed", "aangekleed", "bekleed", "omgekleed"],
+    "correct": 0,
+    "explanation": "'Warm gekleed' = warme kleding dragen. Vaste combinatie: warm gekleed op pad gaan, warm gekleed naar buiten.",
+    "wrongExplanations": {
+      "1": "'Warm aangekleed' hoor je soms, maar de vaste combinatie bij hoe je gekleed bent is het kale 'gekleed': warm gekleed op pad.",
+      "2": "'Bekleed' hoort bij meubels en oppervlakken. Wandelaars zijn niet bekleed.",
+      "3": "'Omgekleed' = van kleding gewisseld. Het gaat om wat ze droegen tijdens de tocht, niet om een wissel."
+    },
+    "hint": "Beschrijft hoe de wandelaars erbij liepen: met warme kleren. Welk kaal deelwoord hoort bij 'warm ______ op pad'?",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Veel mensen dragen graag zwart, omdat die kleur ______.",
+    "options": ["afkleedt", "aankleedt", "uitkleedt", "verkleedt"],
+    "correct": 0,
+    "explanation": "'Afkleden' = je slanker laten lijken. Vast idioom over kleding en kleuren: zwart kleedt af. Let op: hier is de kléúr het onderwerp, niet de persoon.",
+    "wrongExplanations": {
+      "1": "'Aankleden' = kleren aantrekken of iets versieren. Een kleur kan je niet aankleden.",
+      "2": "'Uitkleedt' = kleren uittrekken of iets versoberen. Een kleur trekt niets uit; ze laat je slanker lijken.",
+      "3": "'Verkleedt' hoort bij kostuums. Een kleur verkleedt niemand."
+    },
+    "hint": "Waarom dragen mensen graag zwart? Het maakt je optisch slanker. Welk werkwoord betekent precies dat?",
+    "tense": "present",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Die donkere jurk kleedt lekker ______, vind je niet?",
+    "options": ["af", "aan", "om", "uit"],
+    "correct": 0,
+    "explanation": "'Afkleden' = je slanker laten lijken. Het kledingstuk of de kleur is het onderwerp: die jurk kleedt af. In de hoofdzin staat het prefix los.",
+    "wrongExplanations": {
+      "1": "'Aankleden' = kleren aantrekken of versieren. Een jurk die 'aankleedt' bestaat niet als uitdrukking.",
+      "2": "'Omkleden' = van kleding wisselen. Een jurk wisselt zelf niet van kleding.",
+      "3": "'Uitkleden' = kleren uittrekken of versoberen. De jurk doet het tegenovergestelde: ze flatteert."
+    },
+    "hint": "Donkere kleding flatteert: je lijkt er slanker door. Welk los prefix hoort bij dat idioom?",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "spreektaal"
+  },
+  {
+    "sentence": "Hij kwam zo laat thuis dat hij zich niet meer had ______ voor het feest; hij droeg nog zijn werkkleren.",
+    "options": ["omgekleed", "verkleed", "aangekleed", "omkleed"],
+    "correct": 0,
+    "explanation": "'Zich omkleden' = werkkleren wisselen voor nettere kleren. In de kledingbetekenis is het scheidbaar, dus het deelwoord is om-ge-kleed — ook in een bijzin: 'dat hij zich niet meer had omgekleed'.",
+    "wrongExplanations": {
+      "1": "'Verkleed' = in een kostuum. Naar een gewoon feest ga je in nette kleren, niet in een kostuum.",
+      "2": "'Aangekleed' = kleren aangetrokken. Hij had al kleren aan (zijn werkkleren); hij had ze alleen niet gewisseld.",
+      "3": "'Omkleed' zonder 'ge' is het onscheidbare deelwoord uit formele uitdrukkingen zoals 'met redenen omkleed'. Voor kleding is het omgekleed."
+    },
+    "hint": "Hij droeg nog zijn werkkleren: de wissel is niet gebeurd. Scheidbaar of onscheidbaar - en wat betekent dat voor 'ge'?",
+    "tense": "perfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Je kunt toch niet in je sportkleren naar de bruiloft? Kleed je even ______!",
+    "options": ["om", "aan", "uit", "in"],
+    "correct": 0,
+    "explanation": "'Je omkleden' = je sportkleren wisselen voor nette kleren. In de gebiedende wijs staat het prefix los achteraan: kleed je om!",
+    "wrongExplanations": {
+      "1": "'Je aankleden' = kleren aantrekken als je nog niets draagt. Hij draagt al kleren; ze zijn alleen niet geschikt.",
+      "2": "'Je uitkleden' = kleren uittrekken. Halfnaakt naar een bruiloft is geen verbetering.",
+      "3": "'Inkleden' = een boodschap formuleren. Dat helpt niet tegen sportkleren."
+    },
+    "hint": "Sportkleren uit, nette kleren aan: een wissel, als bevel. Welk los prefix hoort daarbij?",
+    "tense": "present",
+    "wordOrder": "standard",
+    "register": "spreektaal"
+  },
+  {
+    "sentence": "De kinderen mochten hun gewone kleren weer aantrekken nadat ze zich voor de foto als kabouter hadden ______.",
+    "options": ["verkleed", "omgekleed", "aangekleed", "uitgekleed"],
+    "correct": 0,
+    "explanation": "'Zich verkleden als' = een kostuum aantrekken. Kabouterpakjes voor een foto zijn kostuums, dus verkleden — ook al wisselen de kinderen daarna gewoon weer terug.",
+    "wrongExplanations": {
+      "1": "'Omgekleed' = van gewone kleding gewisseld. Zodra er een kostuum en 'als' in het spel is, gebruik je verkleden.",
+      "2": "'Aangekleed' = kleren aangetrokken. De kinderen droegen al kleren; ze kregen kostuums aan.",
+      "3": "'Uitgekleed' = kleren uitgetrokken. Er kwam juist een kabouterpak bij."
+    },
+    "hint": "Kostuum plus 'als kabouter'. Welk deelwoord zonder 'ge' hoort bij kostuums?",
+    "tense": "perfectum",
+    "wordOrder": "bijzin",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ga je nou maar snel ______ als clown, de voorstelling begint zo!",
+    "options": ["verkleden", "omkleden", "aankleden", "bekleden"],
+    "correct": 0,
+    "explanation": "'Zich verkleden als' = een kostuum aantrekken. Een clownspak is een kostuum, dus verkleden — niet omkleden.",
+    "wrongExplanations": {
+      "1": "'Zich omkleden' = gewone kleding wisselen. Met 'als clown' erbij hoort altijd verkleden.",
+      "2": "'Zich aankleden' = je kleren aantrekken. Hier gaat het om een clownspak, dus verkleden.",
+      "3": "'Bekleden' hoort bij meubels en functies, niet bij clownspakken."
+    },
+    "hint": "Er staat 'als clown' in de zin: een kostuum dus. Welk werkwoord combineert vast met 'als'?",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "spreektaal"
+  },
+  {
+    "sentence": "Volgens het verslag moest de verdachte zich bij de fouillering gedeeltelijk ______.",
+    "options": ["ontkleden", "omkleden", "verkleden", "bekleden"],
+    "correct": 0,
+    "explanation": "'Zich ontkleden' = formele variant van 'zich uitkleden'. Komt voor in officiële en geschreven taal: politieverslagen, medische teksten, reglementen.",
+    "wrongExplanations": {
+      "1": "'Zich omkleden' = andere kleren aantrekken. Bij een fouillering gaan kledingstukken alleen uit.",
+      "2": "'Zich verkleden' = een kostuum aantrekken. Dat gebeurt niet bij een fouillering.",
+      "3": "'Bekleden' = een oppervlak bedekken of een functie vervullen. Dat doet een verdachte hier niet."
+    },
+    "hint": "Officieel verslag, kleding moet uit. Welke formele variant van 'uitkleden' past bij deze schrijftaal?",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "De patiënt werd gevraagd zich tot het middel te ______ voor het onderzoek.",
+    "options": ["ontkleden", "omkleden", "aankleden", "verkleden"],
+    "correct": 0,
+    "explanation": "'Zich ontkleden' = formeel voor 'zich uitkleden'. Typisch medische schrijftaal: 'zich tot het middel ontkleden' = je bovenlichaam ontbloten. Het deelwoord krijgt geen 'ge': ontkleed.",
+    "wrongExplanations": {
+      "1": "'Zich omkleden' = andere kleren aantrekken. Voor het onderzoek gaat de kleding alleen uit.",
+      "2": "'Zich aankleden' = kleren aantrekken. Dat gebeurt pas weer na het onderzoek.",
+      "3": "'Zich verkleden' = een kostuum aantrekken. Dat hoort niet bij een medisch onderzoek."
+    },
+    "hint": "Medische context, kleding moet uit, formele toon. Welk werkwoord met onbeklemtoond voorvoegsel is de nette variant van 'uitkleden'?",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Zijn rompertje is helemaal nat geworden. Wil jij hem even ______?",
+    "options": ["omkleden", "verkleden", "aankleden", "inkleden"],
+    "correct": 0,
+    "explanation": "'Iemand omkleden' = iemand schone, droge kleren aandoen in plaats van de natte. Bij baby's hoor je dit dagelijks: even omkleden.",
+    "wrongExplanations": {
+      "1": "'Verkleden' = een kostuum aantrekken. Een schoon rompertje is geen kostuum.",
+      "2": "'Aankleden' = kleren aantrekken als iemand nog niets draagt. De baby draagt al een rompertje; het is alleen nat.",
+      "3": "'Inkleden' = een boodschap formuleren. Daar heeft de baby niets aan."
+    },
+    "hint": "Nat rompertje uit, droog rompertje aan: een wissel. Welk werkwoord beschrijft die wissel?",
+    "tense": "infinitive",
+    "wordOrder": "inversion",
+    "register": "spreektaal"
+  },
+  {
+    "sentence": "Wat een kale kamer, zeg. Die mag je nog wel wat ______.",
+    "options": ["aankleden", "bekleden", "omkleden", "verkleden"],
+    "correct": 0,
+    "explanation": "'Een kamer aankleden' = figuurlijk: gezelliger maken met planten, kussens, posters. Een kale ruimte kleed je aan.",
+    "wrongExplanations": {
+      "1": "'Bekleden' = een oppervlak bedekken met materiaal. De kamer wordt versierd, niet bedekt.",
+      "2": "'Omkleden' = van kleding wisselen of 'met redenen omkleden'. Geen van beide past bij een kale kamer.",
+      "3": "'Verkleden' = een kostuum aantrekken. Een kamer verkleedt zich niet."
+    },
+    "hint": "De kamer is te kaal en moet gezelliger. Welk werkwoord gebruik je figuurlijk voor 'versieren'?",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "spreektaal"
+  },
+  {
+    "sentence": "Je hoeft je voor ons echt niet ______ te kleden, kom gewoon zoals je bent.",
+    "options": ["om", "aan", "uit", "in"],
+    "correct": 0,
+    "explanation": "'Zich omkleden' = iets anders aantrekken. Bij een infinitief met 'te' schuift 'te' tussen prefix en werkwoord: om te kleden.",
+    "wrongExplanations": {
+      "1": "'Aan te kleden' zou betekenen dat de gast anders zonder kleren komt. De boodschap is: je hoeft niets ánders aan te trekken.",
+      "2": "'Uit te kleden' = kleren uittrekken. Dat vraag je een gast sowieso niet.",
+      "3": "'In te kleden' = een boodschap formuleren. Dat past hier niet."
+    },
+    "hint": "De gast hoeft geen andere kleren aan te trekken. Welk prefix komt vóór 'te kleden' bij een kledingwissel?",
+    "tense": "infinitive",
+    "wordOrder": "standard",
+    "register": "spreektaal"
+  },
+  {
+    "sentence": "Jarenlang ______ zij het ambt van burgemeester in een kleine gemeente.",
+    "options": ["bekleedde", "verkleedde", "omkleedde", "ontkleedde"],
+    "correct": 0,
+    "explanation": "'Een ambt bekleden' = een officiële positie vervullen. Net als 'een functie bekleden' een vaste formele combinatie; in de verleden tijd: bekleedde.",
+    "wrongExplanations": {
+      "1": "'Verkleedde' hoort bij kostuums. Een ambt is geen kostuum.",
+      "2": "'Omkleedde' past hier niet; bij een ambt of functie hoort de vaste combinatie met bekleden.",
+      "3": "'Ontkleedde' = formeel voor uitkleden. Dat doe je niet met een ambt."
+    },
+    "hint": "Vaste formele combinatie met 'ambt', net als met 'functie'. Welk werkwoord betekent 'een positie vervullen'?",
+    "tense": "imperfectum",
+    "wordOrder": "inversion",
+    "register": "formeel"
+  },
+  {
+    "sentence": "De nieuwe procedure is met extra waarborgen ______.",
+    "options": ["omkleed", "bekleed", "ingekleed", "aangekleed"],
+    "correct": 0,
+    "explanation": "'Met waarborgen omkleed' = voorzien van garanties en zekerheden. Net als 'met redenen omkleed' een formele uitdrukking met het onscheidbare omkléden, dus zonder 'ge'.",
+    "wrongExplanations": {
+      "1": "'Bekleed' hoort bij functies en meubels. 'Met waarborgen bekleed' bestaat niet.",
+      "2": "'Ingekleed' = op een bepaalde manier geformuleerd. Waarborgen zijn inhoudelijke garanties, geen formulering.",
+      "3": "'Aangekleed' = versierd met extra's. Waarborgen versieren een procedure niet; ze omgeven haar met zekerheid."
+    },
+    "hint": "Formele uitdrukking: 'met redenen ______', 'met waarborgen ______'. Welk onscheidbaar deelwoord zonder 'ge' past hier?",
+    "tense": "perfectum",
+    "wordOrder": "standard",
+    "register": "formeel"
+  },
+  {
+    "sentence": "Voor de verrassing ______ opa zich stiekem als clown op zolder.",
+    "options": ["verkleedde", "bekleedde", "ontkleedde", "inkleedde"],
+    "correct": 0,
+    "explanation": "'Zich verkleden als' = een kostuum aantrekken. 'Verkleden' is onscheidbaar, dus de verleden tijd blijft één woord: hij verkleedde zich.",
+    "wrongExplanations": {
+      "1": "'Bekleedde' hoort bij functies en meubels. Opa bekleedt zich niet als clown.",
+      "2": "'Ontkleedde' = formeel voor uitkleden. Opa trok juist iets bijzonders aan.",
+      "3": "'Inkleedde' = formuleerde een boodschap. Dat doe je niet op zolder met een clownspak."
+    },
+    "hint": "Een clownspak is een kostuum, en er staat 'als clown'. Welk onscheidbaar werkwoord blijft hier één woord?",
+    "tense": "imperfectum",
+    "wordOrder": "inversion",
+    "register": "neutraal"
+  },
+  {
+    "sentence": "Ze kleedde haar pop eerst ______ en trok haar daarna een pyjamaatje aan.",
+    "options": ["uit", "om", "in", "af"],
+    "correct": 0,
+    "explanation": "'Iemand uitkleden' = de kleren uittrekken. Eerst gaan de kleertjes van de pop uit, daarna komt de pyjama aan.",
+    "wrongExplanations": {
+      "1": "'Omkleden' = de hele wissel in één keer. Hier worden de twee stappen apart genoemd: eerst uit, daarna de pyjama aan.",
+      "2": "'Inkleden' = een boodschap formuleren. Dat doe je niet met een pop.",
+      "3": "'Afkleden' = slanker doen lijken: 'zwart kleedt af'. Een pop kleed je niet af."
+    },
+    "hint": "Twee stappen: eerst de kleertjes ______, daarna de pyjama aan. Welk los prefix hoort bij 'uittrekken'?",
+    "tense": "imperfectum",
+    "wordOrder": "standard",
+    "register": "neutraal"
+  }
+]

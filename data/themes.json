@@ -105,6 +105,13 @@
     "color": "#5F8A7A"
   },
   {
+    "id": "kleden",
+    "label": "-kleden",
+    "description": "aankleden · omkleden · verkleden · bekleden",
+    "emoji": "👕",
+    "color": "#A35D6A"
+  },
+  {
     "id": "preposities",
     "label": "Preposities",
     "description": "wachten op · denken aan · zorgen voor · houden van",
